@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/河道管理条例",
+  "title": "中华人民共和国河道管理条例",
+  "description": "1988年6月10日 中华人民共和国国务院令第3号发布",
+  "source": "@site/google/行政法规/河道管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/河道管理条例",
+  "permalink": "/google/行政法规/河道管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/河道管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "汶川地震灾后恢复重建条例",
+    "permalink": "/google/行政法规/汶川地震灾后恢复重建条例"
+  },
+  "next": {
+    "title": "治安保卫委员会暂行组织条例",
+    "permalink": "/google/行政法规/治安保卫委员会暂行组织条例"
+  }
+}

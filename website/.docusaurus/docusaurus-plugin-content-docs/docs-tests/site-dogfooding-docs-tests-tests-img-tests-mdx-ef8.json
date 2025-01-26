@@ -1,0 +1,25 @@
+{
+  "id": "tests/img-tests",
+  "title": "Image tests",
+  "description": "URL encoded image",
+  "source": "@site/_dogfooding/_docs tests/tests/img-tests.mdx",
+  "sourceDirName": "tests",
+  "slug": "/tests/img-tests",
+  "permalink": "/tests/docs/tests/img-tests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "image": "./img/oss_logo.png"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc Without Custom Props",
+    "permalink": "/tests/docs/tests/custom-props/doc-without-custom-props"
+  },
+  "next": {
+    "title": "Import Bad Package",
+    "permalink": "/tests/docs/tests/import-bad-package"
+  }
+}

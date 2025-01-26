@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于内地与澳门特别行政区就仲裁程序相互协助保全的安排",
+  "title": "最高人民法院关于内地与澳门特别行政区就仲裁程序相互协助保全的安排",
+  "description": "最高人民法院",
+  "source": "@site/google/司法解释/关于内地与澳门特别行政区就仲裁程序相互协助保全的安排.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于内地与澳门特别行政区就仲裁程序相互协助保全的安排",
+  "permalink": "/google/司法解释/关于内地与澳门特别行政区就仲裁程序相互协助保全的安排",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于内地与澳门特别行政区就仲裁程序相互协助保全的安排.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于内地与澳门特别行政区关于相互认可和执行民商事判决的安排",
+    "permalink": "/google/司法解释/关于内地与澳门特别行政区关于相互认可和执行民商事判决的安排"
+  },
+  "next": {
+    "title": "最高人民法院关于内地与澳门特别行政区法院就民商事案件相互委托送达司法文书和调取证据的安排",
+    "permalink": "/google/司法解释/关于内地与澳门特别行政区法院就民商事案件相互委托送达司法文书和调取证据的安排"
+  }
+}

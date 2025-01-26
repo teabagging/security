@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/国际货物运输代理业管理规定",
+  "title": "中华人民共和国国际货物运输代理业管理规定",
+  "description": "1995年6月6日 国务院批准",
+  "source": "@site/google/行政法规/国际货物运输代理业管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/国际货物运输代理业管理规定",
+  "permalink": "/google/行政法规/国际货物运输代理业管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/国际货物运输代理业管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "国际航行船舶进出中华人民共和国口岸检查办法",
+    "permalink": "/google/行政法规/国际航行船舶进出口岸检查办法"
+  },
+  "next": {
+    "title": "中华人民共和国土地增值税暂行条例",
+    "permalink": "/google/行政法规/土地增值税暂行条例"
+  }
+}

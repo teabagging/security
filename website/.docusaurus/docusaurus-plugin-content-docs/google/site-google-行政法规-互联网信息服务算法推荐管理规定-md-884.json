@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/互联网信息服务算法推荐管理规定",
+  "title": "互联网信息服务算法推荐管理规定",
+  "description": "2021年11月16日 国家互联网信息办公室2021年第20次室务会议审议通过",
+  "source": "@site/google/行政法规/互联网信息服务算法推荐管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/互联网信息服务算法推荐管理规定",
+  "permalink": "/google/行政法规/互联网信息服务算法推荐管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/互联网信息服务算法推荐管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "互联网上网服务营业场所管理条例",
+    "permalink": "/google/行政法规/互联网上网服务营业场所管理条例"
+  },
+  "next": {
+    "title": "互联网信息服务管理办法",
+    "permalink": "/google/行政法规/互联网信息服务管理办法"
+  }
+}

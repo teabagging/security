@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/非机动船舶海上安全航行暂行规则",
+  "title": "中华人民共和国非机动船舶海上安全航行暂行规则",
+  "description": "1958年3月17日 国务院批准",
+  "source": "@site/google/行政法规/非机动船舶海上安全航行暂行规则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/非机动船舶海上安全航行暂行规则",
+  "permalink": "/google/行政法规/非机动船舶海上安全航行暂行规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/非机动船舶海上安全航行暂行规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "集成电路布图设计保护条例",
+    "permalink": "/google/行政法规/集成电路布图设计保护条例"
+  },
+  "next": {
+    "title": "非法金融机构和非法金融业务活动取缔办法",
+    "permalink": "/google/行政法规/非法金融机构和非法金融业务活动取缔办法"
+  }
+}

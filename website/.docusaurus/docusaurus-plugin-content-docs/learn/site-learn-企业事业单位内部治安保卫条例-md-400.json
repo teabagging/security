@@ -1,0 +1,24 @@
+{
+  "id": "企业事业单位内部治安保卫条例",
+  "title": "企业事业单位内部治安保卫条例",
+  "description": "中华人民共和国国务院令（第４２１号）",
+  "source": "@site/learn/企业事业单位内部治安保卫条例.md",
+  "sourceDirName": ".",
+  "slug": "/企业事业单位内部治安保卫条例",
+  "permalink": "/learn/企业事业单位内部治安保卫条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/企业事业单位内部治安保卫条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中文谣言数据",
+    "permalink": "/learn/中文谣言数据"
+  },
+  "next": {
+    "title": "保安服务管理条例1",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例1"
+  }
+}

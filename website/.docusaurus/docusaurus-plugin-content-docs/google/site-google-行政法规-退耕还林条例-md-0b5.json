@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/退耕还林条例",
+  "title": "退耕还林条例",
+  "description": "2002年12月14日 中华人民共和国国务院令第367号公布",
+  "source": "@site/google/行政法规/退耕还林条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/退耕还林条例",
+  "permalink": "/google/行政法规/退耕还林条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/退耕还林条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "退役士兵安置条例",
+    "permalink": "/google/行政法规/退役士兵安置条例"
+  },
+  "next": {
+    "title": "通用航空飞行管制条例",
+    "permalink": "/google/行政法规/通用航空飞行管制条例"
+  }
+}

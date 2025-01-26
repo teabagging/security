@@ -1,0 +1,24 @@
+{
+  "id": "行政法/青藏高原生态保护法",
+  "title": "中华人民共和国青藏高原生态保护法",
+  "description": "2023年4月26日 第十四届全国人民代表大会常务委员会第二次会议通过",
+  "source": "@site/google/行政法/青藏高原生态保护法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/青藏高原生态保护法",
+  "permalink": "/google/行政法/青藏高原生态保护法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/青藏高原生态保护法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国防震减灾法",
+    "permalink": "/google/行政法/防震减灾法"
+  },
+  "next": {
+    "title": "中华人民共和国非物质文化遗产法",
+    "permalink": "/google/行政法/非物质文化遗产法"
+  }
+}

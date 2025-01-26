@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/市场监督管理总局/医疗器械生产监督管理办法",
+  "title": "医疗器械生产监督管理办法",
+  "description": "2022年3月10日 国家市场监督管理总局令第53号公布",
+  "source": "@site/google/部门规章/市场监督管理总局/医疗器械生产监督管理办法.md",
+  "sourceDirName": "部门规章/市场监督管理总局",
+  "slug": "/部门规章/市场监督管理总局/医疗器械生产监督管理办法",
+  "permalink": "/google/部门规章/市场监督管理总局/医疗器械生产监督管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/市场监督管理总局/医疗器械生产监督管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "医疗器械注册与备案管理办法",
+    "permalink": "/google/部门规章/市场监督管理总局/医疗器械注册与备案管理办法"
+  },
+  "next": {
+    "title": "医疗器械经营监督管理办法",
+    "permalink": "/google/部门规章/市场监督管理总局/医疗器械经营监督管理办法"
+  }
+}

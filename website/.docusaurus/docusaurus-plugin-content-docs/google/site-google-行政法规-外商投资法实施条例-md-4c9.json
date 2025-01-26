@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外商投资法实施条例",
+  "title": "中华人民共和国外商投资法实施条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/外商投资法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外商投资法实施条例",
+  "permalink": "/google/行政法规/外商投资法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外商投资法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "外债统计监测暂行规定",
+    "permalink": "/google/行政法规/外债统计监测暂行规定"
+  },
+  "next": {
+    "title": "外商投资电信企业管理规定",
+    "permalink": "/google/行政法规/外商投资电信企业管理规定"
+  }
+}

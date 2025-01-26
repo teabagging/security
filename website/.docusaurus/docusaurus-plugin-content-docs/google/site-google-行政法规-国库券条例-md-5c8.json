@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/国库券条例",
+  "title": "中华人民共和国国库券条例",
+  "description": "1992年3月18日 中华人民共和国国务院令第95号发布",
+  "source": "@site/google/行政法规/国库券条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/国库券条例",
+  "permalink": "/google/行政法规/国库券条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/国库券条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国国家金库条例",
+    "permalink": "/google/行政法规/国家金库条例"
+  },
+  "next": {
+    "title": "国有企业富余职工安置规定",
+    "permalink": "/google/行政法规/国有企业富余职工安置规定"
+  }
+}

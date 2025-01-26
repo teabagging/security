@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/企业投资项目核准和备案管理条例",
+  "title": "企业投资项目核准和备案管理条例",
+  "description": "2016年10月8日 国务院第149次常务会议通过",
+  "source": "@site/google/行政法规/企业投资项目核准和备案管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/企业投资项目核准和备案管理条例",
+  "permalink": "/google/行政法规/企业投资项目核准和备案管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/企业投资项目核准和备案管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国企业所得税法实施条例",
+    "permalink": "/google/行政法规/企业所得税法实施条例"
+  },
+  "next": {
+    "title": "企业法人法定代表人登记管理规定",
+    "permalink": "/google/行政法规/企业法人法定代表人登记管理规定"
+  }
+}

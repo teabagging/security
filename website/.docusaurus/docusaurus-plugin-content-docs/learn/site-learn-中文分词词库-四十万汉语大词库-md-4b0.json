@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/四十万汉语大词库",
+  "title": "四十万汉语大词库",
+  "description": "吖吖",
+  "source": "@site/learn/中文分词词库/四十万汉语大词库.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/四十万汉语大词库",
+  "permalink": "/learn/中文分词词库/四十万汉语大词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/四十万汉语大词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "四十万可用搜狗txt词库",
+    "permalink": "/learn/中文分词词库/四十万可用搜狗txt词库"
+  },
+  "next": {
+    "title": "搜狗词库方法",
+    "permalink": "/learn/中文分词词库/搜狗词库方法"
+  }
+}

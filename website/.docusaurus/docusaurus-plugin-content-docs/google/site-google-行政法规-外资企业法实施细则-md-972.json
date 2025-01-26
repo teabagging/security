@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外资企业法实施细则",
+  "title": "中华人民共和国外资企业法实施细则",
+  "description": "1990年10月28日 国务院批准",
+  "source": "@site/google/行政法规/外资企业法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外资企业法实施细则",
+  "permalink": "/google/行政法规/外资企业法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外资企业法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国外汇管理条例",
+    "permalink": "/google/行政法规/外汇管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国外资保险公司管理条例",
+    "permalink": "/google/行政法规/外资保险公司管理条例"
+  }
+}

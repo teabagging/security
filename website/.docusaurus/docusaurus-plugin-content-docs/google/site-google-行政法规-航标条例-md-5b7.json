@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/航标条例",
+  "title": "中华人民共和国航标条例",
+  "description": "1995年12月3日 中华人民共和国国务院令第187号发布",
+  "source": "@site/google/行政法规/航标条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/航标条例",
+  "permalink": "/google/行政法规/航标条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/航标条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "自然灾害救助条例",
+    "permalink": "/google/行政法规/自然灾害救助条例"
+  },
+  "next": {
+    "title": "中华人民共和国航道管理条例",
+    "permalink": "/google/行政法规/航道管理条例"
+  }
+}

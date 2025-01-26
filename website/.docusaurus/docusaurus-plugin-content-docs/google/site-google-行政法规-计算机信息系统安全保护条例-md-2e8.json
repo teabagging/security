@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/计算机信息系统安全保护条例",
+  "title": "中华人民共和国计算机信息系统安全保护条例",
+  "description": "1994年2月18日 中华人民共和国国务院令第147号发布",
+  "source": "@site/google/行政法规/计算机信息系统安全保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/计算机信息系统安全保护条例",
+  "permalink": "/google/行政法规/计算机信息系统安全保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/计算机信息系统安全保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "计划生育技术服务管理条例",
+    "permalink": "/google/行政法规/计划生育技术服务管理条例"
+  },
+  "next": {
+    "title": "计算机信息网络国际联网安全保护管理办法",
+    "permalink": "/google/行政法规/计算机信息网络国际联网安全保护管理办法"
+  }
+}

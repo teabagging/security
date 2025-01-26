@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/海关行政处罚实施条例",
+  "title": "中华人民共和国海关行政处罚实施条例",
+  "description": "2004年9月1日 国务院第62次常务会议通过",
+  "source": "@site/google/行政法规/海关行政处罚实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/海关行政处罚实施条例",
+  "permalink": "/google/行政法规/海关行政处罚实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/海关行政处罚实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国海关统计条例",
+    "permalink": "/google/行政法规/海关统计条例"
+  },
+  "next": {
+    "title": "中华人民共和国海洋倾废管理条例",
+    "permalink": "/google/行政法规/海洋倾废管理条例"
+  }
+}

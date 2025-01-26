@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/英文名字",
+  "title": "英文名字",
+  "description": "By@萌名NameMoe",
+  "source": "@site/learn/中文分词词库/英文名字.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/英文名字",
+  "permalink": "/learn/中文分词词库/英文名字",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/英文名字.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "百度分词词库",
+    "permalink": "/learn/中文分词词库/百度分词词库"
+  },
+  "next": {
+    "title": "词库下载地址",
+    "permalink": "/learn/中文分词词库/词库下载地址"
+  }
+}

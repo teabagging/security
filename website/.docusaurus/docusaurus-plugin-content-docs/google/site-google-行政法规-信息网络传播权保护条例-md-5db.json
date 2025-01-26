@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/信息网络传播权保护条例",
+  "title": "信息网络传播权保护条例",
+  "description": "2006年5月18日 中华人民共和国国务院令第468号公布",
+  "source": "@site/google/行政法规/信息网络传播权保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/信息网络传播权保护条例",
+  "permalink": "/google/行政法规/信息网络传播权保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/信息网络传播权保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国保障措施条例",
+    "permalink": "/google/行政法规/保障措施条例"
+  },
+  "next": {
+    "title": "信访工作条例",
+    "permalink": "/google/行政法规/信访工作条例"
+  }
+}

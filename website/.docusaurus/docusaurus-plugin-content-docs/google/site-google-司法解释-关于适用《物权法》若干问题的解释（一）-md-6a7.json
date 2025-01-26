@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于适用《物权法》若干问题的解释（一）",
+  "title": "最高人民法院关于适用《中华人民共和国物权法》若干问题的解释（一）",
+  "description": "为正确审理物权纠纷案件，根据《中华人民共和国物权法》的相关规定，结合民事审判实践，制定本解释。",
+  "source": "@site/google/司法解释/关于适用《物权法》若干问题的解释（一）.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于适用《物权法》若干问题的解释（一）",
+  "permalink": "/google/司法解释/关于适用《物权法》若干问题的解释（一）",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于适用《物权法》若干问题的解释（一）.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于适用《中华人民共和国涉外民事关系法律适用法》若干问题的解释（二）",
+    "permalink": "/google/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（二）"
+  },
+  "next": {
+    "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》的解释",
+    "permalink": "/google/司法解释/关于适用《行政诉讼法》的解释"
+  }
+}

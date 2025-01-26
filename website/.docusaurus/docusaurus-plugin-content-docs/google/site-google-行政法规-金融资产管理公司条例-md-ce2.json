@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/金融资产管理公司条例",
+  "title": "金融资产管理公司条例",
+  "description": "2000年11月1日 国务院第32次常务会议通过",
+  "source": "@site/google/行政法规/金融资产管理公司条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/金融资产管理公司条例",
+  "permalink": "/google/行政法规/金融资产管理公司条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/金融资产管理公司条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "金融机构撤销条例",
+    "permalink": "/google/行政法规/金融机构撤销条例"
+  },
+  "next": {
+    "title": "金融违法行为处罚办法",
+    "permalink": "/google/行政法规/金融违法行为处罚办法"
+  }
+}

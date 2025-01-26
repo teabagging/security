@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/教学成果奖励条例",
+  "title": "教学成果奖励条例",
+  "description": "1994年3月14日 中华人民共和国国务院令第151号发布",
+  "source": "@site/google/行政法规/教学成果奖励条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/教学成果奖励条例",
+  "permalink": "/google/行政法规/教学成果奖励条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/教学成果奖励条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国政府采购法实施条例",
+    "permalink": "/google/行政法规/政府采购法实施条例"
+  },
+  "next": {
+    "title": "教师资格条例",
+    "permalink": "/google/行政法规/教师资格条例"
+  }
+}

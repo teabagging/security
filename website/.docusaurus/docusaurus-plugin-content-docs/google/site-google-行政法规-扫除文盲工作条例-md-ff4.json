@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/扫除文盲工作条例",
+  "title": "扫除文盲工作条例",
+  "description": "1988年2月5日 国务院发布",
+  "source": "@site/google/行政法规/扫除文盲工作条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/扫除文盲工作条例",
+  "permalink": "/google/行政法规/扫除文盲工作条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/扫除文盲工作条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国打捞沉船管理办法",
+    "permalink": "/google/行政法规/打捞沉船管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国技术进出口管理条例",
+    "permalink": "/google/行政法规/技术进出口管理条例"
+  }
+}

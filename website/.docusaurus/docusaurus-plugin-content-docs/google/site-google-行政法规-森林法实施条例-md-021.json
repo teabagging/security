@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/森林法实施条例",
+  "title": "中华人民共和国森林法实施条例",
+  "description": "2000年1月29日 中华人民共和国国务院令第278号发布",
+  "source": "@site/google/行政法规/森林法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/森林法实施条例",
+  "permalink": "/google/行政法规/森林法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/森林法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "森林和野生动物类型自然保护区管理办法",
+    "permalink": "/google/行政法规/森林和野生动物类型自然保护区管理办法"
+  },
+  "next": {
+    "title": "森林病虫害防治条例",
+    "permalink": "/google/行政法规/森林病虫害防治条例"
+  }
+}

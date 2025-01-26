@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例17",
+  "title": "保安服务管理条例17",
+  "description": "第九章  附    则",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例17.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例17",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例17",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例17.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例16",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例16"
+  },
+  "next": {
+    "title": "保安服务管理条例18",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例18"
+  }
+}

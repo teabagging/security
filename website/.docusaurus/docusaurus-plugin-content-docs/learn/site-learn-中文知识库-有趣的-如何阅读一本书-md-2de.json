@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/如何阅读一本书",
+  "title": "如何阅读一本书",
+  "description": "* 不想做正事的时候，先开始尝试做五分钟再说！",
+  "source": "@site/learn/中文知识库/有趣的/如何阅读一本书.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/如何阅读一本书",
+  "permalink": "/learn/中文知识库/有趣的/如何阅读一本书",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/如何阅读一本书.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "吃皇粮与学习生存",
+    "permalink": "/learn/中文知识库/有趣的/吃皇粮与学习生存"
+  },
+  "next": {
+    "title": "控制分配思考",
+    "permalink": "/learn/中文知识库/有趣的/控制分配思考"
+  }
+}

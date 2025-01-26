@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/宗教事务条例",
+  "title": "宗教事务条例",
+  "description": "2004年11月30日 中华人民共和国国务院令第426号公布",
+  "source": "@site/google/行政法规/宗教事务条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/宗教事务条例",
+  "permalink": "/google/行政法规/宗教事务条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/宗教事务条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "安全生产许可证条例",
+    "permalink": "/google/行政法规/安全生产许可证条例"
+  },
+  "next": {
+    "title": "实施国际著作权条约的规定",
+    "permalink": "/google/行政法规/实施国际著作权条约的规定"
+  }
+}

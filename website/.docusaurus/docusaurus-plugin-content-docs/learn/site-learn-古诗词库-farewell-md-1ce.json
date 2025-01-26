@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/farewell",
+  "title": "farewell",
+  "description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。",
+  "source": "@site/learn/古诗词库/farewell.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/farewell",
+  "permalink": "/learn/古诗词库/farewell",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/farewell.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "expressemotion",
+    "permalink": "/learn/古诗词库/expressemotion"
+  },
+  "next": {
+    "title": "flower",
+    "permalink": "/learn/古诗词库/flower"
+  }
+}

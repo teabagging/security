@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/电子签名法",
+  "title": "中华人民共和国电子签名法",
+  "description": "2004年8月28日 第十届全国人民代表大会常务委员会第十一次会议通过",
+  "source": "@site/google/民法商法/电子签名法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/电子签名法",
+  "permalink": "/google/民法商法/电子签名法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/电子签名法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国电子商务法",
+    "permalink": "/google/民法商法/电子商务法"
+  },
+  "next": {
+    "title": "中华人民共和国票据法",
+    "permalink": "/google/民法商法/票据法"
+  }
+}

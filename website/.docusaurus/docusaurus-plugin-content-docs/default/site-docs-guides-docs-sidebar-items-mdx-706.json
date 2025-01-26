@@ -1,0 +1,22 @@
+{
+  "id": "guides/docs/sidebar/items",
+  "title": "Sidebar items",
+  "description": "Delete a map from My Maps",
+  "source": "@site/docs/guides/docs/sidebar/items.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar/items",
+  "permalink": "/docs/sidebar/items",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "toc_max_heading_level": 4,
+    "slug": "/sidebar/items"
+  },
+  "sidebar": "defaultSidebar",
+  "previous": {
+    "title": "Sidebar",
+    "permalink": "/docs/sidebar"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例15",
+  "title": "保安服务管理条例15",
+  "description": "第五十二条  本条例自2010年1月1日起施行。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例15.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例15",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例15",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例15.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例14",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例14"
+  },
+  "next": {
+    "title": "保安服务管理条例16",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例16"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/药品行政保护条例",
+  "title": "药品行政保护条例",
+  "description": "1992年12月12日 国务院批准",
+  "source": "@site/google/行政法规/药品行政保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/药品行政保护条例",
+  "permalink": "/google/行政法规/药品行政保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/药品行政保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国药品管理法实施条例",
+    "permalink": "/google/行政法规/药品管理法实施条例"
+  },
+  "next": {
+    "title": "营业性演出管理条例",
+    "permalink": "/google/行政法规/营业性演出管理条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/在线视频下载与网课资源",
+  "title": "在线视频下载与网课资源",
+  "description": "在线视频下载",
+  "source": "@site/learn/中文知识库/集成实用夹/在线视频下载与网课资源.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/在线视频下载与网课资源",
+  "permalink": "/learn/中文知识库/集成实用夹/在线视频下载与网课资源",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/在线视频下载与网课资源.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "分析辅助图",
+    "permalink": "/learn/中文知识库/集成实用夹/分析辅助图"
+  },
+  "next": {
+    "title": "基层职场入门",
+    "permalink": "/learn/中文知识库/集成实用夹/基层职场入门"
+  }
+}

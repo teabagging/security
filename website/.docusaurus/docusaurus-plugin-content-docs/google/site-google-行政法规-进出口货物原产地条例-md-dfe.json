@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/进出口货物原产地条例",
+  "title": "中华人民共和国进出口货物原产地条例",
+  "description": "2004年9月3日 中华人民共和国国务院令第416号公布",
+  "source": "@site/google/行政法规/进出口货物原产地条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/进出口货物原产地条例",
+  "permalink": "/google/行政法规/进出口货物原产地条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/进出口货物原产地条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国进出口商品检验法实施条例",
+    "permalink": "/google/行政法规/进出口商品检验法实施条例"
+  },
+  "next": {
+    "title": "中华人民共和国进出境动植物检疫法实施条例",
+    "permalink": "/google/行政法规/进出境动植物检疫法实施条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "刑法/刑法",
+  "title": "中华人民共和国刑法",
+  "description": "1979年7月1日 第五届全国人民代表大会第二次会议通过",
+  "source": "@site/google/刑法/刑法.md",
+  "sourceDirName": "刑法",
+  "slug": "/刑法/",
+  "permalink": "/google/刑法/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/刑法/刑法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "劳动仲裁和劳动诉讼的攻略",
+    "permalink": "/google/其他/劳动仲裁和劳动诉讼的攻略"
+  },
+  "next": {
+    "title": "中华人民共和国刑法修正案",
+    "permalink": "/google/刑法/刑法修正案"
+  }
+}

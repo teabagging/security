@@ -1,0 +1,24 @@
+{
+  "id": "诉讼与非诉讼程序法/人民调解法",
+  "title": "中华人民共和国人民调解法",
+  "description": "2010年8月28日 第十一届全国人民代表大会常务委员会第十六次会议通过",
+  "source": "@site/google/诉讼与非诉讼程序法/人民调解法.md",
+  "sourceDirName": "诉讼与非诉讼程序法",
+  "slug": "/诉讼与非诉讼程序法/人民调解法",
+  "permalink": "/google/诉讼与非诉讼程序法/人民调解法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/诉讼与非诉讼程序法/人民调解法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "黄河水量调度条例",
+    "permalink": "/google/行政法规/黄河水量调度条例"
+  },
+  "next": {
+    "title": "中华人民共和国仲裁法",
+    "permalink": "/google/诉讼与非诉讼程序法/仲裁法"
+  }
+}

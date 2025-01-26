@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/httpcws",
+  "title": "httpcws",
+  "description": "10号线",
+  "source": "@site/learn/中文分词词库/httpcws.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/httpcws",
+  "permalink": "/learn/中文分词词库/httpcws",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/httpcws.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "fingerDic",
+    "permalink": "/learn/中文分词词库/fingerDic"
+  },
+  "next": {
+    "title": "out",
+    "permalink": "/learn/中文分词词库/out"
+  }
+}

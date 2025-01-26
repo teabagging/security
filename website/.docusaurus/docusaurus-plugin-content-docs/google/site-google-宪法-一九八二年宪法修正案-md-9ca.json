@@ -1,0 +1,24 @@
+{
+  "id": "宪法/一九八二年宪法修正案",
+  "title": "一九八二年宪法修正案",
+  "description": "一九八八年《中华人民共和国宪法修正案》 ##",
+  "source": "@site/google/宪法/一九八二年宪法修正案.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/一九八二年宪法修正案",
+  "permalink": "/google/宪法/一九八二年宪法修正案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/一九八二年宪法修正案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法（1982年）",
+    "permalink": "/google/宪法/一九八二年宪法"
+  },
+  "next": {
+    "title": "中华人民共和国个人所得税法",
+    "permalink": "/google/宪法/中华人民共和国个人所得税法"
+  }
+}

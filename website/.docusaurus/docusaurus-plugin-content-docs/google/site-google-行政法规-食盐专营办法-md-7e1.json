@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/食盐专营办法",
+  "title": "食盐专营办法",
+  "description": "1996年5月27日 中华人民共和国国务院令第197号发布",
+  "source": "@site/google/行政法规/食盐专营办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/食盐专营办法",
+  "permalink": "/google/行政法规/食盐专营办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/食盐专营办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国食品安全法实施条例",
+    "permalink": "/google/行政法规/食品安全法实施条例"
+  },
+  "next": {
+    "title": "食盐加碘消除碘缺乏危害管理条例",
+    "permalink": "/google/行政法规/食盐加碘消除碘缺乏危害管理条例"
+  }
+}

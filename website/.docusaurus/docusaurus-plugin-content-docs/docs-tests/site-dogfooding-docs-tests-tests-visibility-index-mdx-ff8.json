@@ -1,0 +1,33 @@
+{
+  "id": "tests/visibility/index",
+  "title": "Visibility",
+  "description": "A category to play with draft/unlisted front matter.",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/index.mdx",
+  "sourceDirName": "tests/visibility",
+  "slug": "/tests/visibility/",
+  "permalink": "/tests/docs/tests/visibility/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": false,
+      "label": "Visibility",
+      "permalink": "/tests/docs/tags/visibility"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "visibility"
+    ]
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "TOC partial test",
+    "permalink": "/tests/docs/tests/toc-partials/"
+  },
+  "next": {
+    "title": "Some Drafts - Listed 1",
+    "permalink": "/tests/docs/tests/visibility/some-drafts/draft-subcategory/listed1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/miss",
+  "title": "miss",
+  "description": "昔往我矣，杨柳依依。今我来思，雨雪霏霏。行道迟迟，载渴载饥。我心悲伤，莫知我哀！",
+  "source": "@site/learn/古诗词库/miss.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/miss",
+  "permalink": "/learn/古诗词库/miss",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/miss.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "love",
+    "permalink": "/learn/古诗词库/love"
+  },
+  "next": {
+    "title": "moon",
+    "permalink": "/learn/古诗词库/moon"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "宪法/一九五四年宪法",
+  "title": "中华人民共和国宪法（1954年）",
+  "description": "生效日期：一九五四年九月二十日",
+  "source": "@site/google/宪法/一九五四年宪法.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/一九五四年宪法",
+  "permalink": "/google/宪法/一九五四年宪法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/一九五四年宪法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法（1978年）",
+    "permalink": "/google/宪法/一九七八年宪法"
+  },
+  "next": {
+    "title": "中华人民共和国宪法（1982年）",
+    "permalink": "/google/宪法/一九八二年宪法"
+  }
+}

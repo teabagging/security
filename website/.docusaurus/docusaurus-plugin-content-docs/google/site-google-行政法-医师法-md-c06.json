@@ -1,0 +1,24 @@
+{
+  "id": "行政法/医师法",
+  "title": "中华人民共和国医师法",
+  "description": "2021年8月20日 第十三届全国人民代表大会常务委员会第三十次会议通过",
+  "source": "@site/google/行政法/医师法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/医师法",
+  "permalink": "/google/行政法/医师法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/医师法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国出境入境管理法",
+    "permalink": "/google/行政法/出境入境管理法"
+  },
+  "next": {
+    "title": "中华人民共和国反电信网络诈骗法",
+    "permalink": "/google/行政法/反电信网络诈骗法"
+  }
+}

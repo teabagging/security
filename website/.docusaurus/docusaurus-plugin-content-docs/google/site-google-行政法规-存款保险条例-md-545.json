@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/存款保险条例",
+  "title": "存款保险条例",
+  "description": "2014年10月29日 国务院第67次常务会议通过",
+  "source": "@site/google/行政法规/存款保险条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/存款保险条例",
+  "permalink": "/google/行政法规/存款保险条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/存款保险条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "婚姻登记条例",
+    "permalink": "/google/行政法规/婚姻登记条例"
+  },
+  "next": {
+    "title": "学校体育工作条例",
+    "permalink": "/google/行政法规/学校体育工作条例"
+  }
+}

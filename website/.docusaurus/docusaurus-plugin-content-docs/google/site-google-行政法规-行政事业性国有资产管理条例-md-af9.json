@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/行政事业性国有资产管理条例",
+  "title": "行政事业性国有资产管理条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/行政事业性国有资产管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/行政事业性国有资产管理条例",
+  "permalink": "/google/行政法规/行政事业性国有资产管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/行政事业性国有资产管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "血液制品管理条例",
+    "permalink": "/google/行政法规/血液制品管理条例"
+  },
+  "next": {
+    "title": "行政区划管理条例",
+    "permalink": "/google/行政法规/行政区划管理条例"
+  }
+}

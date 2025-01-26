@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/fingerDic",
+  "title": "fingerDic",
+  "description": "冮瑞",
+  "source": "@site/learn/中文分词词库/fingerDic.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/fingerDic",
+  "permalink": "/learn/中文分词词库/fingerDic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/fingerDic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "IT词库",
+    "permalink": "/learn/中文分词词库/IT词库"
+  },
+  "next": {
+    "title": "httpcws",
+    "permalink": "/learn/中文分词词库/httpcws"
+  }
+}

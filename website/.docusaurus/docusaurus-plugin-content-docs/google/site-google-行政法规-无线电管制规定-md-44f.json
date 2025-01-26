@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/无线电管制规定",
+  "title": "中华人民共和国无线电管制规定",
+  "description": "2010年8月31日 中华人民共和国国务院、中华人民共和国中央军事委员会令第579号公布",
+  "source": "@site/google/行政法规/无线电管制规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/无线电管制规定",
+  "permalink": "/google/行政法规/无线电管制规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/无线电管制规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "旅馆业治安管理办法",
+    "permalink": "/google/行政法规/旅馆业治安管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国无线电管理条例",
+    "permalink": "/google/行政法规/无线电管理条例"
+  }
+}

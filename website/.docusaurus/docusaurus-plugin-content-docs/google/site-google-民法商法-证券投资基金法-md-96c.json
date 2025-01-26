@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/证券投资基金法",
+  "title": "中华人民共和国证券投资基金法",
+  "description": "2003年10月28日 第十届全国人民代表大会常务委员会第五次会议通过",
+  "source": "@site/google/民法商法/证券投资基金法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/证券投资基金法",
+  "permalink": "/google/民法商法/证券投资基金法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/证券投资基金法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国著作权法",
+    "permalink": "/google/民法商法/著作权法"
+  },
+  "next": {
+    "title": "中华人民共和国证券法",
+    "permalink": "/google/民法商法/证券法"
+  }
+}

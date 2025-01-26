@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例32",
+  "title": "保安服务管理条例32",
+  "description": "第二十六条  保安从业单位对保安服务中获知的国家秘密、商业秘密以及客户单位明确要求保密的信息，应当予以保密。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例32.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例32",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例32",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例32.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例31",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例31"
+  },
+  "next": {
+    "title": "保安服务管理条例33",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例33"
+  }
+}

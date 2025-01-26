@@ -1,0 +1,24 @@
+{
+  "id": "经济法/企业所得税法",
+  "title": "中华人民共和国企业所得税法",
+  "description": "2007年3月16日 第十届全国人民代表大会第五次会议通过",
+  "source": "@site/google/经济法/企业所得税法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/企业所得税法",
+  "permalink": "/google/经济法/企业所得税法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/企业所得税法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国企业国有资产法",
+    "permalink": "/google/经济法/企业国有资产法"
+  },
+  "next": {
+    "title": "中华人民共和国会计法",
+    "permalink": "/google/经济法/会计法"
+  }
+}

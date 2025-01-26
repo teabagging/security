@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/flower",
+  "title": "flower",
+  "description": "明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年。听取蛙声一片。 七八个星天外，两三点雨山前。旧时茅店社林边。路转溪头忽见。",
+  "source": "@site/learn/古诗词库/flower.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/flower",
+  "permalink": "/learn/古诗词库/flower",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/flower.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "farewell",
+    "permalink": "/learn/古诗词库/farewell"
+  },
+  "next": {
+    "title": "friendship",
+    "permalink": "/learn/古诗词库/friendship"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/建设工程抗震管理条例",
+  "title": "建设工程抗震管理条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/建设工程抗震管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/建设工程抗震管理条例",
+  "permalink": "/google/行政法规/建设工程抗震管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/建设工程抗震管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "建设工程安全生产管理条例",
+    "permalink": "/google/行政法规/建设工程安全生产管理条例"
+  },
+  "next": {
+    "title": "建设工程质量管理条例",
+    "permalink": "/google/行政法规/建设工程质量管理条例"
+  }
+}

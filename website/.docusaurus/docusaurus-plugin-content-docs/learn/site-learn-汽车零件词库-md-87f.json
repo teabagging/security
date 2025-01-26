@@ -1,0 +1,24 @@
+{
+  "id": "汽车零件词库",
+  "title": "汽车零件词库",
+  "description": "轿车\t1424796",
+  "source": "@site/learn/汽车零件词库.md",
+  "sourceDirName": ".",
+  "slug": "/汽车零件词库",
+  "permalink": "/learn/汽车零件词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/汽车零件词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "汽车品牌",
+    "permalink": "/learn/汽车品牌"
+  },
+  "next": {
+    "title": "法律词库",
+    "permalink": "/learn/法律词库"
+  }
+}

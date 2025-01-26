@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于内地与香港特别行政区相互执行仲裁裁决的安排",
+  "title": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的安排",
+  "description": "1999年6月18日 最高人民法院审判委员会第1069次会议通过",
+  "source": "@site/google/司法解释/关于内地与香港特别行政区相互执行仲裁裁决的安排.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于内地与香港特别行政区相互执行仲裁裁决的安排",
+  "permalink": "/google/司法解释/关于内地与香港特别行政区相互执行仲裁裁决的安排",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于内地与香港特别行政区相互执行仲裁裁决的安排.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排",
+    "permalink": "/google/司法解释/关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排"
+  },
+  "next": {
+    "title": "最高人民法院关于内地与香港特别行政区相互执行仲裁裁决的补充安排",
+    "permalink": "/google/司法解释/关于内地与香港特别行政区相互执行仲裁裁决的补充安排"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/view",
+  "title": "view",
+  "description": "寒蝉凄切。对长亭晚，骤雨初歇。都门帐饮无绪，留恋处、兰舟催发。执手相看泪眼，竟无语凝噎。念去去、千里烟波，暮霭沈沈楚天阔。 多情自古伤离别。更那堪、冷落清秋节。今宵酒醒何处，杨柳岸、晓风残月。此去经年，应",
+  "source": "@site/learn/古诗词库/view.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/view",
+  "permalink": "/learn/古诗词库/view",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/view.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "tangshi",
+    "permalink": "/learn/古诗词库/tangshi"
+  },
+  "next": {
+    "title": "wanyue",
+    "permalink": "/learn/古诗词库/wanyue"
+  }
+}

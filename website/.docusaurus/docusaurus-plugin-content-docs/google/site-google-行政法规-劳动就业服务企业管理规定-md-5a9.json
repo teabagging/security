@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/劳动就业服务企业管理规定",
+  "title": "劳动就业服务企业管理规定",
+  "description": "1990年11月22日 中华人民共和国国务院令第66号发布",
+  "source": "@site/google/行政法规/劳动就业服务企业管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/劳动就业服务企业管理规定",
+  "permalink": "/google/行政法规/劳动就业服务企业管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/劳动就业服务企业管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国劳动合同法实施条例",
+    "permalink": "/google/行政法规/劳动合同法实施条例"
+  },
+  "next": {
+    "title": "化妆品卫生监督条例",
+    "permalink": "/google/行政法规/化妆品卫生监督条例"
+  }
+}

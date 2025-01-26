@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例13",
+  "title": "保安服务管理条例13",
+  "description": "第十四条  自行招用保安员的单位，应当自开始保安服务之日起30日内向所在地设区的市级人民政府公安机关备案，备案应当提供下列材料：",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例13.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例13",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例13",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例13.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例12",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例12"
+  },
+  "next": {
+    "title": "保安服务管理条例14",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例14"
+  }
+}

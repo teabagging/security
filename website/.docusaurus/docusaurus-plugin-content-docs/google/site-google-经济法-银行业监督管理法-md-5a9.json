@@ -1,0 +1,24 @@
+{
+  "id": "经济法/银行业监督管理法",
+  "title": "中华人民共和国银行业监督管理法",
+  "description": "2003年12月27日 第十届全国人民代表大会常务委员会第六次会议通过",
+  "source": "@site/google/经济法/银行业监督管理法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/银行业监督管理法",
+  "permalink": "/google/经济法/银行业监督管理法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/银行业监督管理法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国铁路法",
+    "permalink": "/google/经济法/铁路法"
+  },
+  "next": {
+    "title": "中华人民共和国长江保护法",
+    "permalink": "/google/经济法/长江保护法"
+  }
+}

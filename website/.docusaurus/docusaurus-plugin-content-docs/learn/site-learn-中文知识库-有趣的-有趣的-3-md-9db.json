@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/有趣的3",
+  "title": "有趣的3",
+  "description": "* 香槟酒盗版资源维基：https://champagne.pages.dev",
+  "source": "@site/learn/中文知识库/有趣的/有趣的3.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/有趣的3",
+  "permalink": "/learn/中文知识库/有趣的/有趣的3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/有趣的3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "有趣的2",
+    "permalink": "/learn/中文知识库/有趣的/有趣的2"
+  },
+  "next": {
+    "title": "有趣的4",
+    "permalink": "/learn/中文知识库/有趣的/有趣的4"
+  }
+}

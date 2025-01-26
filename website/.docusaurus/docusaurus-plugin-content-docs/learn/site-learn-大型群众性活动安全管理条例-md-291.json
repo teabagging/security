@@ -1,0 +1,24 @@
+{
+  "id": "大型群众性活动安全管理条例",
+  "title": "大型群众性活动安全管理条例",
+  "description": "《大型群众性活动安全管理条例》已经２００７年８月２９日国务院第１９０次常务会议通过，现予公布，自２００７年１０月１日起施行。",
+  "source": "@site/learn/大型群众性活动安全管理条例.md",
+  "sourceDirName": ".",
+  "slug": "/大型群众性活动安全管理条例",
+  "permalink": "/learn/大型群众性活动安全管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/大型群众性活动安全管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "地名词库",
+    "permalink": "/learn/地名词库"
+  },
+  "next": {
+    "title": "天津保安协会",
+    "permalink": "/learn/天津保安协会"
+  }
+}

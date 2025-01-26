@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/词库下载地址",
+  "title": "词库下载地址",
+  "description": "http://data.99pan.com/download/3404912150.html?page=1",
+  "source": "@site/learn/中文分词词库/词库下载地址.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/词库下载地址",
+  "permalink": "/learn/中文分词词库/词库下载地址",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/词库下载地址.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "英文名字",
+    "permalink": "/learn/中文分词词库/英文名字"
+  },
+  "next": {
+    "title": "词库地址",
+    "permalink": "/learn/中文分词词库/词库地址"
+  }
+}

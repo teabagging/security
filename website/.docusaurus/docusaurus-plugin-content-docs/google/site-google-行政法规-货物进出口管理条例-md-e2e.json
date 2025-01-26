@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/货物进出口管理条例",
+  "title": "中华人民共和国货物进出口管理条例",
+  "description": "2001年10月31日 国务院第46次常务会议通过",
+  "source": "@site/google/行政法规/货物进出口管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/货物进出口管理条例",
+  "permalink": "/google/行政法规/货物进出口管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/货物进出口管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "财政违法行为处罚处分条例",
+    "permalink": "/google/行政法规/财政违法行为处罚处分条例"
+  },
+  "next": {
+    "title": "中华人民共和国资源税暂行条例",
+    "permalink": "/google/行政法规/资源税暂行条例"
+  }
+}

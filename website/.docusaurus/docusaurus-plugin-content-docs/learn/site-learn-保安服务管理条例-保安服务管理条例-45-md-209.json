@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例45",
+  "title": "保安服务管理条例45",
+  "description": "第三十五条  保安培训单位应当按照保安员培训教学大纲制订教学计划，对接受培训的人员进行法律、保安专业知识和技能培训以及职业道德教育。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例45.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例45",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例45",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例45.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例44",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例44"
+  },
+  "next": {
+    "title": "保安服务管理条例46",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例46"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案",
+  "title": "经营者不能仅以进口食品已经过出入境检验检疫为由主张免责",
+  "description": "江某诉某信息技术有限公司网络购物合同纠纷一案",
+  "source": "@site/google/案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案.md",
+  "sourceDirName": "案例/消费购物",
+  "slug": "/案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案",
+  "permalink": "/google/案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "对于网络店铺客服的行为店铺应当负责",
+    "permalink": "/google/案例/消费购物/李某诉某书店信息网络买卖合同纠纷案"
+  },
+  "next": {
+    "title": "网络消费格式条款中与消费者有重大利害关系内容存在例外情形，应以显著方式进行提示",
+    "permalink": "/google/案例/消费购物/邬某诉某旅游App经营公司网络服务合同纠纷案"
+  }
+}

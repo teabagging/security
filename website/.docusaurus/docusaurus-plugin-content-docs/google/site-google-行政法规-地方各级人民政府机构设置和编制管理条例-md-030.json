@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/地方各级人民政府机构设置和编制管理条例",
+  "title": "地方各级人民政府机构设置和编制管理条例",
+  "description": "2007年2月14日 国务院第169次常务会议通过",
+  "source": "@site/google/行政法规/地方各级人民政府机构设置和编制管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/地方各级人民政府机构设置和编制管理条例",
+  "permalink": "/google/行政法规/地方各级人民政府机构设置和编制管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/地方各级人民政府机构设置和编制管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "地方口岸管理机构职责范围暂行规定",
+    "permalink": "/google/行政法规/地方口岸管理机构职责范围暂行规定"
+  },
+  "next": {
+    "title": "地方志工作条例",
+    "permalink": "/google/行政法规/地方志工作条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/pr",
+  "title": "pr",
+  "description": "把娱乐圈、主持人的危机公关及临场应变的方法，化为己用，提高自己的情绪管理及观察事物的能力",
+  "source": "@site/learn/中文知识库/有趣的/pr.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/pr",
+  "permalink": "/learn/中文知识库/有趣的/pr",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/pr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "bug",
+    "permalink": "/learn/中文知识库/有趣的/bug"
+  },
+  "next": {
+    "title": "topic",
+    "permalink": "/learn/中文知识库/有趣的/topic"
+  }
+}

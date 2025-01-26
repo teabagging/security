@@ -1,0 +1,24 @@
+{
+  "id": "职业词库",
+  "title": "职业词库",
+  "description": "复合固体推进剂物理机械性能测试工",
+  "source": "@site/learn/职业词库.md",
+  "sourceDirName": ".",
+  "slug": "/职业词库",
+  "permalink": "/learn/职业词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/职业词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "繁简体转换词库",
+    "permalink": "/learn/繁简体转换词库"
+  },
+  "next": {
+    "title": "西安市保安协会",
+    "permalink": "/learn/西安市保安协会"
+  }
+}

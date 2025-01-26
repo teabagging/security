@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/人类遗传资源管理条例",
+  "title": "中华人民共和国人类遗传资源管理条例",
+  "description": "2019年3月20日 国务院第41次常务会议通过",
+  "source": "@site/google/行政法规/人类遗传资源管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/人类遗传资源管理条例",
+  "permalink": "/google/行政法规/人类遗传资源管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/人类遗传资源管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "人民调解委员会组织条例",
+    "permalink": "/google/行政法规/人民调解委员会组织条例"
+  },
+  "next": {
+    "title": "仲裁委员会仲裁收费办法",
+    "permalink": "/google/行政法规/仲裁委员会仲裁收费办法"
+  }
+}

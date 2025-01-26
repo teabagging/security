@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/四十万可用搜狗txt词库",
+  "title": "四十万可用搜狗txt词库",
+  "description": "��ZS�^ \u0000 \u0000b\u0000o\u00002\u0000 \u0000k\u0000u\u00004\u0000 \u0000 \u0000 \u0000\r\u0000",
+  "source": "@site/learn/中文分词词库/四十万可用搜狗txt词库.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/四十万可用搜狗txt词库",
+  "permalink": "/learn/中文分词词库/四十万可用搜狗txt词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/四十万可用搜狗txt词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "否定词库",
+    "permalink": "/learn/中文分词词库/否定词库"
+  },
+  "next": {
+    "title": "四十万汉语大词库",
+    "permalink": "/learn/中文分词词库/四十万汉语大词库"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/注册建筑师条例",
+  "title": "中华人民共和国注册建筑师条例",
+  "description": "1995年9月23日 中华人民共和国国务院令第184号发布",
+  "source": "@site/google/行政法规/注册建筑师条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/注册建筑师条例",
+  "permalink": "/google/行政法规/注册建筑师条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/注册建筑师条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "法规规章备案条例",
+    "permalink": "/google/行政法规/法规规章备案条例"
+  },
+  "next": {
+    "title": "流动人口计划生育工作条例",
+    "permalink": "/google/行政法规/流动人口计划生育工作条例"
+  }
+}

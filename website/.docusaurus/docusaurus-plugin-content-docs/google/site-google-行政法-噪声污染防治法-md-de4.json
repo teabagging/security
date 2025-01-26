@@ -1,0 +1,24 @@
+{
+  "id": "行政法/噪声污染防治法",
+  "title": "中华人民共和国噪声污染防治法",
+  "description": "2021年12月24日 第十三届全国人民代表大会常务委员会第三十二次会议通过",
+  "source": "@site/google/行政法/噪声污染防治法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/噪声污染防治法",
+  "permalink": "/google/行政法/噪声污染防治法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/噪声污染防治法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国反间谍法",
+    "permalink": "/google/行政法/反间谍法"
+  },
+  "next": {
+    "title": "中华人民共和国固体废物污染环境防治法",
+    "permalink": "/google/行政法/固体废物污染环境防治法"
+  }
+}

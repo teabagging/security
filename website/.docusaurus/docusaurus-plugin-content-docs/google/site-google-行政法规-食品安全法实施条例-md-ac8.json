@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/食品安全法实施条例",
+  "title": "中华人民共和国食品安全法实施条例",
+  "description": "2009年7月20日 中华人民共和国国务院令第557号公布",
+  "source": "@site/google/行政法规/食品安全法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/食品安全法实施条例",
+  "permalink": "/google/行政法规/食品安全法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/食品安全法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国飞行基本规则",
+    "permalink": "/google/行政法规/飞行基本规则"
+  },
+  "next": {
+    "title": "食盐专营办法",
+    "permalink": "/google/行政法规/食盐专营办法"
+  }
+}

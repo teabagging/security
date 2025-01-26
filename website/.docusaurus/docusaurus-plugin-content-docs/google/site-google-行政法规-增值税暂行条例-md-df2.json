@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/增值税暂行条例",
+  "title": "中华人民共和国增值税暂行条例",
+  "description": "1993年12月13日 中华人民共和国国务院令第134号公布",
+  "source": "@site/google/行政法规/增值税暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/增值税暂行条例",
+  "permalink": "/google/行政法规/增值税暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/增值税暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国境内外国人宗教活动管理规定",
+    "permalink": "/google/行政法规/境内外国人宗教活动管理规定"
+  },
+  "next": {
+    "title": "外债统计监测暂行规定",
+    "permalink": "/google/行政法规/外债统计监测暂行规定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/涉外民事关系法律适用法",
+  "title": "中华人民共和国涉外民事关系法律适用法",
+  "description": "2010年10月28日 第十一届全国人民代表大会常务委员会第十七次会议通过",
+  "source": "@site/google/民法商法/涉外民事关系法律适用法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/涉外民事关系法律适用法",
+  "permalink": "/google/民法商法/涉外民事关系法律适用法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/涉外民事关系法律适用法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国消费者权益保护法",
+    "permalink": "/google/民法商法/消费者权益保护法"
+  },
+  "next": {
+    "title": "中华人民共和国电子商务法",
+    "permalink": "/google/民法商法/电子商务法"
+  }
+}

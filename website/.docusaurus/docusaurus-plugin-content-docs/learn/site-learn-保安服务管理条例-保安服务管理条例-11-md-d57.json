@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例11",
+  "title": "保安服务管理条例11",
+  "description": "第三章  自行招用保安员的单位",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例11.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例11",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例10",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例10"
+  },
+  "next": {
+    "title": "保安服务管理条例12",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例12"
+  }
+}

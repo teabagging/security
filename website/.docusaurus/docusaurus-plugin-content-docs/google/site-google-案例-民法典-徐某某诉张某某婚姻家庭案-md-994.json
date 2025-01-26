@@ -1,0 +1,24 @@
+{
+  "id": "案例/民法典/徐某某诉张某某婚姻家庭案",
+  "title": "婚姻关系存续期间夫妻共同财产的分割",
+  "description": "徐某某诉张某某婚姻家庭案",
+  "source": "@site/google/案例/民法典/徐某某诉张某某婚姻家庭案.md",
+  "sourceDirName": "案例/民法典",
+  "slug": "/案例/民法典/徐某某诉张某某婚姻家庭案",
+  "permalink": "/google/案例/民法典/徐某某诉张某某婚姻家庭案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/民法典/徐某某诉张某某婚姻家庭案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "成年人国家监护的法律适用与监护主体的“后监护义务”",
+    "permalink": "/google/案例/民法典/张甲诉上海市闵行区民政局法定继承案"
+  },
+  "next": {
+    "title": "无偿搭乘亲友出事故 依法减轻赔偿责任",
+    "permalink": "/google/案例/民法典/无偿搭乘亲友出事故 依法减轻赔偿责任"
+  }
+}

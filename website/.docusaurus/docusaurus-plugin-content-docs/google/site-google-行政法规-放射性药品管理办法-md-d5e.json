@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/放射性药品管理办法",
+  "title": "放射性药品管理办法",
+  "description": "1989年1月13日 中华人民共和国国务院令第25号发布",
+  "source": "@site/google/行政法规/放射性药品管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/放射性药品管理办法",
+  "permalink": "/google/行政法规/放射性药品管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/放射性药品管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "放射性物品运输安全管理条例",
+    "permalink": "/google/行政法规/放射性物品运输安全管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国政府信息公开条例",
+    "permalink": "/google/行政法规/政府信息公开条例"
+  }
+}

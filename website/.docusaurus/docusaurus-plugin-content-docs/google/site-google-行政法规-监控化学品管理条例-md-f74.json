@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/监控化学品管理条例",
+  "title": "中华人民共和国监控化学品管理条例",
+  "description": "1995年12月27日 中华人民共和国国务院令第190号发布",
+  "source": "@site/google/行政法规/监控化学品管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/监控化学品管理条例",
+  "permalink": "/google/行政法规/监控化学品管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/监控化学品管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "病原微生物实验室生物安全管理条例",
+    "permalink": "/google/行政法规/病原微生物实验室生物安全管理条例"
+  },
+  "next": {
+    "title": "直销管理条例",
+    "permalink": "/google/行政法规/直销管理条例"
+  }
+}

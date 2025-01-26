@@ -1,0 +1,24 @@
+{
+  "id": "诉讼与非诉讼程序法/刑事诉讼法",
+  "title": "中华人民共和国刑事诉讼法",
+  "description": "1979年7月1日 第五届全国人民代表大会第二次会议通过",
+  "source": "@site/google/诉讼与非诉讼程序法/刑事诉讼法.md",
+  "sourceDirName": "诉讼与非诉讼程序法",
+  "slug": "/诉讼与非诉讼程序法/刑事诉讼法",
+  "permalink": "/google/诉讼与非诉讼程序法/刑事诉讼法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/诉讼与非诉讼程序法/刑事诉讼法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国农村土地承包经营纠纷调解仲裁法",
+    "permalink": "/google/诉讼与非诉讼程序法/农村土地承包经营纠纷调解仲裁法"
+  },
+  "next": {
+    "title": "中华人民共和国劳动争议调解仲裁法",
+    "permalink": "/google/诉讼与非诉讼程序法/劳动争议调解仲裁法"
+  }
+}

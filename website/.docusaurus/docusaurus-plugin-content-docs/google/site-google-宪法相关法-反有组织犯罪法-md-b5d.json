@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/反有组织犯罪法",
+  "title": "中华人民共和国反有组织犯罪法",
+  "description": "2021年12月24日 第十三届全国人民代表大会常务委员会第三十二次会议通过",
+  "source": "@site/google/宪法相关法/反有组织犯罪法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/反有组织犯罪法",
+  "permalink": "/google/宪法相关法/反有组织犯罪法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/反有组织犯罪法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国反恐怖主义法",
+    "permalink": "/google/宪法相关法/反恐怖主义法"
+  },
+  "next": {
+    "title": "中华人民共和国各级人民代表大会常务委员会监督法",
+    "permalink": "/google/宪法相关法/各级人民代表大会常务委员会监督法"
+  }
+}

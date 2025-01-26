@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于适用《行政诉讼法》的解释",
+  "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》的解释",
+  "description": "2017年11月13日 最高人民法院审判委员会第1726次会议通过",
+  "source": "@site/google/司法解释/关于适用《行政诉讼法》的解释.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于适用《行政诉讼法》的解释",
+  "permalink": "/google/司法解释/关于适用《行政诉讼法》的解释",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于适用《行政诉讼法》的解释.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于适用《中华人民共和国物权法》若干问题的解释（一）",
+    "permalink": "/google/司法解释/关于适用《物权法》若干问题的解释（一）"
+  },
+  "next": {
+    "title": "最高人民法院关于适用《中华人民共和国行政诉讼法》若干问题的解释",
+    "permalink": "/google/司法解释/关于适用《行政诉讼法》若干问题的解释"
+  }
+}

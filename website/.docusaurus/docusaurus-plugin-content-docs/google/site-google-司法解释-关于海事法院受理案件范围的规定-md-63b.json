@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于海事法院受理案件范围的规定",
+  "title": "最高人民法院关于海事法院受理案件范围的规定",
+  "description": "根据《中华人民共和国民事诉讼法》《中华人民共和国海事诉讼特别程序法》《中华人民共和国行政诉讼法》以及我国缔结或者参加的有关国际条约，结合我国海事审判实际，现将海事法院受理案件的范围规定如下：",
+  "source": "@site/google/司法解释/关于海事法院受理案件范围的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于海事法院受理案件范围的规定",
+  "permalink": "/google/司法解释/关于海事法院受理案件范围的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于海事法院受理案件范围的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于民事诉讼证据的若干规定",
+    "permalink": "/google/司法解释/关于民事诉讼证据的若干规定"
+  },
+  "next": {
+    "title": "最高人民法院关于海事诉讼管辖问题的规定",
+    "permalink": "/google/司法解释/关于海事诉讼管辖问题的规定"
+  }
+}

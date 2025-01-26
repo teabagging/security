@@ -1,0 +1,24 @@
+{
+  "id": "其他/劳动仲裁和劳动诉讼的攻略",
+  "title": "劳动仲裁和劳动诉讼的攻略",
+  "description": "该攻略出自",
+  "source": "@site/google/其他/劳动仲裁和劳动诉讼的攻略.md",
+  "sourceDirName": "其他",
+  "slug": "/其他/劳动仲裁和劳动诉讼的攻略",
+  "permalink": "/google/其他/劳动仲裁和劳动诉讼的攻略",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/其他/劳动仲裁和劳动诉讼的攻略.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "人体损伤程度鉴定标准",
+    "permalink": "/google/其他/人体损伤程度鉴定标准"
+  },
+  "next": {
+    "title": "中华人民共和国刑法",
+    "permalink": "/google/刑法/"
+  }
+}

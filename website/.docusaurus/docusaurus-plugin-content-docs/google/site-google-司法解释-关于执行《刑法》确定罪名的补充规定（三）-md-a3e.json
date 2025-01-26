@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于执行《刑法》确定罪名的补充规定（三）",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（三）",
+  "description": "2007年8月27日 最高人民法院审判委员会第1436次会议、2007年9月7日最高人民检察院第十届检察委员会第82次会议通过",
+  "source": "@site/google/司法解释/关于执行《刑法》确定罪名的补充规定（三）.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于执行《刑法》确定罪名的补充规定（三）",
+  "permalink": "/google/司法解释/关于执行《刑法》确定罪名的补充规定（三）",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于执行《刑法》确定罪名的补充规定（三）.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定",
+    "permalink": "/google/司法解释/关于执行《刑法》确定罪名的补充规定"
+  },
+  "next": {
+    "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（二）",
+    "permalink": "/google/司法解释/关于执行《刑法》确定罪名的补充规定（二）"
+  }
+}

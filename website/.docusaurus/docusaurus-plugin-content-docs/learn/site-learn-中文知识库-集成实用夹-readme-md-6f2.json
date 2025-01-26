@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/集成实用夹/readme",
+  "title": "readme",
+  "description": "考驾照",
+  "source": "@site/learn/中文知识库/集成实用夹/readme.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/",
+  "permalink": "/learn/中文知识库/集成实用夹/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "个人电脑软件备忘录",
+    "permalink": "/learn/中文知识库/软件分享及网页备份/个人电脑软件备忘录"
+  },
+  "next": {
+    "title": "readme",
+    "permalink": "/learn/中文知识库/集成实用夹/临时邮箱与虚拟电话/"
+  }
+}

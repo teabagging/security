@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/媒体订阅",
+  "title": "媒体订阅",
+  "description": "英语新闻",
+  "source": "@site/learn/中文知识库/媒体订阅.md",
+  "sourceDirName": "中文知识库",
+  "slug": "/中文知识库/媒体订阅",
+  "permalink": "/learn/中文知识库/媒体订阅",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/媒体订阅.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "大多数",
+    "permalink": "/learn/中文知识库/大多数"
+  },
+  "next": {
+    "title": "有趣的",
+    "permalink": "/learn/中文知识库/有趣的/"
+  }
+}

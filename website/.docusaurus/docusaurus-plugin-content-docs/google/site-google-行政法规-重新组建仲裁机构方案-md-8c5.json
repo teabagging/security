@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/重新组建仲裁机构方案",
+  "title": "重新组建仲裁机构方案",
+  "description": "一、关于重新组建仲裁机构的原则",
+  "source": "@site/google/行政法规/重新组建仲裁机构方案.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/重新组建仲裁机构方案",
+  "permalink": "/google/行政法规/重新组建仲裁机构方案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/重新组建仲裁机构方案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "重大行政决策程序暂行条例",
+    "permalink": "/google/行政法规/重大行政决策程序暂行条例"
+  },
+  "next": {
+    "title": "中华人民共和国野生植物保护条例",
+    "permalink": "/google/行政法规/野生植物保护条例"
+  }
+}

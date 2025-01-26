@@ -1,0 +1,24 @@
+{
+  "id": "案例/消费购物/高某诉杨某网络信息购物合同纠纷案",
+  "title": "销售者在二手商品网站从事经营活动构成欺诈的，应当承担惩罚性赔偿责任",
+  "description": "消费者权益保护典型案例",
+  "source": "@site/google/案例/消费购物/高某诉杨某网络信息购物合同纠纷案.md",
+  "sourceDirName": "案例/消费购物",
+  "slug": "/案例/消费购物/高某诉杨某网络信息购物合同纠纷案",
+  "permalink": "/google/案例/消费购物/高某诉杨某网络信息购物合同纠纷案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/消费购物/高某诉杨某网络信息购物合同纠纷案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "经营者未经许可不得将其掌握的消费者信息用于商业宣传",
+    "permalink": "/google/案例/消费购物/郑某诉某公司网络侵权责任纠纷案"
+  },
+  "next": {
+    "title": "经营未标明基本信息的预包装食品的法律责任",
+    "permalink": "/google/案例/消费购物/魏某诉某科技有限公司网络购物合同纠纷一案"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "社会法/慈善法",
+  "title": "中华人民共和国慈善法",
+  "description": "2016年3月16日 第十二届全国人民代表大会第四次会议通过",
+  "source": "@site/google/社会法/慈善法.md",
+  "sourceDirName": "社会法",
+  "slug": "/社会法/慈善法",
+  "permalink": "/google/社会法/慈善法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/社会法/慈善法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国归侨侨眷权益保护法",
+    "permalink": "/google/社会法/归侨侨眷权益保护法"
+  },
+  "next": {
+    "title": "中华人民共和国无障碍环境建设法",
+    "permalink": "/google/社会法/无障碍环境建设法"
+  }
+}

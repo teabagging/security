@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于审理工伤保险行政案件若干问题的规定",
+  "title": "最高人民法院关于审理工伤保险行政案件若干问题的规定",
+  "description": "为正确审理工伤保险行政案件，根据《中华人民共和国社会保险法》、《中华人民共和国劳动法》、《中华人民共和国行政诉讼法》、《工伤保险条例》及其他有关法律、行政法规规定，结合行政审判实际，制定本规定。",
+  "source": "@site/google/司法解释/关于审理工伤保险行政案件若干问题的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于审理工伤保险行政案件若干问题的规定",
+  "permalink": "/google/司法解释/关于审理工伤保险行政案件若干问题的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于审理工伤保险行政案件若干问题的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于审理存单纠纷案件的若干规定",
+    "permalink": "/google/司法解释/关于审理存单纠纷案件的若干规定"
+  },
+  "next": {
+    "title": "最高人民法院关于审理建筑物区分所有权纠纷案件适用法律若干问题的解释",
+    "permalink": "/google/司法解释/关于审理建筑物区分所有权纠纷案件适用法律若干问题的解释"
+  }
+}

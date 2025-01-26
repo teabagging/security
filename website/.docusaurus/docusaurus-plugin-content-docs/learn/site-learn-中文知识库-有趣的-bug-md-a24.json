@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/bug",
+  "title": "bug",
+  "description": "邪道·阴极暗鬼：",
+  "source": "@site/learn/中文知识库/有趣的/bug.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/bug",
+  "permalink": "/learn/中文知识库/有趣的/bug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/bug.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "有趣的",
+    "permalink": "/learn/中文知识库/有趣的/"
+  },
+  "next": {
+    "title": "pr",
+    "permalink": "/learn/中文知识库/有趣的/pr"
+  }
+}

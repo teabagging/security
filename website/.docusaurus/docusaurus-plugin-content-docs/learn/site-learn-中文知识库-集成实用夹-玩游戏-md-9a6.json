@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/玩游戏",
+  "title": "玩游戏",
+  "description": "听歌",
+  "source": "@site/learn/中文知识库/集成实用夹/玩游戏.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/玩游戏",
+  "permalink": "/learn/中文知识库/集成实用夹/玩游戏",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/玩游戏.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "影响体验",
+    "permalink": "/learn/中文知识库/集成实用夹/影响体验"
+  },
+  "next": {
+    "title": "短链接生成",
+    "permalink": "/learn/中文知识库/集成实用夹/短链接生成"
+  }
+}

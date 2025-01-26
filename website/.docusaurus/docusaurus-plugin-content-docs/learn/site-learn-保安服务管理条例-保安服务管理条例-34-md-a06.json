@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例34",
+  "title": "保安服务管理条例34",
+  "description": "第八章  法律责任",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例34.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例34",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例34",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例34.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例33",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例33"
+  },
+  "next": {
+    "title": "保安服务管理条例35",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例35"
+  }
+}

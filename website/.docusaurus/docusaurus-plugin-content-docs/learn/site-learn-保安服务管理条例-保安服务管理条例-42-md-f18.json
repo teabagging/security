@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例42",
+  "title": "保安服务管理条例42",
+  "description": "第四十四条  保安从业单位因保安员不执行违法指令而解除与保安员的劳动合同，降低其劳动报酬和其他待遇，或者停缴、少缴依法应当为其缴纳的社会保险费的，对保安从业单位的处罚和对保安员的赔偿依照有关劳动合同和社会保险的法律、行政法规的规定执行。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例42.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例42",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例42",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例42.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例41",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例41"
+  },
+  "next": {
+    "title": "保安服务管理条例43",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例43"
+  }
+}

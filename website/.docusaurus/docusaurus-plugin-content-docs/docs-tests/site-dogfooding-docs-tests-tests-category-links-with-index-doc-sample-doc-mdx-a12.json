@@ -1,0 +1,23 @@
+{
+  "id": "tests/category-links/with-index-doc/sample-doc",
+  "title": "Sample doc",
+  "description": "Lorem Ipsum",
+  "source": "@site/_dogfooding/_docs tests/tests/category-links/with-index-doc/sample-doc.mdx",
+  "sourceDirName": "tests/category-links/with-index-doc",
+  "slug": "/tests/category-links/with-index-doc/sample-doc",
+  "permalink": "/tests/docs/tests/category-links/with-index-doc/sample-doc",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Category with index.md doc",
+    "permalink": "/tests/docs/tests/category-links/with-index-doc/"
+  },
+  "next": {
+    "title": "Category with readme.md doc",
+    "permalink": "/tests/docs/tests/category-links/with-readme-doc/"
+  }
+}

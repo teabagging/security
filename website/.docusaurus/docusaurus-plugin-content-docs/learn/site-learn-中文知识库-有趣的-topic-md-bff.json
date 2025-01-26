@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/topic",
+  "title": "topic",
+  "description": "stu & emp",
+  "source": "@site/learn/中文知识库/有趣的/topic.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/topic",
+  "permalink": "/learn/中文知识库/有趣的/topic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/topic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "pr",
+    "permalink": "/learn/中文知识库/有趣的/pr"
+  },
+  "next": {
+    "title": "乌托邦致幻之境！",
+    "permalink": "/learn/中文知识库/有趣的/乌托邦致幻之境！"
+  }
+}

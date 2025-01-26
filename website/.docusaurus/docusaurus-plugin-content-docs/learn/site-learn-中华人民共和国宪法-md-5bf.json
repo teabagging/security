@@ -1,0 +1,24 @@
+{
+  "id": "中华人民共和国宪法",
+  "title": "中华人民共和国宪法",
+  "description": "中华人民共和国宪法",
+  "source": "@site/learn/中华人民共和国宪法.md",
+  "sourceDirName": ".",
+  "slug": "/中华人民共和国宪法",
+  "permalink": "/learn/中华人民共和国宪法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中华人民共和国宪法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "专职守护押运人员枪支使用管理条例",
+    "permalink": "/learn/专职守护押运人员枪支使用管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国治安管理处罚法",
+    "permalink": "/learn/中华人民共和国治安管理处罚法"
+  }
+}

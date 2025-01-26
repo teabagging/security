@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/血吸虫病防治条例",
+  "title": "血吸虫病防治条例",
+  "description": "2006年4月1日 中华人民共和国国务院令第463号公布",
+  "source": "@site/google/行政法规/血吸虫病防治条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/血吸虫病防治条例",
+  "permalink": "/google/行政法规/血吸虫病防治条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/血吸虫病防治条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "融资担保公司监督管理条例",
+    "permalink": "/google/行政法规/融资担保公司监督管理条例"
+  },
+  "next": {
+    "title": "血液制品管理条例",
+    "permalink": "/google/行政法规/血液制品管理条例"
+  }
+}

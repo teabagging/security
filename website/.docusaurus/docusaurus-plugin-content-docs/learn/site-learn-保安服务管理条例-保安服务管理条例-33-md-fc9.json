@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例33",
+  "title": "保安服务管理条例33",
+  "description": "第二十四条  保安服务公司应当按照保安服务业服务标准提供规范的保安服务，保安服务公司派出的保安员应当遵守客户单位的有关规章制度。客户单位应当为保安员从事保安服务提供必要的条件和保障。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例33.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例33",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例33",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例33.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例32",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例32"
+  },
+  "next": {
+    "title": "保安服务管理条例34",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例34"
+  }
+}

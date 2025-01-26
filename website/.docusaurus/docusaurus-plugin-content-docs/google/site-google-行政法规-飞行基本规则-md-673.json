@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/飞行基本规则",
+  "title": "中华人民共和国飞行基本规则",
+  "description": "2000年7月24日 中华人民共和国国务院、中华人民共和国中央军事委员会令第288号公布",
+  "source": "@site/google/行政法规/飞行基本规则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/飞行基本规则",
+  "permalink": "/google/行政法规/飞行基本规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/飞行基本规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "风景名胜区条例",
+    "permalink": "/google/行政法规/风景名胜区条例"
+  },
+  "next": {
+    "title": "中华人民共和国食品安全法实施条例",
+    "permalink": "/google/行政法规/食品安全法实施条例"
+  }
+}

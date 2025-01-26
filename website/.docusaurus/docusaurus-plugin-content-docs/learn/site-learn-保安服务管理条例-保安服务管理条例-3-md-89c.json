@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例3",
+  "title": "保安服务管理条例3",
+  "description": "第五条  保安从业单位应当依法保障保安员在社会保险、劳动用工、劳动保护、工资福利、教育培训等方面的合法权益。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例3.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例3",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例29",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例29"
+  },
+  "next": {
+    "title": "保安服务管理条例30",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例30"
+  }
+}

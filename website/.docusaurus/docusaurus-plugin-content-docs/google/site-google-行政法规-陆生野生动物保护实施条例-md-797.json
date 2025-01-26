@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/陆生野生动物保护实施条例",
+  "title": "中华人民共和国陆生野生动物保护实施条例",
+  "description": "1992年2月12日 国务院批准",
+  "source": "@site/google/行政法规/陆生野生动物保护实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/陆生野生动物保护实施条例",
+  "permalink": "/google/行政法规/陆生野生动物保护实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/陆生野生动物保护实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "防范和处置非法集资条例",
+    "permalink": "/google/行政法规/防范和处置非法集资条例"
+  },
+  "next": {
+    "title": "中华人民共和国集会游行示威法实施条例",
+    "permalink": "/google/行政法规/集会游行示威法实施条例"
+  }
+}

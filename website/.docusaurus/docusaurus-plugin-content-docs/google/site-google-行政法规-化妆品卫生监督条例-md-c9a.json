@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/化妆品卫生监督条例",
+  "title": "化妆品卫生监督条例",
+  "description": "1989年9月26日 国务院批准",
+  "source": "@site/google/行政法规/化妆品卫生监督条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/化妆品卫生监督条例",
+  "permalink": "/google/行政法规/化妆品卫生监督条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/化妆品卫生监督条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "劳动就业服务企业管理规定",
+    "permalink": "/google/行政法规/劳动就业服务企业管理规定"
+  },
+  "next": {
+    "title": "化妆品监督管理条例",
+    "permalink": "/google/行政法规/化妆品监督管理条例"
+  }
+}

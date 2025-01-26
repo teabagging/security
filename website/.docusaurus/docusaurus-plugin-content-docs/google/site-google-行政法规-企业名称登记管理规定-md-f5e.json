@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/企业名称登记管理规定",
+  "title": "企业名称登记管理规定",
+  "description": "1991年5月6日 中华人民共和国国家工商行政管理局令第7号发布",
+  "source": "@site/google/行政法规/企业名称登记管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/企业名称登记管理规定",
+  "permalink": "/google/行政法规/企业名称登记管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/企业名称登记管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "企业债券管理条例",
+    "permalink": "/google/行政法规/企业债券管理条例"
+  },
+  "next": {
+    "title": "企业国有资产产权登记管理办法",
+    "permalink": "/google/行政法规/企业国有资产产权登记管理办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中华人民共和国治安管理处罚法",
+  "title": "中华人民共和国治安管理处罚法",
+  "description": "中华人民共和国主席令",
+  "source": "@site/learn/中华人民共和国治安管理处罚法.md",
+  "sourceDirName": ".",
+  "slug": "/中华人民共和国治安管理处罚法",
+  "permalink": "/learn/中华人民共和国治安管理处罚法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中华人民共和国治安管理处罚法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法",
+    "permalink": "/learn/中华人民共和国宪法"
+  },
+  "next": {
+    "title": "中文停用词库",
+    "permalink": "/learn/中文停用词库"
+  }
+}

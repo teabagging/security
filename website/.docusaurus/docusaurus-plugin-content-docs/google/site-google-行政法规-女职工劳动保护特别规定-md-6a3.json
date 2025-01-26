@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/女职工劳动保护特别规定",
+  "title": "女职工劳动保护特别规定",
+  "description": "2012年4月18日 国务院第200次常务会议通过",
+  "source": "@site/google/行政法规/女职工劳动保护特别规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/女职工劳动保护特别规定",
+  "permalink": "/google/行政法规/女职工劳动保护特别规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/女职工劳动保护特别规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "奥林匹克标志保护条例",
+    "permalink": "/google/行政法规/奥林匹克标志保护条例"
+  },
+  "next": {
+    "title": "娱乐场所管理条例",
+    "permalink": "/google/行政法规/娱乐场所管理条例"
+  }
+}

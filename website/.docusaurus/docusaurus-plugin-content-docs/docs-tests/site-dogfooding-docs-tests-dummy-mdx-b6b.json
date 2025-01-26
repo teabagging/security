@@ -1,0 +1,17 @@
+{
+  "id": "dummy",
+  "title": "Just a dummy page",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/dummy.mdx",
+  "sourceDirName": ".",
+  "slug": "/dummy.html",
+  "permalink": "/tests/docs/dummy.html",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "dummy.html"
+  },
+  "sidebar": "anotherSidebar"
+}

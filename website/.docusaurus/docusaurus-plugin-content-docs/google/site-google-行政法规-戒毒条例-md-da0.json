@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/戒毒条例",
+  "title": "戒毒条例",
+  "description": "2011年6月26日 中华人民共和国国务院令第597号公布",
+  "source": "@site/google/行政法规/戒毒条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/戒毒条例",
+  "permalink": "/google/行政法规/戒毒条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/戒毒条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "总会计师条例",
+    "permalink": "/google/行政法规/总会计师条例"
+  },
+  "next": {
+    "title": "中华人民共和国房产税暂行条例",
+    "permalink": "/google/行政法规/房产税暂行条例"
+  }
+}

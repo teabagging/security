@@ -1,0 +1,24 @@
+{
+  "id": "诉讼与非诉讼程序法/海事诉讼特别程序法",
+  "title": "中华人民共和国海事诉讼特别程序法",
+  "description": "1999年12月25日 第九届全国人民代表大会常务委员会第十三次会议通过",
+  "source": "@site/google/诉讼与非诉讼程序法/海事诉讼特别程序法.md",
+  "sourceDirName": "诉讼与非诉讼程序法",
+  "slug": "/诉讼与非诉讼程序法/海事诉讼特别程序法",
+  "permalink": "/google/诉讼与非诉讼程序法/海事诉讼特别程序法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/诉讼与非诉讼程序法/海事诉讼特别程序法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国民事诉讼法",
+    "permalink": "/google/诉讼与非诉讼程序法/民事诉讼法"
+  },
+  "next": {
+    "title": "中华人民共和国行政复议法",
+    "permalink": "/google/诉讼与非诉讼程序法/行政复议法"
+  }
+}

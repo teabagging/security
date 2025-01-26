@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/军品出口管理条例",
+  "title": "中华人民共和国军品出口管理条例",
+  "description": "1997年10月22日 中华人民共和国国务院、中华人民共和国中央军事委员会令第234号发布",
+  "source": "@site/google/行政法规/军品出口管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/军品出口管理条例",
+  "permalink": "/google/行政法规/军品出口管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/军品出口管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "军人抚恤优待条例",
+    "permalink": "/google/行政法规/军人抚恤优待条例"
+  },
+  "next": {
+    "title": "军工关键设备设施管理条例",
+    "permalink": "/google/行政法规/军工关键设备设施管理条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于审理侵犯商业秘密民事案件适用法律若干问题的规定",
+  "title": "最高人民法院关于审理侵犯商业秘密民事案件适用法律若干问题的规定",
+  "description": "2020年8月24日 最高人民法院审判委员会第1810次会议通过",
+  "source": "@site/google/司法解释/关于审理侵犯商业秘密民事案件适用法律若干问题的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于审理侵犯商业秘密民事案件适用法律若干问题的规定",
+  "permalink": "/google/司法解释/关于审理侵犯商业秘密民事案件适用法律若干问题的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于审理侵犯商业秘密民事案件适用法律若干问题的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于审理侵犯专利权纠纷案件应用法律若干问题的解释（二）",
+    "permalink": "/google/司法解释/关于审理侵犯专利权纠纷案件应用法律若干问题的解释（二）"
+  },
+  "next": {
+    "title": "最高人民法院关于审理信用证纠纷案件若干问题的规定",
+    "permalink": "/google/司法解释/关于审理信用证纠纷案件若干问题的规定"
+  }
+}

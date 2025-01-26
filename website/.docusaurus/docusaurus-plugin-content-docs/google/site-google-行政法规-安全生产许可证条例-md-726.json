@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/安全生产许可证条例",
+  "title": "安全生产许可证条例",
+  "description": "2004年1月13日 中华人民共和国国务院令第397号公布",
+  "source": "@site/google/行政法规/安全生产许可证条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/安全生产许可证条例",
+  "permalink": "/google/行政法规/安全生产许可证条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/安全生产许可证条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "学校卫生工作条例",
+    "permalink": "/google/行政法规/学校卫生工作条例"
+  },
+  "next": {
+    "title": "宗教事务条例",
+    "permalink": "/google/行政法规/宗教事务条例"
+  }
+}

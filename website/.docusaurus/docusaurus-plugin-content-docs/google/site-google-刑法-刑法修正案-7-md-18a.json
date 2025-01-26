@@ -1,0 +1,24 @@
+{
+  "id": "刑法/刑法修正案7",
+  "title": "中华人民共和国刑法修正案（七）",
+  "description": "2009年2月28日 第十一届全国人民代表大会常务委员会第七次会议通过",
+  "source": "@site/google/刑法/刑法修正案7.md",
+  "sourceDirName": "刑法",
+  "slug": "/刑法/刑法修正案7",
+  "permalink": "/google/刑法/刑法修正案7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/刑法/刑法修正案7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国刑法修正案（六）",
+    "permalink": "/google/刑法/刑法修正案6"
+  },
+  "next": {
+    "title": "中华人民共和国刑法修正案（八）",
+    "permalink": "/google/刑法/刑法修正案8"
+  }
+}

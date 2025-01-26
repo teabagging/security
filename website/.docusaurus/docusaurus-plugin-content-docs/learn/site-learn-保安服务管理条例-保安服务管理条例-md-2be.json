@@ -1,0 +1,26 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例",
+  "title": "保安服务管理条例",
+  "description": "中华人民共和国国务院令",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/",
+  "permalink": "/learn/保安服务管理条例/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "企业事业单位内部治安保卫条例",
+    "permalink": "/learn/企业事业单位内部治安保卫条例"
+  },
+  "next": {
+    "title": "公安机关实施保安服务管理条例办法",
+    "permalink": "/learn/公安机关实施保安服务管理条例办法"
+  }
+}

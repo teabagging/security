@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/城市民族工作条例",
+  "title": "城市民族工作条例",
+  "description": "1993年8月29日 国务院批准",
+  "source": "@site/google/行政法规/城市民族工作条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/城市民族工作条例",
+  "permalink": "/google/行政法规/城市民族工作条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/城市民族工作条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "城市房地产开发经营管理条例",
+    "permalink": "/google/行政法规/城市房地产开发经营管理条例"
+  },
+  "next": {
+    "title": "城市生活无着的流浪乞讨人员救助管理办法",
+    "permalink": "/google/行政法规/城市生活无着的流浪乞讨人员救助管理办法"
+  }
+}

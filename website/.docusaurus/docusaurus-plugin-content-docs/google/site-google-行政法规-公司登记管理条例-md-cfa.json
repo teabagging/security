@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/公司登记管理条例",
+  "title": "中华人民共和国公司登记管理条例",
+  "description": "1994年6月24日 中华人民共和国国务院令第156号公布",
+  "source": "@site/google/行政法规/公司登记管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/公司登记管理条例",
+  "permalink": "/google/行政法规/公司登记管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/公司登记管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "公共机构节能条例",
+    "permalink": "/google/行政法规/公共机构节能条例"
+  },
+  "next": {
+    "title": "公安机关督察条例",
+    "permalink": "/google/行政法规/公安机关督察条例"
+  }
+}

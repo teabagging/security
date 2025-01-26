@@ -1,0 +1,24 @@
+{
+  "id": "历史名人词库",
+  "title": "历史名人词库",
+  "description": "毛泽东\t61678",
+  "source": "@site/learn/历史名人词库.md",
+  "sourceDirName": ".",
+  "slug": "/历史名人词库",
+  "permalink": "/learn/历史名人词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/历史名人词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "医学词库",
+    "permalink": "/learn/医学词库"
+  },
+  "next": {
+    "title": "bird",
+    "permalink": "/learn/古诗词库/bird"
+  }
+}

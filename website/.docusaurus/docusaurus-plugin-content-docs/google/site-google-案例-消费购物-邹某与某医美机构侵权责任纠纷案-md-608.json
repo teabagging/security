@@ -1,0 +1,24 @@
+{
+  "id": "案例/消费购物/邹某与某医美机构侵权责任纠纷案",
+  "title": "医疗美容机构虚假宣传和诊疗过错行为造成患者损害应予赔偿",
+  "description": "消费者权益保护典型案例",
+  "source": "@site/google/案例/消费购物/邹某与某医美机构侵权责任纠纷案.md",
+  "sourceDirName": "案例/消费购物",
+  "slug": "/案例/消费购物/邹某与某医美机构侵权责任纠纷案",
+  "permalink": "/google/案例/消费购物/邹某与某医美机构侵权责任纠纷案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/消费购物/邹某与某医美机构侵权责任纠纷案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "网络消费格式条款中与消费者有重大利害关系内容存在例外情形，应以显著方式进行提示",
+    "permalink": "/google/案例/消费购物/邬某诉某旅游App经营公司网络服务合同纠纷案"
+  },
+  "next": {
+    "title": "惩罚性赔偿不以造成人身损害为前提",
+    "permalink": "/google/案例/消费购物/郑某与某儿童食品公司网络购物合同纠纷案"
+  }
+}

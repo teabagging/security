@@ -1,0 +1,24 @@
+{
+  "id": "汽车品牌",
+  "title": "汽车品牌",
+  "description": "阿蒂玛",
+  "source": "@site/learn/汽车品牌.md",
+  "sourceDirName": ".",
+  "slug": "/汽车品牌",
+  "permalink": "/learn/汽车品牌",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/汽车品牌.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "拆字词库",
+    "permalink": "/learn/拆字词库"
+  },
+  "next": {
+    "title": "汽车零件词库",
+    "permalink": "/learn/汽车零件词库"
+  }
+}

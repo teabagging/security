@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/信访工作条例",
+  "title": "信访工作条例",
+  "description": "2022年1月24日 中共中央政治局会议审议批准",
+  "source": "@site/google/行政法规/信访工作条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/信访工作条例",
+  "permalink": "/google/行政法规/信访工作条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/信访工作条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "信息网络传播权保护条例",
+    "permalink": "/google/行政法规/信息网络传播权保护条例"
+  },
+  "next": {
+    "title": "信访条例",
+    "permalink": "/google/行政法规/信访条例"
+  }
+}

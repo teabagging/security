@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/全国经济普查条例",
+  "title": "全国经济普查条例",
+  "description": "2004年9月5日 中华人民共和国国务院令第415号公布",
+  "source": "@site/google/行政法规/全国经济普查条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/全国经济普查条例",
+  "permalink": "/google/行政法规/全国经济普查条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/全国经济普查条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "全国社会保障基金条例",
+    "permalink": "/google/行政法规/全国社会保障基金条例"
+  },
+  "next": {
+    "title": "全民健身条例",
+    "permalink": "/google/行政法规/全民健身条例"
+  }
+}

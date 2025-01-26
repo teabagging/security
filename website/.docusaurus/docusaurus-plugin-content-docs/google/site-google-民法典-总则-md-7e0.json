@@ -1,0 +1,24 @@
+{
+  "id": "民法典/总则",
+  "title": "中华人民共和国民法典",
+  "description": "2020年5月28日 第十三届全国人民代表大会第三次会议通过",
+  "source": "@site/google/民法典/总则.md",
+  "sourceDirName": "民法典",
+  "slug": "/民法典/总则",
+  "permalink": "/google/民法典/总则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法典/总则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国民法典",
+    "permalink": "/google/民法典/婚姻家庭编"
+  },
+  "next": {
+    "title": "中华人民共和国民法典",
+    "permalink": "/google/民法典/物权编"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/countryside",
+  "title": "countryside",
+  "description": "日照香炉生紫烟，遥看瀑布挂前川。飞流直下三千尺，疑是银河落九天。",
+  "source": "@site/learn/古诗词库/countryside.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/countryside",
+  "permalink": "/learn/古诗词库/countryside",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/countryside.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "boudoirripinings",
+    "permalink": "/learn/古诗词库/boudoirripinings"
+  },
+  "next": {
+    "title": "encouragement",
+    "permalink": "/learn/古诗词库/encouragement"
+  }
+}

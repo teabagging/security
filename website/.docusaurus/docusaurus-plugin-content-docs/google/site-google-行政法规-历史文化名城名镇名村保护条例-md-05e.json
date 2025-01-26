@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/历史文化名城名镇名村保护条例",
+  "title": "历史文化名城名镇名村保护条例",
+  "description": "2008年4月22日 中华人民共和国国务院令第524号公布",
+  "source": "@site/google/行政法规/历史文化名城名镇名村保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/历史文化名城名镇名村保护条例",
+  "permalink": "/google/行政法规/历史文化名城名镇名村保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/历史文化名城名镇名村保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "危险废物经营许可证管理办法",
+    "permalink": "/google/行政法规/危险废物经营许可证管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国反倾销条例",
+    "permalink": "/google/行政法规/反倾销条例"
+  }
+}

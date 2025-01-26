@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/政府投资条例",
+  "title": "政府投资条例",
+  "description": "2018年12月5日 国务院第33次常务会议通过",
+  "source": "@site/google/行政法规/政府投资条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/政府投资条例",
+  "permalink": "/google/行政法规/政府投资条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/政府投资条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "政府参事工作条例",
+    "permalink": "/google/行政法规/政府参事工作条例"
+  },
+  "next": {
+    "title": "政府督查工作条例",
+    "permalink": "/google/行政法规/政府督查工作条例"
+  }
+}

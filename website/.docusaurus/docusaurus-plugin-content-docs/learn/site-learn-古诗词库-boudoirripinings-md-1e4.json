@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/boudoirripinings",
+  "title": "boudoirripinings",
+  "description": "人生若只如初见，何事秋风悲画扇。等闲变却故人心，却道故人心易变。骊山语罢清宵半，泪雨零铃终不怨。何如薄幸锦衣郎，比翼连枝当日愿。",
+  "source": "@site/learn/古诗词库/boudoirripinings.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/boudoirripinings",
+  "permalink": "/learn/古诗词库/boudoirripinings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/boudoirripinings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "bird",
+    "permalink": "/learn/古诗词库/bird"
+  },
+  "next": {
+    "title": "countryside",
+    "permalink": "/learn/古诗词库/countryside"
+  }
+}

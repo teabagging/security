@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例19",
+  "title": "保安服务管理条例19",
+  "description": "第二章  保安服务公司",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例19.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例19",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例19",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例19.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例18",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例18"
+  },
+  "next": {
+    "title": "保安服务管理条例2",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例2"
+  }
+}

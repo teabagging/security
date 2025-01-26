@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/城市市容和环境卫生管理条例",
+  "title": "城市市容和环境卫生管理条例",
+  "description": "1992年6月28日 中华人民共和国国务院令第101号发布",
+  "source": "@site/google/行政法规/城市市容和环境卫生管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/城市市容和环境卫生管理条例",
+  "permalink": "/google/行政法规/城市市容和环境卫生管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/城市市容和环境卫生管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "城市居民最低生活保障条例",
+    "permalink": "/google/行政法规/城市居民最低生活保障条例"
+  },
+  "next": {
+    "title": "城市房地产开发经营管理条例",
+    "permalink": "/google/行政法规/城市房地产开发经营管理条例"
+  }
+}

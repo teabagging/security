@@ -1,0 +1,25 @@
+{
+  "id": "tests/links/target",
+  "title": "Target doc",
+  "description": "This is just a doc meant to be linked to by other docs.",
+  "source": "@site/_dogfooding/_docs tests/tests/links/target.mdx",
+  "sourceDirName": "tests/links",
+  "slug": "/tests/links/target-doc-slug",
+  "permalink": "/tests/docs/tests/links/target-doc-slug",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "target-doc-slug"
+  },
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Broken Anchors tests",
+    "permalink": "/tests/docs/tests/links/broken-anchors-tests"
+  },
+  "next": {
+    "title": "Test links",
+    "permalink": "/tests/docs/tests/links/test-markdown-links"
+  }
+}

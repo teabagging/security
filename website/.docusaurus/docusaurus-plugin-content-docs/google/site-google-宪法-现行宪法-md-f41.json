@@ -1,0 +1,24 @@
+{
+  "id": "宪法/现行宪法",
+  "title": "中华人民共和国宪法（1982年）",
+  "description": "生效日期：二〇〇四年三月十四日",
+  "source": "@site/google/宪法/现行宪法.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/现行宪法",
+  "permalink": "/google/宪法/现行宪法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/现行宪法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法修正案（1999年）",
+    "permalink": "/google/宪法/宪法修正案99"
+  },
+  "next": {
+    "title": "中华人民共和国专属经济区和大陆架法",
+    "permalink": "/google/宪法相关法/专属经济区和大陆架法"
+  }
+}

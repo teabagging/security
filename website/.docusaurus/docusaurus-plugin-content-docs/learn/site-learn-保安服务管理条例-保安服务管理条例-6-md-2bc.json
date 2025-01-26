@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例6",
+  "title": "保安服务管理条例6",
+  "description": "第三十七条  公安机关建立保安服务监督管理信息系统，记录保安从业单位、保安培训单位和保安员的相关信息。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例6.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例6",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例54",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例54"
+  },
+  "next": {
+    "title": "保安服务管理条例7",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例7"
+  }
+}

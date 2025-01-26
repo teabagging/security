@@ -1,0 +1,17 @@
+{
+  "id": "support",
+  "title": "Support",
+  "description": "📊GoogleSheet",
+  "source": "@site/community/0-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/community/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/community/0-support.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "community"
+}

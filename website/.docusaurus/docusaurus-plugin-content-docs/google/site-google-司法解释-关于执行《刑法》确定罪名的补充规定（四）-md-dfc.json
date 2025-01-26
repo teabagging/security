@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于执行《刑法》确定罪名的补充规定（四）",
+  "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（四）",
+  "description": "2009年9月21日 最高人民法院审判委员会第1474次会议、2009年9月28日最高人民检察院第十一届检察委员会第20次会议通过",
+  "source": "@site/google/司法解释/关于执行《刑法》确定罪名的补充规定（四）.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于执行《刑法》确定罪名的补充规定（四）",
+  "permalink": "/google/司法解释/关于执行《刑法》确定罪名的补充规定（四）",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于执行《刑法》确定罪名的补充规定（四）.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院、最高人民检察院关于执行《中华人民共和国刑法》确定罪名的补充规定（六）",
+    "permalink": "/google/司法解释/关于执行《刑法》确定罪名的补充规定（六）"
+  },
+  "next": {
+    "title": "最高人民法院关于执行和解若干问题的规定",
+    "permalink": "/google/司法解释/关于执行和解若干问题的规定"
+  }
+}

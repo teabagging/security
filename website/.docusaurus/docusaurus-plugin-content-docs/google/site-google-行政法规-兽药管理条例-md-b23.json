@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/兽药管理条例",
+  "title": "兽药管理条例",
+  "description": "2004年4月9日 中华人民共和国国务院令第404号公布",
+  "source": "@site/google/行政法规/兽药管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/兽药管理条例",
+  "permalink": "/google/行政法规/兽药管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/兽药管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "关键信息基础设施安全保护条例",
+    "permalink": "/google/行政法规/关键信息基础设施安全保护条例"
+  },
+  "next": {
+    "title": "中华人民共和国内河交通安全管理条例",
+    "permalink": "/google/行政法规/内河交通安全管理条例"
+  }
+}

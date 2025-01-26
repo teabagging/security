@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/病原微生物实验室生物安全管理条例",
+  "title": "病原微生物实验室生物安全管理条例",
+  "description": "2004年11月12日 中华人民共和国国务院令第424号公布",
+  "source": "@site/google/行政法规/病原微生物实验室生物安全管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/病原微生物实验室生物安全管理条例",
+  "permalink": "/google/行政法规/病原微生物实验室生物安全管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/病原微生物实验室生物安全管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "疫苗流通和预防接种管理条例",
+    "permalink": "/google/行政法规/疫苗流通和预防接种管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国监控化学品管理条例",
+    "permalink": "/google/行政法规/监控化学品管理条例"
+  }
+}

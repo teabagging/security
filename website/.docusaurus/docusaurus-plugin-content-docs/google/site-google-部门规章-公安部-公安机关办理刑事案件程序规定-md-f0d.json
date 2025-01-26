@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/公安部/公安机关办理刑事案件程序规定",
+  "title": "公安机关办理刑事案件程序规定",
+  "description": "2012年12月13日 公安部令第127号修订发布。根据",
+  "source": "@site/google/部门规章/公安部/公安机关办理刑事案件程序规定.md",
+  "sourceDirName": "部门规章/公安部",
+  "slug": "/部门规章/公安部/公安机关办理刑事案件程序规定",
+  "permalink": "/google/部门规章/公安部/公安机关办理刑事案件程序规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/公安部/公安机关办理刑事案件程序规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "交通警察道路执勤执法工作规范",
+    "permalink": "/google/部门规章/公安部/交通警察道路执勤执法工作规范"
+  },
+  "next": {
+    "title": "公安机关办理行政案件程序规定",
+    "permalink": "/google/部门规章/公安部/公安机关办理行政案件程序规定"
+  }
+}

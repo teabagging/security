@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/1 有趣的东西(致郁)/topic",
+  "title": "topic",
+  "description": "stu & emp",
+  "source": "@site/learn/中文知识库/有趣的/1 有趣的东西(致郁)/topic.md",
+  "sourceDirName": "中文知识库/有趣的/1 有趣的东西(致郁)",
+  "slug": "/中文知识库/有趣的/1 有趣的东西(致郁)/topic",
+  "permalink": "/learn/中文知识库/有趣的/1 有趣的东西(致郁)/topic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/1 有趣的东西(致郁)/topic.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "pr",
+    "permalink": "/learn/中文知识库/有趣的/1 有趣的东西(致郁)/pr"
+  },
+  "next": {
+    "title": "bug",
+    "permalink": "/learn/中文知识库/有趣的/bug"
+  }
+}

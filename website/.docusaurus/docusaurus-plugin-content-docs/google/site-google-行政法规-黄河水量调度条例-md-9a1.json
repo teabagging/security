@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/黄河水量调度条例",
+  "title": "黄河水量调度条例",
+  "description": "2006年7月5日 国务院第142次常务会议通过",
+  "source": "@site/google/行政法规/黄河水量调度条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/黄河水量调度条例",
+  "permalink": "/google/行政法规/黄河水量调度条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/黄河水量调度条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "麻醉药品和精神药品管理条例",
+    "permalink": "/google/行政法规/麻醉药品和精神药品管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国人民调解法",
+    "permalink": "/google/诉讼与非诉讼程序法/人民调解法"
+  }
+}

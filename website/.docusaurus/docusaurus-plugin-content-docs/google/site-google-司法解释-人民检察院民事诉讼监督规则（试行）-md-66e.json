@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/人民检察院民事诉讼监督规则（试行）",
+  "title": "人民检察院民事诉讼监督规则（试行）",
+  "description": "2013年9月23日 最高人民检察院第十二届检察委员会第十次会议通过",
+  "source": "@site/google/司法解释/人民检察院民事诉讼监督规则（试行）.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/人民检察院民事诉讼监督规则（试行）",
+  "permalink": "/google/司法解释/人民检察院民事诉讼监督规则（试行）",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/人民检察院民事诉讼监督规则（试行）.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "人民检察院提起公益诉讼试点工作实施办法",
+    "permalink": "/google/司法解释/人民检察院提起公益诉讼试点工作实施办法"
+  },
+  "next": {
+    "title": "人民检察院行政诉讼监督规则（试行）",
+    "permalink": "/google/司法解释/人民检察院行政诉讼监督规则（试行）"
+  }
+}

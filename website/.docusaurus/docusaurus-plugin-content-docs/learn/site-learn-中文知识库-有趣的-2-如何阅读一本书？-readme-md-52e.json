@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/2 如何阅读一本书？/README",
+  "title": "README",
+  "description": "* 不想做正事的时候，先开始尝试做五分钟再说！",
+  "source": "@site/learn/中文知识库/有趣的/2 如何阅读一本书？/README.md",
+  "sourceDirName": "中文知识库/有趣的/2 如何阅读一本书？",
+  "slug": "/中文知识库/有趣的/2 如何阅读一本书？/",
+  "permalink": "/learn/中文知识库/有趣的/2 如何阅读一本书？/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/2 如何阅读一本书？/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "topic",
+    "permalink": "/learn/中文知识库/有趣的/1 有趣的东西(致郁)/topic"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/learn/中文知识库/有趣的/2.1 高效学习/"
+  }
+}

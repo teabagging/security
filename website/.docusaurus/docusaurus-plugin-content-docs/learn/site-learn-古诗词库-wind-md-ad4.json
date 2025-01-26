@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/wind",
+  "title": "wind",
+  "description": "春花秋月何时了？往事知多少。小楼昨夜又东风，故国不堪回首月明中。雕栏玉砌应犹在，只是朱颜改。问君能有几多愁？恰似一江春水向东流。",
+  "source": "@site/learn/古诗词库/wind.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/wind",
+  "permalink": "/learn/古诗词库/wind",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/wind.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "willow",
+    "permalink": "/learn/古诗词库/willow"
+  },
+  "next": {
+    "title": "yongshihuaigu",
+    "permalink": "/learn/古诗词库/yongshihuaigu"
+  }
+}

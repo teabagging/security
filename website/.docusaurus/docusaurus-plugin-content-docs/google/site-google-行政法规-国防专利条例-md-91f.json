@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/国防专利条例",
+  "title": "国防专利条例",
+  "description": "2004年9月17日 中华人民共和国国务院、中华人民共和国中央军事委员会令第418号公布",
+  "source": "@site/google/行政法规/国防专利条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/国防专利条例",
+  "permalink": "/google/行政法规/国防专利条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/国防专利条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "国有重点金融机构监事会暂行条例",
+    "permalink": "/google/行政法规/国有重点金融机构监事会暂行条例"
+  },
+  "next": {
+    "title": "国防交通条例",
+    "permalink": "/google/行政法规/国防交通条例"
+  }
+}

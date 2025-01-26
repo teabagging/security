@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/工人考核条例",
+  "title": "工人考核条例",
+  "description": "1990年6月23日 国务院批准",
+  "source": "@site/google/行政法规/工人考核条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/工人考核条例",
+  "permalink": "/google/行政法规/工人考核条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/工人考核条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "工业产品质量责任条例",
+    "permalink": "/google/行政法规/工业产品质量责任条例"
+  },
+  "next": {
+    "title": "工伤保险条例",
+    "permalink": "/google/行政法规/工伤保险条例"
+  }
+}

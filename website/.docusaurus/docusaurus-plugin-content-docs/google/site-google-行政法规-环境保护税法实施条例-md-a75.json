@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/环境保护税法实施条例",
+  "title": "中华人民共和国环境保护税法实施条例",
+  "description": "2017年12月25日 中华人民共和国国务院令第693号公布",
+  "source": "@site/google/行政法规/环境保护税法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/环境保护税法实施条例",
+  "permalink": "/google/行政法规/环境保护税法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/环境保护税法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "特种设备安全监察条例",
+    "permalink": "/google/行政法规/特种设备安全监察条例"
+  },
+  "next": {
+    "title": "现役军人和人民武装警察居民身份证申领发放办法",
+    "permalink": "/google/行政法规/现役军人和人民武装警察居民身份证申领发放办法"
+  }
+}

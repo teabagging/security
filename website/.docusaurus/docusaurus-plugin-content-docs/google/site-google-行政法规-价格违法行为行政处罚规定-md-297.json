@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/价格违法行为行政处罚规定",
+  "title": "价格违法行为行政处罚规定",
+  "description": "1999年7月10日 国务院批准",
+  "source": "@site/google/行政法规/价格违法行为行政处罚规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/价格违法行为行政处罚规定",
+  "permalink": "/google/行政法规/价格违法行为行政处罚规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/价格违法行为行政处罚规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国价格管理条例",
+    "permalink": "/google/行政法规/价格管理条例"
+  },
+  "next": {
+    "title": "企业事业单位内部治安保卫条例",
+    "permalink": "/google/行政法规/企业事业单位内部治安保卫条例"
+  }
+}

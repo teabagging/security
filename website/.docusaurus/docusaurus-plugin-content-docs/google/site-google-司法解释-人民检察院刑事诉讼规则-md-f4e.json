@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/人民检察院刑事诉讼规则",
+  "title": "人民检察院刑事诉讼规则",
+  "description": "2019年12月2日 最高人民检察院第十三届检察委员会第二十八次会议通过",
+  "source": "@site/google/司法解释/人民检察院刑事诉讼规则.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/人民检察院刑事诉讼规则",
+  "permalink": "/google/司法解释/人民检察院刑事诉讼规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/人民检察院刑事诉讼规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院于适用财产刑若干问题的规定",
+    "permalink": "/google/司法解释/于适用财产刑若干问题的规定"
+  },
+  "next": {
+    "title": "人民检察院刑事诉讼规则（试行）",
+    "permalink": "/google/司法解释/人民检察院刑事诉讼规则（试行）"
+  }
+}

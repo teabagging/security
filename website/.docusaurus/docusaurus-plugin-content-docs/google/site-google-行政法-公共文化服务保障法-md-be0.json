@@ -1,0 +1,24 @@
+{
+  "id": "行政法/公共文化服务保障法",
+  "title": "中华人民共和国公共文化服务保障法",
+  "description": "2016年12月25日 第十二届全国人民代表大会常务委员会第二十五次会议通过",
+  "source": "@site/google/行政法/公共文化服务保障法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/公共文化服务保障法",
+  "permalink": "/google/行政法/公共文化服务保障法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/公共文化服务保障法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国公共图书馆法",
+    "permalink": "/google/行政法/公共图书馆法"
+  },
+  "next": {
+    "title": "中华人民共和国公务员法",
+    "permalink": "/google/行政法/公务员法"
+  }
+}

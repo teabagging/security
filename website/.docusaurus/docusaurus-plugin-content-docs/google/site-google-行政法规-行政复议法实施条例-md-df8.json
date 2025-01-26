@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/行政复议法实施条例",
+  "title": "中华人民共和国行政复议法实施条例",
+  "description": "2007年5月23日 国务院第177次常务会议通过",
+  "source": "@site/google/行政法规/行政复议法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/行政复议法实施条例",
+  "permalink": "/google/行政法规/行政复议法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/行政复议法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "行政区域边界争议处理条例",
+    "permalink": "/google/行政法规/行政区域边界争议处理条例"
+  },
+  "next": {
+    "title": "行政学院工作条例",
+    "permalink": "/google/行政法规/行政学院工作条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "动物词库",
+  "title": "动物词库",
+  "description": "信鸽\t220963",
+  "source": "@site/learn/动物词库.md",
+  "sourceDirName": ".",
+  "slug": "/动物词库",
+  "permalink": "/learn/动物词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/动物词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "公安机关实施保安服务管理条例办法",
+    "permalink": "/learn/公安机关实施保安服务管理条例办法"
+  },
+  "next": {
+    "title": "医学词库",
+    "permalink": "/learn/医学词库"
+  }
+}

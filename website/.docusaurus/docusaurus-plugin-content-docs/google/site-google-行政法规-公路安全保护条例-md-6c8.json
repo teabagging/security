@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/公路安全保护条例",
+  "title": "公路安全保护条例",
+  "description": "2011年2月16日 国务院第144次常务会议通过",
+  "source": "@site/google/行政法规/公路安全保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/公路安全保护条例",
+  "permalink": "/google/行政法规/公路安全保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/公路安全保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国公民出境入境管理法实施细则",
+    "permalink": "/google/行政法规/公民出境入境管理法实施细则"
+  },
+  "next": {
+    "title": "关于不满300总吨船舶及沿海运输、沿海作业船舶海事赔偿限额的规定",
+    "permalink": "/google/行政法规/关于不满300总吨船舶及沿海运输、沿海作业船舶海事赔偿限额的规定"
+  }
+}

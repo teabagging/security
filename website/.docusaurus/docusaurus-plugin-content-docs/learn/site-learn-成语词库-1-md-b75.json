@@ -1,0 +1,24 @@
+{
+  "id": "成语词库1",
+  "title": "成语词库1",
+  "description": "坚定不移 \t 54113",
+  "source": "@site/learn/成语词库1.md",
+  "sourceDirName": ".",
+  "slug": "/成语词库1",
+  "permalink": "/learn/成语词库1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/成语词库1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "成语词库",
+    "permalink": "/learn/成语词库"
+  },
+  "next": {
+    "title": "拆字词库",
+    "permalink": "/learn/拆字词库"
+  }
+}

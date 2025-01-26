@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/国歌法",
+  "title": "中华人民共和国国歌法",
+  "description": "2017年9月1日 第十二届全国人民代表大会常务委员会第二十九次会议通过",
+  "source": "@site/google/宪法相关法/国歌法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/国歌法",
+  "permalink": "/google/宪法相关法/国歌法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/国歌法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国国旗法",
+    "permalink": "/google/宪法相关法/国旗法"
+  },
+  "next": {
+    "title": "中华人民共和国国籍法",
+    "permalink": "/google/宪法相关法/国籍法"
+  }
+}

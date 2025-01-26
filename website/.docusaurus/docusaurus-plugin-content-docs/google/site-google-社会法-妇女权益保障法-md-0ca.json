@@ -1,0 +1,24 @@
+{
+  "id": "社会法/妇女权益保障法",
+  "title": "中华人民共和国妇女权益保障法",
+  "description": "1992年4月3日 第七届全国人民代表大会第五次会议通过",
+  "source": "@site/google/社会法/妇女权益保障法.md",
+  "sourceDirName": "社会法",
+  "slug": "/社会法/妇女权益保障法",
+  "permalink": "/google/社会法/妇女权益保障法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/社会法/妇女权益保障法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国反电信网络诈骗法",
+    "permalink": "/google/社会法/反电信网络诈骗法"
+  },
+  "next": {
+    "title": "中华人民共和国学位法",
+    "permalink": "/google/社会法/学位法"
+  }
+}

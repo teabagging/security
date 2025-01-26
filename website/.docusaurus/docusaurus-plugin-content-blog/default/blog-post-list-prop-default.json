@@ -1,0 +1,23 @@
+{
+  "title": "All our posts",
+  "items": [
+    {
+      "title": "人间佛教修学观",
+      "permalink": "/blog/releases/3.5",
+      "unlisted": false,
+      "date": "2024-08-09T00:00:00.000Z"
+    },
+    {
+      "title": "佛教传播",
+      "permalink": "/blog/preparing-your-site-for-docusaurus-v3",
+      "unlisted": false,
+      "date": "2023-09-29T00:00:00.000Z"
+    },
+    {
+      "title": "佛教起源",
+      "permalink": "/blog/2022/09/01/docusaurus-2.1",
+      "unlisted": false,
+      "date": "2022-09-01T00:00:00.000Z"
+    }
+  ]
+}

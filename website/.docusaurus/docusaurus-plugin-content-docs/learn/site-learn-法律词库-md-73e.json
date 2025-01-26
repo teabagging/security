@@ -1,0 +1,24 @@
+{
+  "id": "法律词库",
+  "title": "法律词库",
+  "description": "版权\t13204281",
+  "source": "@site/learn/法律词库.md",
+  "sourceDirName": ".",
+  "slug": "/法律词库",
+  "permalink": "/learn/法律词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/法律词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "汽车零件词库",
+    "permalink": "/learn/汽车零件词库"
+  },
+  "next": {
+    "title": "深圳市安全防范行业协会",
+    "permalink": "/learn/深圳市安全防范行业协会"
+  }
+}

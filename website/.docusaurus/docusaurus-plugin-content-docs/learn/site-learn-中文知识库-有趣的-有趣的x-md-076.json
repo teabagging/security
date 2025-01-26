@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/有趣的x",
+  "title": "有趣的x",
+  "description": "edu",
+  "source": "@site/learn/中文知识库/有趣的/有趣的x.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/有趣的x",
+  "permalink": "/learn/中文知识库/有趣的/有趣的x",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/有趣的x.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "有趣的4",
+    "permalink": "/learn/中文知识库/有趣的/有趣的4"
+  },
+  "next": {
+    "title": "有趣的α",
+    "permalink": "/learn/中文知识库/有趣的/有趣的α"
+  }
+}

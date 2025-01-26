@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/乡镇煤矿管理条例",
+  "title": "乡镇煤矿管理条例",
+  "description": "1994年12月20日 中华人民共和国国务院令第169号发布",
+  "source": "@site/google/行政法规/乡镇煤矿管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/乡镇煤矿管理条例",
+  "permalink": "/google/行政法规/乡镇煤矿管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/乡镇煤矿管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国乡村集体所有制企业条例",
+    "permalink": "/google/行政法规/乡村集体所有制企业条例"
+  },
+  "next": {
+    "title": "乳品质量安全监督管理条例",
+    "permalink": "/google/行政法规/乳品质量安全监督管理条例"
+  }
+}

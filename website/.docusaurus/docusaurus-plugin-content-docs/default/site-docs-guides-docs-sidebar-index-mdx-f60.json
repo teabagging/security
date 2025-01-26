@@ -1,0 +1,21 @@
+{
+  "id": "guides/docs/sidebar/index",
+  "title": "Sidebar",
+  "description": "SDKs and APIs",
+  "source": "@site/docs/guides/docs/sidebar/index.mdx",
+  "sourceDirName": "guides/docs/sidebar",
+  "slug": "/sidebar",
+  "permalink": "/docs/sidebar",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/sidebar"
+  },
+  "sidebar": "defaultSidebar",
+  "next": {
+    "title": "Sidebar items",
+    "permalink": "/docs/sidebar/items"
+  }
+}

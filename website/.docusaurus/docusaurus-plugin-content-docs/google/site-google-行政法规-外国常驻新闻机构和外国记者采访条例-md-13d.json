@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外国常驻新闻机构和外国记者采访条例",
+  "title": "中华人民共和国外国常驻新闻机构和外国记者采访条例",
+  "description": "2008年10月17日 国务院第31次常务会议通过",
+  "source": "@site/google/行政法规/外国常驻新闻机构和外国记者采访条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外国常驻新闻机构和外国记者采访条例",
+  "permalink": "/google/行政法规/外国常驻新闻机构和外国记者采访条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外国常驻新闻机构和外国记者采访条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "外国在华常住人员携带进境物品进口税收暂行规定",
+    "permalink": "/google/行政法规/外国在华常住人员携带进境物品进口税收暂行规定"
+  },
+  "next": {
+    "title": "外国律师事务所驻华代表机构管理条例",
+    "permalink": "/google/行政法规/外国律师事务所驻华代表机构管理条例"
+  }
+}

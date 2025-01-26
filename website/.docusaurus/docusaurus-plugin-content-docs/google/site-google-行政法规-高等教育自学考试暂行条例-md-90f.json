@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/高等教育自学考试暂行条例",
+  "title": "高等教育自学考试暂行条例",
+  "description": "1988年3月3日 国务院发布",
+  "source": "@site/google/行政法规/高等教育自学考试暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/高等教育自学考试暂行条例",
+  "permalink": "/google/行政法规/高等教育自学考试暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/高等教育自学考试暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "高等教育管理职责暂行规定",
+    "permalink": "/google/行政法规/高等教育管理职责暂行规定"
+  },
+  "next": {
+    "title": "麻醉药品和精神药品管理条例",
+    "permalink": "/google/行政法规/麻醉药品和精神药品管理条例"
+  }
+}

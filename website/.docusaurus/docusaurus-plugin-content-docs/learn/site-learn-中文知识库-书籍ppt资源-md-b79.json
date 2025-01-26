@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/书籍PPT资源",
+  "title": "书籍PPT资源",
+  "description": "https://fakegoat.com/aaa/",
+  "source": "@site/learn/中文知识库/书籍PPT资源.md",
+  "sourceDirName": "中文知识库",
+  "slug": "/中文知识库/书籍PPT资源",
+  "permalink": "/learn/中文知识库/书籍PPT资源",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/书籍PPT资源.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "LaTeX汉语",
+    "permalink": "/learn/中文知识库/LaTeX汉语"
+  },
+  "next": {
+    "title": "大多数",
+    "permalink": "/learn/中文知识库/大多数"
+  }
+}

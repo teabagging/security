@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/城市居民委员会组织法",
+  "title": "中华人民共和国城市居民委员会组织法",
+  "description": "1989年12月26日 第七届全国人民代表大会常务委员会第十一次会议通过",
+  "source": "@site/google/宪法相关法/城市居民委员会组织法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/城市居民委员会组织法",
+  "permalink": "/google/宪法相关法/城市居民委员会组织法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/城市居民委员会组织法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国地方各级人民代表大会和地方各级人民政府组织法",
+    "permalink": "/google/宪法相关法/地方各级人民代表大会和地方各级人民政府组织法"
+  },
+  "next": {
+    "title": "中华人民共和国外交特权与豁免条例",
+    "permalink": "/google/宪法相关法/外交特权与豁免条例"
+  }
+}

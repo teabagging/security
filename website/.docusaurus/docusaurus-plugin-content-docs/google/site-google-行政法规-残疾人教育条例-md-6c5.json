@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/残疾人教育条例",
+  "title": "残疾人教育条例",
+  "description": "1994年8月23日 中华人民共和国国务院令第161号发布",
+  "source": "@site/google/行政法规/残疾人教育条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/残疾人教育条例",
+  "permalink": "/google/行政法规/残疾人教育条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/残疾人教育条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "残疾人就业条例",
+    "permalink": "/google/行政法规/残疾人就业条例"
+  },
+  "next": {
+    "title": "残疾预防和残疾人康复条例",
+    "permalink": "/google/行政法规/残疾预防和残疾人康复条例"
+  }
+}

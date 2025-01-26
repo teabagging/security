@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/劳动保险条例",
+  "title": "中华人民共和国劳动保险条例",
+  "description": "1951年2月26日 政务院公布",
+  "source": "@site/google/行政法规/劳动保险条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/劳动保险条例",
+  "permalink": "/google/行政法规/劳动保险条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/劳动保险条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "加强对外合作出版管理的暂行规定",
+    "permalink": "/google/行政法规/加强对外合作出版管理的暂行规定"
+  },
+  "next": {
+    "title": "劳动保障监察条例",
+    "permalink": "/google/行政法规/劳动保障监察条例"
+  }
+}

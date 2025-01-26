@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/废旧金属收购业治安管理办法",
+  "title": "废旧金属收购业治安管理办法",
+  "description": "1994年1月5日 国务院批准",
+  "source": "@site/google/行政法规/废旧金属收购业治安管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/废旧金属收购业治安管理办法",
+  "permalink": "/google/行政法规/废旧金属收购业治安管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/废旧金属收购业治安管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "废弃电器电子产品回收处理管理条例",
+    "permalink": "/google/行政法规/废弃电器电子产品回收处理管理条例"
+  },
+  "next": {
+    "title": "建设工程勘察设计管理条例",
+    "permalink": "/google/行政法规/建设工程勘察设计管理条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "深圳市安全防范行业协会",
+  "title": "深圳市安全防范行业协会",
+  "description": "位于深圳市的社会团体",
+  "source": "@site/learn/深圳市安全防范行业协会.md",
+  "sourceDirName": ".",
+  "slug": "/深圳市安全防范行业协会",
+  "permalink": "/learn/深圳市安全防范行业协会",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/深圳市安全防范行业协会.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "法律词库",
+    "permalink": "/learn/法律词库"
+  },
+  "next": {
+    "title": "物业管理条例",
+    "permalink": "/learn/物业管理条例"
+  }
+}

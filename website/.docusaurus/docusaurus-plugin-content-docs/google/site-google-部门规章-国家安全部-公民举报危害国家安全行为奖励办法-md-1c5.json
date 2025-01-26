@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/国家安全部/公民举报危害国家安全行为奖励办法",
+  "title": "公民举报危害国家安全行为奖励办法",
+  "description": "2022年6月6日 中华人民共和国国家安全部令第2号公布",
+  "source": "@site/google/部门规章/国家安全部/公民举报危害国家安全行为奖励办法.md",
+  "sourceDirName": "部门规章/国家安全部",
+  "slug": "/部门规章/国家安全部/公民举报危害国家安全行为奖励办法",
+  "permalink": "/google/部门规章/国家安全部/公民举报危害国家安全行为奖励办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/国家安全部/公民举报危害国家安全行为奖励办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "道路交通安全违法行为记分管理办法",
+    "permalink": "/google/部门规章/公安部/道路交通安全违法行为记分管理办法"
+  },
+  "next": {
+    "title": "互联网药品信息服务管理办法",
+    "permalink": "/google/部门规章/市场监督管理总局/互联网药品信息服务管理办法"
+  }
+}

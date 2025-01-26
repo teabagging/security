@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/市场主体登记管理条例",
+  "title": "中华人民共和国市场主体登记管理条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/市场主体登记管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/市场主体登记管理条例",
+  "permalink": "/google/行政法规/市场主体登记管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/市场主体登记管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "工资支付暂行规定",
+    "permalink": "/google/行政法规/工资支付暂行规定"
+  },
+  "next": {
+    "title": "幼儿园管理条例",
+    "permalink": "/google/行政法规/幼儿园管理条例"
+  }
+}

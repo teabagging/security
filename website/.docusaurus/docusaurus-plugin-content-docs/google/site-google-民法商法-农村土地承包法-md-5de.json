@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/农村土地承包法",
+  "title": "中华人民共和国农村土地承包法",
+  "description": "2002年8月29日 第九届全国人民代表大会常务委员会第二十九次会议通过",
+  "source": "@site/google/民法商法/农村土地承包法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/农村土地承包法",
+  "permalink": "/google/民法商法/农村土地承包法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/农村土地承包法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国公司法",
+    "permalink": "/google/民法商法/公司法"
+  },
+  "next": {
+    "title": "中华人民共和国农民专业合作社法",
+    "permalink": "/google/民法商法/农民专业合作社法"
+  }
+}

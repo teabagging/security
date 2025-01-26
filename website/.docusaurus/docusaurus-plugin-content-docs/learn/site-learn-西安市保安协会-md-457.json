@@ -1,0 +1,24 @@
+{
+  "id": "西安市保安协会",
+  "title": "西安市保安协会",
+  "description": "西安市保安协会",
+  "source": "@site/learn/西安市保安协会.md",
+  "sourceDirName": ".",
+  "slug": "/西安市保安协会",
+  "permalink": "/learn/西安市保安协会",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/西安市保安协会.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "职业词库",
+    "permalink": "/learn/职业词库"
+  },
+  "next": {
+    "title": "西安市限制养犬条例",
+    "permalink": "/learn/西安市限制养犬条例"
+  }
+}

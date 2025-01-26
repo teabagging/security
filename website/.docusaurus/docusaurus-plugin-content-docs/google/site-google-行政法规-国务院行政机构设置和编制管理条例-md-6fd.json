@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/国务院行政机构设置和编制管理条例",
+  "title": "国务院行政机构设置和编制管理条例",
+  "description": "1997年8月3日 中华人民共和国国务院令第227号发布",
+  "source": "@site/google/行政法规/国务院行政机构设置和编制管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/国务院行政机构设置和编制管理条例",
+  "permalink": "/google/行政法规/国务院行政机构设置和编制管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/国务院行政机构设置和编制管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "国务院实施《中华人民共和国民族区域自治法》若干规定",
+    "permalink": "/google/行政法规/国务院实施《民族区域自治法》若干规定"
+  },
+  "next": {
+    "title": "中华人民共和国国境卫生检疫法实施细则",
+    "permalink": "/google/行政法规/国境卫生检疫法实施细则"
+  }
+}

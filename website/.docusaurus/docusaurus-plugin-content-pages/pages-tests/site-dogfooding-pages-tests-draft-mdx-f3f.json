@@ -1,0 +1,14 @@
+{
+  "type": "mdx",
+  "permalink": "/tests/pages/draft",
+  "source": "@site/_dogfooding/_pages tests/draft.mdx",
+  "title": "Draft page",
+  "description": "This draft page should not be accessible in prod",
+  "frontMatter": {
+    "draft": true
+  },
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/_dogfooding/_pages tests/draft.mdx",
+  "unlisted": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/外商投资法",
+  "title": "中华人民共和国外商投资法",
+  "description": "2019年3月15日 第十三届全国人民代表大会第二次",
+  "source": "@site/google/民法商法/外商投资法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/外商投资法",
+  "permalink": "/google/民法商法/外商投资法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/外商投资法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国商标法",
+    "permalink": "/google/民法商法/商标法"
+  },
+  "next": {
+    "title": "中华人民共和国拍卖法",
+    "permalink": "/google/民法商法/拍卖法"
+  }
+}

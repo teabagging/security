@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/企业债券管理条例",
+  "title": "企业债券管理条例",
+  "description": "1993年8月2日 中华人民共和国国务院令第121号发布",
+  "source": "@site/google/行政法规/企业债券管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/企业债券管理条例",
+  "permalink": "/google/行政法规/企业债券管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/企业债券管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "企业信息公示暂行条例",
+    "permalink": "/google/行政法规/企业信息公示暂行条例"
+  },
+  "next": {
+    "title": "企业名称登记管理规定",
+    "permalink": "/google/行政法规/企业名称登记管理规定"
+  }
+}

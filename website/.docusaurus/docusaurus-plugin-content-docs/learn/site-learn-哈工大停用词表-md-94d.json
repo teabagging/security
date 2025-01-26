@@ -1,0 +1,24 @@
+{
+  "id": "哈工大停用词表",
+  "title": "哈工大停用词表",
+  "description": "———",
+  "source": "@site/learn/哈工大停用词表.md",
+  "sourceDirName": ".",
+  "slug": "/哈工大停用词表",
+  "permalink": "/learn/哈工大停用词表",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/哈工大停用词表.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "youguoyoumin",
+    "permalink": "/learn/古诗词库/youguoyoumin"
+  },
+  "next": {
+    "title": "四川大学停用词表",
+    "permalink": "/learn/四川大学停用词表"
+  }
+}

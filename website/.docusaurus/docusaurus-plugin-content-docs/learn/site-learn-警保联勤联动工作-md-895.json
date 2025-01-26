@@ -1,0 +1,24 @@
+{
+  "id": "警保联勤联动工作",
+  "title": "警保联勤联动工作",
+  "description": "“您慢一点，急诊往这边走。” 在武汉市儿童医院内，一名家长怀抱着发高烧的孩子由于不熟悉医院流程，显得十分无助。市儿童医院警保联动“陪诊团”保安黄云立即上前服务引导，孩子得到及时治疗。",
+  "source": "@site/learn/警保联勤联动工作.md",
+  "sourceDirName": ".",
+  "slug": "/警保联勤联动工作",
+  "permalink": "/learn/警保联勤联动工作",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/警保联勤联动工作.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "西安市限制养犬条例",
+    "permalink": "/learn/西安市限制养犬条例"
+  },
+  "next": {
+    "title": "诗词短句词库",
+    "permalink": "/learn/诗词短句词库"
+  }
+}

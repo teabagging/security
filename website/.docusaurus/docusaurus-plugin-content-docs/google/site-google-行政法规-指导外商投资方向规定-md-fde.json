@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/指导外商投资方向规定",
+  "title": "指导外商投资方向规定",
+  "description": "2002年2月11日 中华人民共和国国务院令第346号公布",
+  "source": "@site/google/行政法规/指导外商投资方向规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/指导外商投资方向规定",
+  "permalink": "/google/行政法规/指导外商投资方向规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/指导外商投资方向规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国招标投标法实施条例",
+    "permalink": "/google/行政法规/招标投标法实施条例"
+  },
+  "next": {
+    "title": "排污许可管理条例",
+    "permalink": "/google/行政法规/排污许可管理条例"
+  }
+}

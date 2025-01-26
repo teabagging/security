@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/词库地址",
+  "title": "词库地址",
+  "description": "Google 众多词库论坛http://bbs.pxysm.com/forum-13-2.html",
+  "source": "@site/learn/中文分词词库/词库地址.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/词库地址",
+  "permalink": "/learn/中文分词词库/词库地址",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/词库地址.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "词库下载地址",
+    "permalink": "/learn/中文分词词库/词库下载地址"
+  },
+  "next": {
+    "title": "中文知识库",
+    "permalink": "/learn/中文知识库/"
+  }
+}

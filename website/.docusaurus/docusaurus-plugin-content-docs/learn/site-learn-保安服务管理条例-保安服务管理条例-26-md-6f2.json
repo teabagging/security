@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例26",
+  "title": "保安服务管理条例26",
+  "description": "第二十七条  保安员上岗应当着保安员服装，佩带全国统一的保安服务标志。保安员服装和保安服务标志应当与人民解放军、人民武装警察和人民警察、工商税务等行政执法机关以及人民法院、人民检察院工作人员的制式服装、标志服饰有明显区别。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例26.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例26",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例26",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例26.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例25",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例25"
+  },
+  "next": {
+    "title": "保安服务管理条例27",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例27"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/民族区域自治法",
+  "title": "中华人民共和国民族区域自治法",
+  "description": "1984年5月31日 第六届全国人民代表大会第二次会议通过",
+  "source": "@site/google/宪法相关法/民族区域自治法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/民族区域自治法",
+  "permalink": "/google/宪法相关法/民族区域自治法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/民族区域自治法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国检察官法",
+    "permalink": "/google/宪法相关法/检察官法"
+  },
+  "next": {
+    "title": "中华人民共和国法官法",
+    "permalink": "/google/宪法相关法/法官法"
+  }
+}

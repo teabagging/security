@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/2.1 高效学习/bug",
+  "title": "bug",
+  "description": "邪道·阴极暗鬼：",
+  "source": "@site/learn/中文知识库/有趣的/2.1 高效学习/bug.md",
+  "sourceDirName": "中文知识库/有趣的/2.1 高效学习",
+  "slug": "/中文知识库/有趣的/2.1 高效学习/bug",
+  "permalink": "/learn/中文知识库/有趣的/2.1 高效学习/bug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/2.1 高效学习/bug.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/learn/中文知识库/有趣的/2.1 高效学习/"
+  },
+  "next": {
+    "title": "乌托邦致幻之境！",
+    "permalink": "/learn/中文知识库/有趣的/乌托邦致幻之境！"
+  }
+}

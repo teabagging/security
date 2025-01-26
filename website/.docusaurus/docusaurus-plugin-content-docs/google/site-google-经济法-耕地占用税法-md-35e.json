@@ -1,0 +1,24 @@
+{
+  "id": "经济法/耕地占用税法",
+  "title": "中华人民共和国耕地占用税法",
+  "description": "2018年12月29日 第十三届全国人民代表大会常务委员会第七次会议通过",
+  "source": "@site/google/经济法/耕地占用税法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/耕地占用税法",
+  "permalink": "/google/经济法/耕地占用税法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/耕地占用税法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国统计法",
+    "permalink": "/google/经济法/统计法"
+  },
+  "next": {
+    "title": "中华人民共和国职业病防治法",
+    "permalink": "/google/经济法/职业病防治法"
+  }
+}

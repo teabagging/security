@@ -1,0 +1,24 @@
+{
+  "id": "民法商法/全民所有制工业企业法",
+  "title": "中华人民共和国全民所有制工业企业法",
+  "description": "1988年4月13日 第七届全国人民代表大会第一次会议通过",
+  "source": "@site/google/民法商法/全民所有制工业企业法.md",
+  "sourceDirName": "民法商法",
+  "slug": "/民法商法/全民所有制工业企业法",
+  "permalink": "/google/民法商法/全民所有制工业企业法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/民法商法/全民所有制工业企业法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国信托法",
+    "permalink": "/google/民法商法/信托法"
+  },
+  "next": {
+    "title": "中华人民共和国公司法",
+    "permalink": "/google/民法商法/公司法"
+  }
+}

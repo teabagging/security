@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/集会游行示威法",
+  "title": "中华人民共和国集会游行示威法",
+  "description": "1989年10月31日 第七届全国人民代表大会常务委员会第十次会议通过",
+  "source": "@site/google/宪法相关法/集会游行示威法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/集会游行示威法",
+  "permalink": "/google/宪法相关法/集会游行示威法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/集会游行示威法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国陆地国界法",
+    "permalink": "/google/宪法相关法/陆地国界法"
+  },
+  "next": {
+    "title": "中华人民共和国领事特权与豁免条例",
+    "permalink": "/google/宪法相关法/领事特权与豁免条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/农作物病虫害防治条例",
+  "title": "农作物病虫害防治条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/农作物病虫害防治条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/农作物病虫害防治条例",
+  "permalink": "/google/行政法规/农作物病虫害防治条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/农作物病虫害防治条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "农业转基因生物安全管理条例",
+    "permalink": "/google/行政法规/农业转基因生物安全管理条例"
+  },
+  "next": {
+    "title": "农村五保供养工作条例",
+    "permalink": "/google/行政法规/农村五保供养工作条例"
+  }
+}

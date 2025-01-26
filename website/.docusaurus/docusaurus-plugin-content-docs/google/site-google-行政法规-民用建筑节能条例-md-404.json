@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/民用建筑节能条例",
+  "title": "民用建筑节能条例",
+  "description": "2008年7月23日 国务院第18次常务会议通过",
+  "source": "@site/google/行政法规/民用建筑节能条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/民用建筑节能条例",
+  "permalink": "/google/行政法规/民用建筑节能条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/民用建筑节能条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "民族乡行政工作条例",
+    "permalink": "/google/行政法规/民族乡行政工作条例"
+  },
+  "next": {
+    "title": "民用机场管理条例",
+    "permalink": "/google/行政法规/民用机场管理条例"
+  }
+}

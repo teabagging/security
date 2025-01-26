@@ -1,0 +1,24 @@
+{
+  "id": "经济法/烟草专卖法",
+  "title": "中华人民共和国烟草专卖法",
+  "description": "1991年6月29日 第七届全国人民代表大会常务委员会第二十次会议通过",
+  "source": "@site/google/经济法/烟草专卖法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/烟草专卖法",
+  "permalink": "/google/经济法/烟草专卖法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/烟草专卖法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国烟叶税法",
+    "permalink": "/google/经济法/烟叶税法"
+  },
+  "next": {
+    "title": "中华人民共和国煤炭法",
+    "permalink": "/google/经济法/煤炭法"
+  }
+}

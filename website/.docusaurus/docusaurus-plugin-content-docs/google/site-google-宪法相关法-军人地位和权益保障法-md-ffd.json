@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/军人地位和权益保障法",
+  "title": "中华人民共和国军人地位和权益保障法",
+  "description": "2021年6月10日 第十三届全国人民代表大会常务委员会第二十九次会议通过",
+  "source": "@site/google/宪法相关法/军人地位和权益保障法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/军人地位和权益保障法",
+  "permalink": "/google/宪法相关法/军人地位和权益保障法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/军人地位和权益保障法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国公职人员政务处分法",
+    "permalink": "/google/宪法相关法/公职人员政务处分法"
+  },
+  "next": {
+    "title": "反分裂国家法",
+    "permalink": "/google/宪法相关法/反分裂国家法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/临时邮箱与虚拟电话",
+  "title": "临时邮箱与虚拟电话",
+  "description": "临时邮箱",
+  "source": "@site/learn/中文知识库/集成实用夹/临时邮箱与虚拟电话.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/临时邮箱与虚拟电话",
+  "permalink": "/learn/中文知识库/集成实用夹/临时邮箱与虚拟电话",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/临时邮箱与虚拟电话.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "GitHub徽章",
+    "permalink": "/learn/中文知识库/集成实用夹/GitHub徽章"
+  },
+  "next": {
+    "title": "书籍与文档",
+    "permalink": "/learn/中文知识库/集成实用夹/书籍与文档"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "财经词库",
+  "title": "财经词库",
+  "description": "发展 \t 1934814",
+  "source": "@site/learn/财经词库.md",
+  "sourceDirName": ".",
+  "slug": "/财经词库",
+  "permalink": "/learn/财经词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/财经词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "诗词短句词库",
+    "permalink": "/learn/诗词短句词库"
+  },
+  "next": {
+    "title": "金融护卫的千锤百炼",
+    "permalink": "/learn/金融护卫的千锤百炼"
+  }
+}

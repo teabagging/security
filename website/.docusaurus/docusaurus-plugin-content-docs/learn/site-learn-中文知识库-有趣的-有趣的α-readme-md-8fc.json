@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/有趣的α/readme",
+  "title": "readme",
+  "description": "博弈论",
+  "source": "@site/learn/中文知识库/有趣的/有趣的α/readme.md",
+  "sourceDirName": "中文知识库/有趣的/有趣的α",
+  "slug": "/中文知识库/有趣的/有趣的α/",
+  "permalink": "/learn/中文知识库/有趣的/有趣的α/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/有趣的α/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "readme",
+    "permalink": "/learn/中文知识库/有趣的/有趣的4/"
+  },
+  "next": {
+    "title": "有趣的β",
+    "permalink": "/learn/中文知识库/有趣的/有趣的β"
+  }
+}

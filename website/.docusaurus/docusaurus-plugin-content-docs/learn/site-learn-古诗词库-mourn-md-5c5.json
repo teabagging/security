@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/mourn",
+  "title": "mourn",
+  "description": "十年生死两茫茫。不思量。自难忘。千里孤坟，无处话凄凉。纵使相逢应不识，尘满面，鬓如霜。 夜来幽梦忽还乡。小轩窗。正梳妆。相顾无言，惟有泪千行。料得年年断肠处，明月夜，短松冈。",
+  "source": "@site/learn/古诗词库/mourn.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/mourn",
+  "permalink": "/learn/古诗词库/mourn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/mourn.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "moon",
+    "permalink": "/learn/古诗词库/moon"
+  },
+  "next": {
+    "title": "parting",
+    "permalink": "/learn/古诗词库/parting"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例54",
+  "title": "保安服务管理条例54",
+  "description": "中华人民共和国国务院令",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例54.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例54",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例54",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例54.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例53",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例53"
+  },
+  "next": {
+    "title": "保安服务管理条例6",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例6"
+  }
+}

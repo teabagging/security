@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/军用标准化管理办法",
+  "title": "军用标准化管理办法",
+  "description": "1984年1月7日 国务院",
+  "source": "@site/google/行政法规/军用标准化管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/军用标准化管理办法",
+  "permalink": "/google/行政法规/军用标准化管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/军用标准化管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "军服管理条例",
+    "permalink": "/google/行政法规/军服管理条例"
+  },
+  "next": {
+    "title": "军用饮食供应站供水站管理办法",
+    "permalink": "/google/行政法规/军用饮食供应站供水站管理办法"
+  }
+}

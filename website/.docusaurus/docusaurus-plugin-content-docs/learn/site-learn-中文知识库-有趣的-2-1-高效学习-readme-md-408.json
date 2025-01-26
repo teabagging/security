@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/2.1 高效学习/README",
+  "title": "README",
+  "description": "我们读书不是为了degree（学位），读书是为了取得一种判断世界的能力。判断的第一步就是看见环境，懂得环境；第二，懂得分析，哪些常识是暂时的，哪些是人无可避免的一些错误，可以避免的错误，你自己至少不要犯。保持知识训练之后，能取得冷静和安定。",
+  "source": "@site/learn/中文知识库/有趣的/2.1 高效学习/README.md",
+  "sourceDirName": "中文知识库/有趣的/2.1 高效学习",
+  "slug": "/中文知识库/有趣的/2.1 高效学习/",
+  "permalink": "/learn/中文知识库/有趣的/2.1 高效学习/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/2.1 高效学习/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/learn/中文知识库/有趣的/2 如何阅读一本书？/"
+  },
+  "next": {
+    "title": "bug",
+    "permalink": "/learn/中文知识库/有趣的/2.1 高效学习/bug"
+  }
+}

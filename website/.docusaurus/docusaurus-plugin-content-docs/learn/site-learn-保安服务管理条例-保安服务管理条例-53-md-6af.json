@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例53",
+  "title": "保安服务管理条例53",
+  "description": "第二条  本条例所称保安服务是指：",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例53.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例53",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例53",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例53.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例52",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例52"
+  },
+  "next": {
+    "title": "保安服务管理条例54",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例54"
+  }
+}

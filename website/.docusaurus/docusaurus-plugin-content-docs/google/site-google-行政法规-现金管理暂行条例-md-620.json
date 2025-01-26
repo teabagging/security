@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/现金管理暂行条例",
+  "title": "现金管理暂行条例",
+  "description": "1988年9月8日 中华人民共和国国务院令第12号发布  根据",
+  "source": "@site/google/行政法规/现金管理暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/现金管理暂行条例",
+  "permalink": "/google/行政法规/现金管理暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/现金管理暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "现役军人和人民武装警察居民身份证申领发放办法",
+    "permalink": "/google/行政法规/现役军人和人民武装警察居民身份证申领发放办法"
+  },
+  "next": {
+    "title": "生产安全事故应急条例",
+    "permalink": "/google/行政法规/生产安全事故应急条例"
+  }
+}

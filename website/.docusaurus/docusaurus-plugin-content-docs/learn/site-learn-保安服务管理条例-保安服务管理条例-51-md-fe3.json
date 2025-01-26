@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例51",
+  "title": "保安服务管理条例51",
+  "description": "第四章  保安员",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例51.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例51",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例51",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例51.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例50",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例50"
+  },
+  "next": {
+    "title": "保安服务管理条例52",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例52"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/建设工程勘察设计管理条例",
+  "title": "建设工程勘察设计管理条例",
+  "description": "2000年9月25日 中华人民共和国国务院令第293号公布",
+  "source": "@site/google/行政法规/建设工程勘察设计管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/建设工程勘察设计管理条例",
+  "permalink": "/google/行政法规/建设工程勘察设计管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/建设工程勘察设计管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "废旧金属收购业治安管理办法",
+    "permalink": "/google/行政法规/废旧金属收购业治安管理办法"
+  },
+  "next": {
+    "title": "建设工程安全生产管理条例",
+    "permalink": "/google/行政法规/建设工程安全生产管理条例"
+  }
+}

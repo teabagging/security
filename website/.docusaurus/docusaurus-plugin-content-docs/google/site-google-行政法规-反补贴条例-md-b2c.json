@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/反补贴条例",
+  "title": "中华人民共和国反补贴条例",
+  "description": "2001年11月26日 中华人民共和国国务院令第329号公布",
+  "source": "@site/google/行政法规/反补贴条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/反补贴条例",
+  "permalink": "/google/行政法规/反补贴条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/反补贴条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "反兴奋剂条例",
+    "permalink": "/google/行政法规/反兴奋剂条例"
+  },
+  "next": {
+    "title": "中华人民共和国反间谍法实施细则",
+    "permalink": "/google/行政法规/反间谍法实施细则"
+  }
+}

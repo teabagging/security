@@ -1,0 +1,23 @@
+{
+  "id": "tests/custom-props/index",
+  "title": "Custom Props",
+  "description": "",
+  "source": "@site/_dogfooding/_docs tests/tests/custom-props/index.mdx",
+  "sourceDirName": "tests/custom-props",
+  "slug": "/tests/custom-props/",
+  "permalink": "/tests/docs/tests/custom-props/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Sample doc",
+    "permalink": "/tests/docs/tests/category-links/with-readme-doc/sample-doc"
+  },
+  "next": {
+    "title": "Doc with Custom Props",
+    "permalink": "/tests/docs/tests/custom-props/doc-with-custom-props"
+  }
+}

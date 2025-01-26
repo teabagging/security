@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/read",
+  "title": "read",
+  "description": "司马温公幼时，患记问不若人。群居讲习，众兄弟既成诵，游息矣；独下帷绝编，迨能倍诵乃止。用力多者收功远，其所精诵，乃终身不忘也。温公尝言：“书不可不成诵。或在马上，或终夜不寝时，咏其文，思其义，所得多",
+  "source": "@site/learn/古诗词库/read.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/read",
+  "permalink": "/learn/古诗词库/read",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/read.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "rain",
+    "permalink": "/learn/古诗词库/rain"
+  },
+  "next": {
+    "title": "snow",
+    "permalink": "/learn/古诗词库/snow"
+  }
+}

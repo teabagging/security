@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/旅馆业治安管理办法",
+  "title": "旅馆业治安管理办法",
+  "description": "1987年9月23日 国务院批准",
+  "source": "@site/google/行政法规/旅馆业治安管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/旅馆业治安管理办法",
+  "permalink": "/google/行政法规/旅馆业治安管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/旅馆业治安管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "旅行社条例",
+    "permalink": "/google/行政法规/旅行社条例"
+  },
+  "next": {
+    "title": "中华人民共和国无线电管制规定",
+    "permalink": "/google/行政法规/无线电管制规定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/人民法院在线调解规则",
+  "title": "人民法院在线调解规则",
+  "description": "2021年12月27日 最高人民法院审判委员会第1859次会议通过",
+  "source": "@site/google/司法解释/人民法院在线调解规则.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/人民法院在线调解规则",
+  "permalink": "/google/司法解释/人民法院在线调解规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/人民法院在线调解规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "人民法院在线诉讼规则",
+    "permalink": "/google/司法解释/人民法院在线诉讼规则"
+  },
+  "next": {
+    "title": "最高人民法院人民法院对外委托司法鉴定管理规定",
+    "permalink": "/google/司法解释/人民法院对外委托司法鉴定管理规定"
+  }
+}

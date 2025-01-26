@@ -1,0 +1,24 @@
+{
+  "id": "成语词库",
+  "title": "成语词库",
+  "description": "前所未有",
+  "source": "@site/learn/成语词库.md",
+  "sourceDirName": ".",
+  "slug": "/成语词库",
+  "permalink": "/learn/成语词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/成语词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "安防女神",
+    "permalink": "/learn/安防女神"
+  },
+  "next": {
+    "title": "成语词库1",
+    "permalink": "/learn/成语词库1"
+  }
+}

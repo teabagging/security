@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/企业法人登记管理条例",
+  "title": "中华人民共和国企业法人登记管理条例",
+  "description": "1988年6月3日 中华人民共和国国务院令第1号发布",
+  "source": "@site/google/行政法规/企业法人登记管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/企业法人登记管理条例",
+  "permalink": "/google/行政法规/企业法人登记管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/企业法人登记管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "企业法人法定代表人登记管理规定",
+    "permalink": "/google/行政法规/企业法人法定代表人登记管理规定"
+  },
+  "next": {
+    "title": "企业财务会计报告条例",
+    "permalink": "/google/行政法规/企业财务会计报告条例"
+  }
+}

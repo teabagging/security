@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/yongshihuaigu",
+  "title": "yongshihuaigu",
+  "description": "豫章故郡，洪都新府。星分翼轸，地接衡庐。襟三江而带五湖，控蛮荆而引瓯越。物华天宝，龙光射牛斗之墟；人杰地灵，徐孺下陈蕃之榻。雄州雾列，俊采星驰。台隍枕夷夏之交，宾主尽东南之美。都督阎公之雅望，棨戟遥",
+  "source": "@site/learn/古诗词库/yongshihuaigu.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/yongshihuaigu",
+  "permalink": "/learn/古诗词库/yongshihuaigu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/yongshihuaigu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "wind",
+    "permalink": "/learn/古诗词库/wind"
+  },
+  "next": {
+    "title": "youguoyoumin",
+    "permalink": "/learn/古诗词库/youguoyoumin"
+  }
+}

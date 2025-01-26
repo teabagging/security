@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/医疗废物管理条例",
+  "title": "医疗废物管理条例",
+  "description": "2003年6月16日 中华人民共和国国务院令第380号公布",
+  "source": "@site/google/行政法规/医疗废物管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/医疗废物管理条例",
+  "permalink": "/google/行政法规/医疗废物管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/医疗废物管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "医疗器械监督管理条例",
+    "permalink": "/google/行政法规/医疗器械监督管理条例"
+  },
+  "next": {
+    "title": "医疗机构管理条例",
+    "permalink": "/google/行政法规/医疗机构管理条例"
+  }
+}

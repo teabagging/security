@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/渔业船舶检验条例",
+  "title": "中华人民共和国渔业船舶检验条例",
+  "description": "2003年6月11日 国务院第11次常务会议通过",
+  "source": "@site/google/行政法规/渔业船舶检验条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/渔业船舶检验条例",
+  "permalink": "/google/行政法规/渔业船舶检验条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/渔业船舶检验条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国渔业法实施细则",
+    "permalink": "/google/行政法规/渔业法实施细则"
+  },
+  "next": {
+    "title": "渔业资源增殖保护费征收使用办法",
+    "permalink": "/google/行政法规/渔业资源增殖保护费征收使用办法"
+  }
+}

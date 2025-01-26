@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/内河交通安全管理条例",
+  "title": "中华人民共和国内河交通安全管理条例",
+  "description": "2002年6月28日 中华人民共和国国务院令第355号公布",
+  "source": "@site/google/行政法规/内河交通安全管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/内河交通安全管理条例",
+  "permalink": "/google/行政法规/内河交通安全管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/内河交通安全管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "兽药管理条例",
+    "permalink": "/google/行政法规/兽药管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国军事设施保护法实施办法",
+    "permalink": "/google/行政法规/军事设施保护法实施办法"
+  }
+}

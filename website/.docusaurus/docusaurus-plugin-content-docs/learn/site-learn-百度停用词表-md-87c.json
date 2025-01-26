@@ -1,0 +1,24 @@
+{
+  "id": "百度停用词表",
+  "title": "百度停用词表",
+  "description": "百度停用词列表",
+  "source": "@site/learn/百度停用词表.md",
+  "sourceDirName": ".",
+  "slug": "/百度停用词表",
+  "permalink": "/learn/百度停用词表",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/百度停用词表.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "用人单位必须为职工办理社会保险",
+    "permalink": "/learn/用人单位必须为职工办理社会保险"
+  },
+  "next": {
+    "title": "繁简体转换词库",
+    "permalink": "/learn/繁简体转换词库"
+  }
+}

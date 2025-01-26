@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/集成实用夹/短链接生成/readme",
+  "title": "readme",
+  "description": "* https://adf.ly/",
+  "source": "@site/learn/中文知识库/集成实用夹/短链接生成/readme.md",
+  "sourceDirName": "中文知识库/集成实用夹/短链接生成",
+  "slug": "/中文知识库/集成实用夹/短链接生成/",
+  "permalink": "/learn/中文知识库/集成实用夹/短链接生成/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/短链接生成/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "readme.txt",
+    "permalink": "/learn/中文知识库/集成实用夹/影响体验的text/readme.txt"
+  },
+  "next": {
+    "title": "中文谣言数据",
+    "permalink": "/learn/中文谣言数据"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "中文NLP资源库",
+  "title": "中文NLP资源库",
+  "description": "The Most Powerful NLP-Weapon Arsenal",
+  "source": "@site/learn/中文NLP资源库.md",
+  "sourceDirName": ".",
+  "slug": "/中文NLP资源库",
+  "permalink": "/learn/中文NLP资源库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文NLP资源库.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国治安管理处罚法",
+    "permalink": "/learn/中华人民共和国治安管理处罚法"
+  },
+  "next": {
+    "title": "中文停用词库",
+    "permalink": "/learn/中文停用词库"
+  }
+}

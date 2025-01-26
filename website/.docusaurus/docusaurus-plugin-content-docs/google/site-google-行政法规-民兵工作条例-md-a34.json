@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/民兵工作条例",
+  "title": "民兵工作条例",
+  "description": "1990年12月24日 中华人民共和国国务院、中华人民共和国中央军事委员会令第71号发布",
+  "source": "@site/google/行政法规/民兵工作条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/民兵工作条例",
+  "permalink": "/google/行政法规/民兵工作条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/民兵工作条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国母婴保健法实施办法",
+    "permalink": "/google/行政法规/母婴保健法实施办法"
+  },
+  "next": {
+    "title": "民兵武器装备管理条例",
+    "permalink": "/google/行政法规/民兵武器装备管理条例"
+  }
+}

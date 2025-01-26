@@ -1,0 +1,24 @@
+{
+  "id": "四川大学停用词表",
+  "title": "四川大学停用词表",
+  "description": "打开天窗说亮话",
+  "source": "@site/learn/四川大学停用词表.md",
+  "sourceDirName": ".",
+  "slug": "/四川大学停用词表",
+  "permalink": "/learn/四川大学停用词表",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/四川大学停用词表.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "哈工大停用词表",
+    "permalink": "/learn/哈工大停用词表"
+  },
+  "next": {
+    "title": "国务院法制办负责人就《保安服务管理条例》答记者问",
+    "permalink": "/learn/国务院法制办负责人就《保安服务管理条例》答记者问"
+  }
+}

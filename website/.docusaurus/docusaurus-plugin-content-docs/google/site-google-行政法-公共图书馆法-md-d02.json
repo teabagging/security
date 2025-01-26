@@ -1,0 +1,24 @@
+{
+  "id": "行政法/公共图书馆法",
+  "title": "中华人民共和国公共图书馆法",
+  "description": "2017年11月4日 第十二届全国人民代表大会常务委员会第三十次会议通过",
+  "source": "@site/google/行政法/公共图书馆法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/公共图书馆法",
+  "permalink": "/google/行政法/公共图书馆法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/公共图书馆法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国全国人民代表大会常务委员会议事规则",
+    "permalink": "/google/行政法/全国人民代表大会常务委员会议事规则"
+  },
+  "next": {
+    "title": "中华人民共和国公共文化服务保障法",
+    "permalink": "/google/行政法/公共文化服务保障法"
+  }
+}

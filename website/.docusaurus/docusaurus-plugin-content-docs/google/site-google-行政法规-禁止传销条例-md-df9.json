@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/禁止传销条例",
+  "title": "禁止传销条例",
+  "description": "2005年8月10日 国务院第101次常务会议通过",
+  "source": "@site/google/行政法规/禁止传销条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/禁止传销条例",
+  "permalink": "/google/行政法规/禁止传销条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/禁止传销条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "票据管理实施办法",
+    "permalink": "/google/行政法规/票据管理实施办法"
+  },
+  "next": {
+    "title": "禁止使用童工规定",
+    "permalink": "/google/行政法规/禁止使用童工规定"
+  }
+}

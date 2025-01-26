@@ -1,0 +1,24 @@
+{
+  "id": "行政法/行政许可法",
+  "title": "中华人民共和国行政许可法",
+  "description": "2003年8月27日 第十届全国人民代表大会常务委员会第四次会议通过",
+  "source": "@site/google/行政法/行政许可法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/行政许可法",
+  "permalink": "/google/行政法/行政许可法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/行政许可法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国行政强制法",
+    "permalink": "/google/行政法/行政强制法"
+  },
+  "next": {
+    "title": "中华人民共和国道路交通安全法",
+    "permalink": "/google/行政法/道路交通安全法"
+  }
+}

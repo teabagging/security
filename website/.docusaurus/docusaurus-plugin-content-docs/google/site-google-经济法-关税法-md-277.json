@@ -1,0 +1,24 @@
+{
+  "id": "经济法/关税法",
+  "title": "中华人民共和国关税法",
+  "description": "2024年4月26日 第十四届全国人民代表大会常务委员会第九次会议通过",
+  "source": "@site/google/经济法/关税法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/关税法",
+  "permalink": "/google/经济法/关税法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/关税法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国公路法",
+    "permalink": "/google/经济法/公路法"
+  },
+  "next": {
+    "title": "中华人民共和国农业技术推广法",
+    "permalink": "/google/经济法/农业技术推广法"
+  }
+}

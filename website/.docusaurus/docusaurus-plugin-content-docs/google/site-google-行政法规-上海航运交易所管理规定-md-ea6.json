@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/上海航运交易所管理规定",
+  "title": "上海航运交易所管理规定",
+  "description": "1996年9月19日 经国务院批准",
+  "source": "@site/google/行政法规/上海航运交易所管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/上海航运交易所管理规定",
+  "permalink": "/google/行政法规/上海航运交易所管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/上海航运交易所管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国黑土地保护法",
+    "permalink": "/google/行政法/黑土地保护法"
+  },
+  "next": {
+    "title": "不动产登记暂行条例",
+    "permalink": "/google/行政法规/不动产登记暂行条例"
+  }
+}

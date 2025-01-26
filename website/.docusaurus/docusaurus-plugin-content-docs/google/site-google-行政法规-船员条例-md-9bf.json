@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/船员条例",
+  "title": "中华人民共和国船员条例",
+  "description": "2007年4月14日 中华人民共和国国务院令第494号公布",
+  "source": "@site/google/行政法规/船员条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/船员条例",
+  "permalink": "/google/行政法规/船员条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/船员条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国航道管理条例",
+    "permalink": "/google/行政法规/航道管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国船舶和海上设施检验条例",
+    "permalink": "/google/行政法规/船舶和海上设施检验条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/snow",
+  "title": "snow",
+  "description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。",
+  "source": "@site/learn/古诗词库/snow.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/snow",
+  "permalink": "/learn/古诗词库/snow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/snow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "read",
+    "permalink": "/learn/古诗词库/read"
+  },
+  "next": {
+    "title": "songci",
+    "permalink": "/learn/古诗词库/songci"
+  }
+}

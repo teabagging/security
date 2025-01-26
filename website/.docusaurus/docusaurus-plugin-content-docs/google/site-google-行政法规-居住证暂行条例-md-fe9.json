@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/居住证暂行条例",
+  "title": "居住证暂行条例",
+  "description": "2015年10月21日 国务院第109次常务会议通过",
+  "source": "@site/google/行政法规/居住证暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/居住证暂行条例",
+  "permalink": "/google/行政法规/居住证暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/居住证暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国尘肺病防治条例",
+    "permalink": "/google/行政法规/尘肺病防治条例"
+  },
+  "next": {
+    "title": "中华人民共和国工业产品生产许可证管理条例",
+    "permalink": "/google/行政法规/工业产品生产许可证管理条例"
+  }
+}

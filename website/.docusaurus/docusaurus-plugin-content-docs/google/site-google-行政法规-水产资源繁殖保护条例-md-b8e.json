@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/水产资源繁殖保护条例",
+  "title": "水产资源繁殖保护条例",
+  "description": "1979年2月10日 国务院发布",
+  "source": "@site/google/行政法规/水产资源繁殖保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/水产资源繁殖保护条例",
+  "permalink": "/google/行政法规/水产资源繁殖保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/水产资源繁殖保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国水下文物保护管理条例",
+    "permalink": "/google/行政法规/水下文物保护管理条例"
+  },
+  "next": {
+    "title": "水利电力部门电测、热工计量仪表和装置检定、管理的规定",
+    "permalink": "/google/行政法规/水利电力部门电测、热工计量仪表和装置检定、管理的规定"
+  }
+}

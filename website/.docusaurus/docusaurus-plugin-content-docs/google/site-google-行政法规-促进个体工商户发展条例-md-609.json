@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/促进个体工商户发展条例",
+  "title": "促进个体工商户发展条例",
+  "description": "2022年11月1日 施行",
+  "source": "@site/google/行政法规/促进个体工商户发展条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/促进个体工商户发展条例",
+  "permalink": "/google/行政法规/促进个体工商户发展条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/促进个体工商户发展条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "使用有毒物品作业场所劳动保护条例",
+    "permalink": "/google/行政法规/使用有毒物品作业场所劳动保护条例"
+  },
+  "next": {
+    "title": "中华人民共和国保守国家秘密法实施条例",
+    "permalink": "/google/行政法规/保守国家秘密法实施条例"
+  }
+}

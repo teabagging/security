@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/集成实用夹/听歌、观影、玩游戏/玩游戏",
+  "title": "玩游戏",
+  "description": "听歌",
+  "source": "@site/learn/中文知识库/集成实用夹/听歌、观影、玩游戏/玩游戏.md",
+  "sourceDirName": "中文知识库/集成实用夹/听歌、观影、玩游戏",
+  "slug": "/中文知识库/集成实用夹/听歌、观影、玩游戏/玩游戏",
+  "permalink": "/learn/中文知识库/集成实用夹/听歌、观影、玩游戏/玩游戏",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/听歌、观影、玩游戏/玩游戏.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "分析辅助图",
+    "permalink": "/learn/中文知识库/集成实用夹/分析辅助图"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/learn/中文知识库/集成实用夹/图片、图床、PPT、GitHub徽章/"
+  }
+}

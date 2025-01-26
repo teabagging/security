@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/中文缩写库3",
+  "title": "中文缩写库3",
+  "description": "泳协: 游泳/vn 协会/n",
+  "source": "@site/learn/中文分词词库/中文缩写库3.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/中文缩写库3",
+  "permalink": "/learn/中文分词词库/中文缩写库3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/中文缩写库3.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中文缩写库2",
+    "permalink": "/learn/中文分词词库/中文缩写库2"
+  },
+  "next": {
+    "title": "五笔词库",
+    "permalink": "/learn/中文分词词库/五笔词库"
+  }
+}

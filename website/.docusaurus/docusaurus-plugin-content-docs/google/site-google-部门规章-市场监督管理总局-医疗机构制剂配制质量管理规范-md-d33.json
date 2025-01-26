@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/市场监督管理总局/医疗机构制剂配制质量管理规范",
+  "title": "医疗机构制剂配制质量管理规范（试行）",
+  "description": "2001年3月13日 国家食品药品监督管理局令第27号公布",
+  "source": "@site/google/部门规章/市场监督管理总局/医疗机构制剂配制质量管理规范.md",
+  "sourceDirName": "部门规章/市场监督管理总局",
+  "slug": "/部门规章/市场监督管理总局/医疗机构制剂配制质量管理规范",
+  "permalink": "/google/部门规章/市场监督管理总局/医疗机构制剂配制质量管理规范",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/市场监督管理总局/医疗机构制剂配制质量管理规范.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "医疗器械经营监督管理办法",
+    "permalink": "/google/部门规章/市场监督管理总局/医疗器械经营监督管理办法"
+  },
+  "next": {
+    "title": "处方药与非处方药分类管理办法（试行）",
+    "permalink": "/google/部门规章/市场监督管理总局/处方药与非处方药分类管理办法"
+  }
+}

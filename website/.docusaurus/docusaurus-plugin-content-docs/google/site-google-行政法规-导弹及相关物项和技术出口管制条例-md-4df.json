@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/导弹及相关物项和技术出口管制条例",
+  "title": "中华人民共和国导弹及相关物项和技术出口管制条例",
+  "description": "2002年8月22日 中华人民共和国国务院令第361号公布",
+  "source": "@site/google/行政法规/导弹及相关物项和技术出口管制条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/导弹及相关物项和技术出口管制条例",
+  "permalink": "/google/行政法规/导弹及相关物项和技术出口管制条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/导弹及相关物项和技术出口管制条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "对外承包工程管理条例",
+    "permalink": "/google/行政法规/对外承包工程管理条例"
+  },
+  "next": {
+    "title": "导游人员管理条例",
+    "permalink": "/google/行政法规/导游人员管理条例"
+  }
+}

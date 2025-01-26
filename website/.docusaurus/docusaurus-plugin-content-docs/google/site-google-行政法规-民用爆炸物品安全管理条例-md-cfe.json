@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/民用爆炸物品安全管理条例",
+  "title": "民用爆炸物品安全管理条例",
+  "description": "2006年5月10日 中华人民共和国国务院令第466号公布",
+  "source": "@site/google/行政法规/民用爆炸物品安全管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/民用爆炸物品安全管理条例",
+  "permalink": "/google/行政法规/民用爆炸物品安全管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/民用爆炸物品安全管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国民用核设施安全监督管理条例",
+    "permalink": "/google/行政法规/民用核设施安全监督管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国民用航空器国籍登记条例",
+    "permalink": "/google/行政法规/民用航空器国籍登记条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/储蓄管理条例",
+  "title": "储蓄管理条例",
+  "description": "1992年12月11日 中华人民共和国国务院令第107号发布",
+  "source": "@site/google/行政法规/储蓄管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/储蓄管理条例",
+  "permalink": "/google/行政法规/储蓄管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/储蓄管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "信访条例",
+    "permalink": "/google/行政法规/信访条例"
+  },
+  "next": {
+    "title": "全国人口普查条例",
+    "permalink": "/google/行政法规/全国人口普查条例"
+  }
+}

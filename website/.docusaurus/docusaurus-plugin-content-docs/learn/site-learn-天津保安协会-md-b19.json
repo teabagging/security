@@ -1,0 +1,24 @@
+{
+  "id": "天津保安协会",
+  "title": "天津保安协会",
+  "description": "2009年成立的保安服务行业社会团体组织",
+  "source": "@site/learn/天津保安协会.md",
+  "sourceDirName": ".",
+  "slug": "/天津保安协会",
+  "permalink": "/learn/天津保安协会",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/天津保安协会.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "大型群众性活动安全管理条例",
+    "permalink": "/learn/大型群众性活动安全管理条例"
+  },
+  "next": {
+    "title": "娱乐场所管理条例",
+    "permalink": "/learn/娱乐场所管理条例"
+  }
+}

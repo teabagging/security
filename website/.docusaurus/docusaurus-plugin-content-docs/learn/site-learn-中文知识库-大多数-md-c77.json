@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/大多数",
+  "title": "大多数",
+  "description": "推荐几篇关于普通人大多数人的一生研究的论文，帮我梳理下搜索关键字",
+  "source": "@site/learn/中文知识库/大多数.md",
+  "sourceDirName": "中文知识库",
+  "slug": "/中文知识库/大多数",
+  "permalink": "/learn/中文知识库/大多数",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/大多数.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "书籍PPT资源",
+    "permalink": "/learn/中文知识库/书籍PPT资源"
+  },
+  "next": {
+    "title": "媒体订阅",
+    "permalink": "/learn/中文知识库/媒体订阅"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/保障中小企业款项支付条例",
+  "title": "保障中小企业款项支付条例",
+  "description": "第一条 为了促进机关、事业单位和大型企业及时支付中小企业款项，维护中小企业合法权益，优化营商环境，根据《中华人民共和国中小企业促进法》等法律，制定本条例。",
+  "source": "@site/google/行政法规/保障中小企业款项支付条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/保障中小企业款项支付条例",
+  "permalink": "/google/行政法规/保障中小企业款项支付条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/保障中小企业款项支付条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保税区海关监管办法",
+    "permalink": "/google/行政法规/保税区海关监管办法"
+  },
+  "next": {
+    "title": "保障农民工工资支付条例",
+    "permalink": "/google/行政法规/保障农民工工资支付条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/大中型水利水电工程建设征地补偿和移民安置条例",
+  "title": "大中型水利水电工程建设征地补偿和移民安置条例",
+  "description": "2006年7月7日 中华人民共和国国务院令第471号公布",
+  "source": "@site/google/行政法规/大中型水利水电工程建设征地补偿和移民安置条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/大中型水利水电工程建设征地补偿和移民安置条例",
+  "permalink": "/google/行政法规/大中型水利水电工程建设征地补偿和移民安置条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/大中型水利水电工程建设征地补偿和移民安置条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国外资银行管理条例",
+    "permalink": "/google/行政法规/外资银行管理条例"
+  },
+  "next": {
+    "title": "大型群众性活动安全管理条例",
+    "permalink": "/google/行政法规/大型群众性活动安全管理条例"
+  }
+}

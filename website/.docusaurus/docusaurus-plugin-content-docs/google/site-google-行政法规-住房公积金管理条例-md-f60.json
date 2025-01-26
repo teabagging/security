@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/住房公积金管理条例",
+  "title": "住房公积金管理条例",
+  "description": "1999年4月3日 中华人民共和国国务院令第262号发布",
+  "source": "@site/google/行政法规/住房公积金管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/住房公积金管理条例",
+  "permalink": "/google/行政法规/住房公积金管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/住房公积金管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "传统工艺美术保护条例",
+    "permalink": "/google/行政法规/传统工艺美术保护条例"
+  },
+  "next": {
+    "title": "使用有毒物品作业场所劳动保护条例",
+    "permalink": "/google/行政法规/使用有毒物品作业场所劳动保护条例"
+  }
+}

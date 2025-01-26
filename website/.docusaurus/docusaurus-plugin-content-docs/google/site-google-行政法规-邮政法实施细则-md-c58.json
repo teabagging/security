@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/邮政法实施细则",
+  "title": "中华人民共和国邮政法实施细则",
+  "description": "1990年11月12日 中华人民共和国国务院令第65号发布",
+  "source": "@site/google/行政法规/邮政法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/邮政法实施细则",
+  "permalink": "/google/行政法规/邮政法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/邮政法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国道路运输条例",
+    "permalink": "/google/行政法规/道路运输条例"
+  },
+  "next": {
+    "title": "重大动物疫情应急条例",
+    "permalink": "/google/行政法规/重大动物疫情应急条例"
+  }
+}

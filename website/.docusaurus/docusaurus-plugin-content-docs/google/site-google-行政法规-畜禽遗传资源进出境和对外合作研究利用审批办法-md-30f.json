@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/畜禽遗传资源进出境和对外合作研究利用审批办法",
+  "title": "中华人民共和国畜禽遗传资源进出境和对外合作研究利用审批办法",
+  "description": "2008年8月20日 国务院第23次常务会议通过",
+  "source": "@site/google/行政法规/畜禽遗传资源进出境和对外合作研究利用审批办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/畜禽遗传资源进出境和对外合作研究利用审批办法",
+  "permalink": "/google/行政法规/畜禽遗传资源进出境和对外合作研究利用审批办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/畜禽遗传资源进出境和对外合作研究利用审批办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "畜禽规模养殖污染防治条例",
+    "permalink": "/google/行政法规/畜禽规模养殖污染防治条例"
+  },
+  "next": {
+    "title": "疫苗流通和预防接种管理条例",
+    "permalink": "/google/行政法规/疫苗流通和预防接种管理条例"
+  }
+}

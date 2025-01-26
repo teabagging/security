@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/love",
+  "title": "love",
+  "description": "相见时难别亦难，东风无力百花残。春蚕到死丝方尽，蜡炬成灰泪始干。晓镜但愁云鬓改，夜吟应觉月光寒。蓬山此去无多路，青鸟殷勤为探看。",
+  "source": "@site/learn/古诗词库/love.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/love",
+  "permalink": "/learn/古诗词库/love",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/love.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "landscape",
+    "permalink": "/learn/古诗词库/landscape"
+  },
+  "next": {
+    "title": "miss",
+    "permalink": "/learn/古诗词库/miss"
+  }
+}

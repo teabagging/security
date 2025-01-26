@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例21",
+  "title": "保安服务管理条例21",
+  "description": "第十二条  取得保安服务许可证的申请人，凭保安服务许可证到工商行政管理机关办理工商登记。取得保安服务许可证后超过6个月来办理工商登记的，取得的保安服务许可证失效。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例21.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例21",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例21",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例21.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例20",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例20"
+  },
+  "next": {
+    "title": "保安服务管理条例22",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例22"
+  }
+}

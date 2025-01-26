@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/诉讼费用交纳办法",
+  "title": "诉讼费用交纳办法",
+  "description": "2006年12月8日 国务院第159次常务会议通过",
+  "source": "@site/google/行政法规/诉讼费用交纳办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/诉讼费用交纳办法",
+  "permalink": "/google/行政法规/诉讼费用交纳办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/诉讼费用交纳办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "证券期货行政执法当事人承诺制度实施办法",
+    "permalink": "/google/行政法规/证券期货行政执法当事人承诺制度实施办法"
+  },
+  "next": {
+    "title": "财政违法行为处罚处分条例",
+    "permalink": "/google/行政法规/财政违法行为处罚处分条例"
+  }
+}

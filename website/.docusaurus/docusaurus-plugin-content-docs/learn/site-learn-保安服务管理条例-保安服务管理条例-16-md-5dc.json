@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例16",
+  "title": "保安服务管理条例16",
+  "description": "第五十一条  本条例施行前已经设立的保安服务公司、保安培训单位，应当自本条例施行之日起6个月内重新申请保安服务许可证、保安培训许可证。本条例施行前自行招用保安员的单位，应当自本条例施行之日起3个月内向公安机关备案。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例16.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例16",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例16",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例16.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例15",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例15"
+  },
+  "next": {
+    "title": "保安服务管理条例17",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例17"
+  }
+}

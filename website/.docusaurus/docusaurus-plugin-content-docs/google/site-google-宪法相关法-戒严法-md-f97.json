@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/戒严法",
+  "title": "中华人民共和国戒严法",
+  "description": "1996年3月1日 第八届全国人民代表大会常务委员会第十八次会议通过",
+  "source": "@site/google/宪法相关法/戒严法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/戒严法",
+  "permalink": "/google/宪法相关法/戒严法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/戒严法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国居民身份证法",
+    "permalink": "/google/宪法相关法/居民身份证法"
+  },
+  "next": {
+    "title": "中华人民共和国村民委员会组织法",
+    "permalink": "/google/宪法相关法/村民委员会组织法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于审理仲裁司法审查案件若干问题的规定",
+  "title": "最高人民法院关于审理仲裁司法审查案件若干问题的规定",
+  "description": "2017年12月4日 最高人民法院审判委员会第1728次会议通过",
+  "source": "@site/google/司法解释/关于审理仲裁司法审查案件若干问题的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于审理仲裁司法审查案件若干问题的规定",
+  "permalink": "/google/司法解释/关于审理仲裁司法审查案件若干问题的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于审理仲裁司法审查案件若干问题的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释",
+    "permalink": "/google/司法解释/关于审理人身损害赔偿案件适用法律若干问题的解释"
+  },
+  "next": {
+    "title": "最高人民法院关于审理企业破产案件指定管理人的规定",
+    "permalink": "/google/司法解释/关于审理企业破产案件指定管理人的规定"
+  }
+}

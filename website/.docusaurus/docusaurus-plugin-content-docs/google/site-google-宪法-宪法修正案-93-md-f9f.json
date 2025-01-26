@@ -1,0 +1,24 @@
+{
+  "id": "宪法/宪法修正案93",
+  "title": "中华人民共和国宪法修正案（1993年）",
+  "description": "1993年3月29日 第八届全国人民代表大会第一次会议通过",
+  "source": "@site/google/宪法/宪法修正案93.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/宪法修正案93",
+  "permalink": "/google/宪法/宪法修正案93",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/宪法修正案93.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法修正案（1988年）",
+    "permalink": "/google/宪法/宪法修正案88"
+  },
+  "next": {
+    "title": "中华人民共和国宪法修正案（1999年）",
+    "permalink": "/google/宪法/宪法修正案99"
+  }
+}

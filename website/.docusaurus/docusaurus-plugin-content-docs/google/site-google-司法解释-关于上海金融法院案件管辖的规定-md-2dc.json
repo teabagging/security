@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于上海金融法院案件管辖的规定",
+  "title": "最高人民法院关于上海金融法院案件管辖的规定",
+  "description": "2018年7月31日 由最高人民法院审判委员会第1746次会议通过",
+  "source": "@site/google/司法解释/关于上海金融法院案件管辖的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于上海金融法院案件管辖的规定",
+  "permalink": "/google/司法解释/关于上海金融法院案件管辖的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于上海金融法院案件管辖的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于《中华人民共和国刑法修正案（九）》时间效力问题的解释",
+    "permalink": "/google/司法解释/关于《刑法修正案（九）》时间效力问题的解释"
+  },
+  "next": {
+    "title": "最高人民法院关于严格执行案件审理期限制度的若干规定",
+    "permalink": "/google/司法解释/关于严格执行案件审理期限制度的若干规定"
+  }
+}

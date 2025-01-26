@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/房产税暂行条例",
+  "title": "中华人民共和国房产税暂行条例",
+  "description": "1986年9月15日 国务院发布",
+  "source": "@site/google/行政法规/房产税暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/房产税暂行条例",
+  "permalink": "/google/行政法规/房产税暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/房产税暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "戒毒条例",
+    "permalink": "/google/行政法规/戒毒条例"
+  },
+  "next": {
+    "title": "中华人民共和国打捞沉船管理办法",
+    "permalink": "/google/行政法规/打捞沉船管理办法"
+  }
+}

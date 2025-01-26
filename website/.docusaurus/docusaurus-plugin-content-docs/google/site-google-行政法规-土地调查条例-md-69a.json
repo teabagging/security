@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/土地调查条例",
+  "title": "土地调查条例",
+  "description": "2008年2月7日 中华人民共和国国务院令第518号公布",
+  "source": "@site/google/行政法规/土地调查条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/土地调查条例",
+  "permalink": "/google/行政法规/土地调查条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/土地调查条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国土地管理法实施条例",
+    "permalink": "/google/行政法规/土地管理法实施条例"
+  },
+  "next": {
+    "title": "地下水管理条例",
+    "permalink": "/google/行政法规/地下水管理条例"
+  }
+}

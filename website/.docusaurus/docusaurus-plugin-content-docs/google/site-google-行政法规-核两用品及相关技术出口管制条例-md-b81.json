@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/核两用品及相关技术出口管制条例",
+  "title": "中华人民共和国核两用品及相关技术出口管制条例",
+  "description": "1998年6月10日 中华人民共和国国务院令第245号发布",
+  "source": "@site/google/行政法规/核两用品及相关技术出口管制条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/核两用品及相关技术出口管制条例",
+  "permalink": "/google/行政法规/核两用品及相关技术出口管制条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/核两用品及相关技术出口管制条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "校车安全管理条例",
+    "permalink": "/google/行政法规/校车安全管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国核出口管制条例",
+    "permalink": "/google/行政法规/核出口管制条例"
+  }
+}

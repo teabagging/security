@@ -1,0 +1,24 @@
+{
+  "id": "刑法/刑法修正案6",
+  "title": "中华人民共和国刑法修正案（六）",
+  "description": "2006年6月29日 第十届全国人民代表大会常务委员会第二十二次会议通过",
+  "source": "@site/google/刑法/刑法修正案6.md",
+  "sourceDirName": "刑法",
+  "slug": "/刑法/刑法修正案6",
+  "permalink": "/google/刑法/刑法修正案6",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/刑法/刑法修正案6.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国刑法修正案（五）",
+    "permalink": "/google/刑法/刑法修正案5"
+  },
+  "next": {
+    "title": "中华人民共和国刑法修正案（七）",
+    "permalink": "/google/刑法/刑法修正案7"
+  }
+}

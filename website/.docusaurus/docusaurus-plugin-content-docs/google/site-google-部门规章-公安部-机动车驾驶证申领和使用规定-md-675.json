@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/公安部/机动车驾驶证申领和使用规定",
+  "title": "机动车驾驶证申领和使用规定",
+  "description": "第一章 总 则",
+  "source": "@site/google/部门规章/公安部/机动车驾驶证申领和使用规定.md",
+  "sourceDirName": "部门规章/公安部",
+  "slug": "/部门规章/公安部/机动车驾驶证申领和使用规定",
+  "permalink": "/google/部门规章/公安部/机动车驾驶证申领和使用规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/公安部/机动车驾驶证申领和使用规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "机动车登记规定",
+    "permalink": "/google/部门规章/公安部/机动车登记规定"
+  },
+  "next": {
+    "title": "道路交通事故处理程序规定",
+    "permalink": "/google/部门规章/公安部/道路交通事故处理程序规定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/地名管理条例",
+  "title": "地名管理条例",
+  "description": "1986年1月23日 国务院发布",
+  "source": "@site/google/行政法规/地名管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/地名管理条例",
+  "permalink": "/google/行政法规/地名管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/地名管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "地下水管理条例",
+    "permalink": "/google/行政法规/地下水管理条例"
+  },
+  "next": {
+    "title": "地图管理条例",
+    "permalink": "/google/行政法规/地图管理条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于减刑、假释案件审理程序的规定",
+  "title": "最高人民法院关于减刑、假释案件审理程序的规定",
+  "description": "为进一步规范减刑、假释案件的审理程序，确保减刑、假释案件审理的合法、公正，根据《中华人民共和国刑法》、《中华人民共和国刑事诉讼法》有关规定，结合减刑、假释案件审理工作实际，制定本规定。",
+  "source": "@site/google/司法解释/关于减刑、假释案件审理程序的规定.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于减刑、假释案件审理程序的规定",
+  "permalink": "/google/司法解释/关于减刑、假释案件审理程序的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于减刑、假释案件审理程序的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于冻结、拍卖上市公司国有股和社会法人股若干问题的规定",
+    "permalink": "/google/司法解释/关于冻结、拍卖上市公司国有股和社会法人股若干问题的规定"
+  },
+  "next": {
+    "title": "最高人民法院关于刑事裁判涉财产部分执行的若干规定",
+    "permalink": "/google/司法解释/关于刑事裁判涉财产部分执行的若干规定"
+  }
+}

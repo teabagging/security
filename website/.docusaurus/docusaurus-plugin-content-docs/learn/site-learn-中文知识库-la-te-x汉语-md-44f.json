@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/LaTeX汉语",
+  "title": "LaTeX汉语",
+  "description": "https://www.overleaf.com/read/khdnbtjxwkzx",
+  "source": "@site/learn/中文知识库/LaTeX汉语.md",
+  "sourceDirName": "中文知识库",
+  "slug": "/中文知识库/LaTeX汉语",
+  "permalink": "/learn/中文知识库/LaTeX汉语",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/LaTeX汉语.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中文知识库",
+    "permalink": "/learn/中文知识库/"
+  },
+  "next": {
+    "title": "书籍PPT资源",
+    "permalink": "/learn/中文知识库/书籍PPT资源"
+  }
+}

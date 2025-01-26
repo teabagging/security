@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/信访条例",
+  "title": "信访条例",
+  "description": "2005年1月5日 国务院第76次常务会议通过",
+  "source": "@site/google/行政法规/信访条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/信访条例",
+  "permalink": "/google/行政法规/信访条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/信访条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "信访工作条例",
+    "permalink": "/google/行政法规/信访工作条例"
+  },
+  "next": {
+    "title": "储蓄管理条例",
+    "permalink": "/google/行政法规/储蓄管理条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例8",
+  "title": "保安服务管理条例8",
+  "description": "第三十八条  公安机关的人民警察对保安从业单位、保安培训单位实施监督检查应当出示证件，对监督检查中发现的问题，应当督促其整改。监督检查的情况和处理结果应当如实记录，并由公安机关的监督检查人员和保安从业单位、保安培训单位的有关负责人签字",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例8.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例8",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例7",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例7"
+  },
+  "next": {
+    "title": "保安服务管理条例9",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例9"
+  }
+}

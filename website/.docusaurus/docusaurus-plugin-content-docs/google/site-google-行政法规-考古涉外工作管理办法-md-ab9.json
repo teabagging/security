@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/考古涉外工作管理办法",
+  "title": "中华人民共和国考古涉外工作管理办法",
+  "description": "1990年12月31日 国务院批准",
+  "source": "@site/google/行政法规/考古涉外工作管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/考古涉外工作管理办法",
+  "permalink": "/google/行政法规/考古涉外工作管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/考古涉外工作管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "罚款决定与罚款收缴分离实施办法",
+    "permalink": "/google/行政法规/罚款决定与罚款收缴分离实施办法"
+  },
+  "next": {
+    "title": "职工带薪年休假条例",
+    "permalink": "/google/行政法规/职工带薪年休假条例"
+  }
+}

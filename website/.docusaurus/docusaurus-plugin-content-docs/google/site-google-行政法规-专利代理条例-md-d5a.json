@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/专利代理条例",
+  "title": "专利代理条例",
+  "description": "1991年3月4日 中华人民共和国国务院令第76号发布",
+  "source": "@site/google/行政法规/专利代理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/专利代理条例",
+  "permalink": "/google/行政法规/专利代理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/专利代理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "不动产登记暂行条例",
+    "permalink": "/google/行政法规/不动产登记暂行条例"
+  },
+  "next": {
+    "title": "中华人民共和国专利法实施细则",
+    "permalink": "/google/行政法规/专利法实施细则"
+  }
+}

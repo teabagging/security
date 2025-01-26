@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/矿产资源法实施细则",
+  "title": "中华人民共和国矿产资源法实施细则",
+  "description": "1994年3月26日 中华人民共和国国务院令第152号发布",
+  "source": "@site/google/行政法规/矿产资源法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/矿产资源法实施细则",
+  "permalink": "/google/行政法规/矿产资源法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/矿产资源法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "矿产资源开采登记管理办法",
+    "permalink": "/google/行政法规/矿产资源开采登记管理办法"
+  },
+  "next": {
+    "title": "矿产资源监督管理暂行办法",
+    "permalink": "/google/行政法规/矿产资源监督管理暂行办法"
+  }
+}

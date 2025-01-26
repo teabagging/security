@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/志愿服务条例",
+  "title": "志愿服务条例",
+  "description": "2017年6月7日 国务院第175次常务会议通过",
+  "source": "@site/google/行政法规/志愿服务条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/志愿服务条例",
+  "permalink": "/google/行政法规/志愿服务条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/志愿服务条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "征收教育费附加的暂行规定",
+    "permalink": "/google/行政法规/征收教育费附加的暂行规定"
+  },
+  "next": {
+    "title": "快递暂行条例",
+    "permalink": "/google/行政法规/快递暂行条例"
+  }
+}

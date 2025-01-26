@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/关于工资总额组成的规定",
+  "title": "关于工资总额组成的规定",
+  "description": "1989年9月30日 国务院批准",
+  "source": "@site/google/行政法规/关于工资总额组成的规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/关于工资总额组成的规定",
+  "permalink": "/google/行政法规/关于工资总额组成的规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/关于工资总额组成的规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "关于实行技师聘任制的暂行规定",
+    "permalink": "/google/行政法规/关于实行技师聘任制的暂行规定"
+  },
+  "next": {
+    "title": "关于爱国卫生运动委员会及其办事机构若干问题的规定",
+    "permalink": "/google/行政法规/关于爱国卫生运动委员会及其办事机构若干问题的规定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/个人所得税法实施条例",
+  "title": "中华人民共和国个人所得税法实施条例",
+  "description": "1994年1月28日 中华人民共和国国务院令第142号发布",
+  "source": "@site/google/行政法规/个人所得税法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/个人所得税法实施条例",
+  "permalink": "/google/行政法规/个人所得税法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/个人所得税法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "个人存款账户实名制规定",
+    "permalink": "/google/行政法规/个人存款账户实名制规定"
+  },
+  "next": {
+    "title": "个体工商户条例",
+    "permalink": "/google/行政法规/个体工商户条例"
+  }
+}

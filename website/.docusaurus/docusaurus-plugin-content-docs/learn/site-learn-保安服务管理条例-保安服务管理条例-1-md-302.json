@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例1",
+  "title": "保安服务管理条例1",
+  "description": "第七条  对在保护公共财产和人民群众生命财产安全、预防和制止违法犯罪活动中有突出贡献的保安从业单位和保安员，公安机关和其他有关部门应当给予表彰、奖励。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例1.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例1",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "企业事业单位内部治安保卫条例",
+    "permalink": "/learn/企业事业单位内部治安保卫条例"
+  },
+  "next": {
+    "title": "保安服务管理条例10",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例10"
+  }
+}

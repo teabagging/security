@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/公民出境入境管理法实施细则",
+  "title": "中华人民共和国公民出境入境管理法实施细则",
+  "description": "1986年12月3日 国务院批准",
+  "source": "@site/google/行政法规/公民出境入境管理法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/公民出境入境管理法实施细则",
+  "permalink": "/google/行政法规/公民出境入境管理法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/公民出境入境管理法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "公安部对部分刀具实行管制的暂行规定",
+    "permalink": "/google/行政法规/公安部对部分刀具实行管制的暂行规定"
+  },
+  "next": {
+    "title": "公路安全保护条例",
+    "permalink": "/google/行政法规/公路安全保护条例"
+  }
+}

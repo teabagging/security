@@ -1,0 +1,24 @@
+{
+  "id": "经济法/统计法",
+  "title": "中华人民共和国统计法",
+  "description": "1983年12月8日 第六届全国人民代表大会常务委员会第三次会议通过",
+  "source": "@site/google/经济法/统计法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/统计法",
+  "permalink": "/google/经济法/统计法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/统计法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国税收征收管理法",
+    "permalink": "/google/经济法/税收征收管理法"
+  },
+  "next": {
+    "title": "中华人民共和国耕地占用税法",
+    "permalink": "/google/经济法/耕地占用税法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "食物词库",
+  "title": "食物词库",
+  "description": "土豆\t1777511",
+  "source": "@site/learn/食物词库.md",
+  "sourceDirName": ".",
+  "slug": "/食物词库",
+  "permalink": "/learn/食物词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/食物词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "防暴盾",
+    "permalink": "/learn/防暴盾"
+  },
+  "next": {
+    "title": "驻翠微路支行保安队工作纪实",
+    "permalink": "/learn/驻翠微路支行保安队工作纪实"
+  }
+}

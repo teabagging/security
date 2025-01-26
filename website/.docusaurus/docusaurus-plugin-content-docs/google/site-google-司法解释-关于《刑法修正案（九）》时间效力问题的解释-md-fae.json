@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于《刑法修正案（九）》时间效力问题的解释",
+  "title": "最高人民法院关于《中华人民共和国刑法修正案（九）》时间效力问题的解释",
+  "description": "为正确适用《中华人民共和国刑法修正案（九）》，根据《中华人民共和国刑法》第十二条规定，现就人民法院2015年11月1日以后审理的刑事案件，具体适用修正前后刑法的有关问题规定如下：",
+  "source": "@site/google/司法解释/关于《刑法修正案（九）》时间效力问题的解释.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于《刑法修正案（九）》时间效力问题的解释",
+  "permalink": "/google/司法解释/关于《刑法修正案（九）》时间效力问题的解释",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于《刑法修正案（九）》时间效力问题的解释.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于《中华人民共和国刑法修正案(八)》时间效力问题的解释",
+    "permalink": "/google/司法解释/关于《刑法修正案》时间效力问题的解释"
+  },
+  "next": {
+    "title": "最高人民法院关于上海金融法院案件管辖的规定",
+    "permalink": "/google/司法解释/关于上海金融法院案件管辖的规定"
+  }
+}

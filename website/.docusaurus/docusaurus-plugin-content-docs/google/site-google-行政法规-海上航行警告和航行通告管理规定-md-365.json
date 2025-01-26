@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/海上航行警告和航行通告管理规定",
+  "title": "中华人民共和国海上航行警告和航行通告管理规定",
+  "description": "第一条 为了加强海上航行警告和航行通告的管理，保障船舶、设施的航行和作业安全，根据《中华人民共和国海上交通安全法》有关规定，制定本规定。",
+  "source": "@site/google/行政法规/海上航行警告和航行通告管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/海上航行警告和航行通告管理规定",
+  "permalink": "/google/行政法规/海上航行警告和航行通告管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/海上航行警告和航行通告管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国海上交通事故调查处理条例",
+    "permalink": "/google/行政法规/海上交通事故调查处理条例"
+  },
+  "next": {
+    "title": "中华人民共和国海关事务担保条例",
+    "permalink": "/google/行政法规/海关事务担保条例"
+  }
+}

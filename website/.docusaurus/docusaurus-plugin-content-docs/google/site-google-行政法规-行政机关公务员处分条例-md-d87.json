@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/行政机关公务员处分条例",
+  "title": "行政机关公务员处分条例",
+  "description": "2007年4月4日 国务院第173次常务会议通过",
+  "source": "@site/google/行政法规/行政机关公务员处分条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/行政机关公务员处分条例",
+  "permalink": "/google/行政法规/行政机关公务员处分条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/行政机关公务员处分条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "行政执法机关移送涉嫌犯罪案件的规定",
+    "permalink": "/google/行政法规/行政执法机关移送涉嫌犯罪案件的规定"
+  },
+  "next": {
+    "title": "行政法规制定程序条例",
+    "permalink": "/google/行政法规/行政法规制定程序条例"
+  }
+}

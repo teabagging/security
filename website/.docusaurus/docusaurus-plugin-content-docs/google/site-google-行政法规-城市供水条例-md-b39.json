@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/城市供水条例",
+  "title": "城市供水条例",
+  "description": "1994年7月19日 中华人民共和国国务院令第158号发布",
+  "source": "@site/google/行政法规/城市供水条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/城市供水条例",
+  "permalink": "/google/行政法规/城市供水条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/城市供水条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "地震预报管理条例",
+    "permalink": "/google/行政法规/地震预报管理条例"
+  },
+  "next": {
+    "title": "城市居民最低生活保障条例",
+    "permalink": "/google/行政法规/城市居民最低生活保障条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/frontier",
+  "title": "frontier",
+  "description": "葡萄美酒夜光杯，欲饮琵琶马上催。醉卧沙场君莫笑，古来征战几人回？",
+  "source": "@site/learn/古诗词库/frontier.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/frontier",
+  "permalink": "/learn/古诗词库/frontier",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/frontier.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "friendship",
+    "permalink": "/learn/古诗词库/friendship"
+  },
+  "next": {
+    "title": "haofang",
+    "permalink": "/learn/古诗词库/haofang"
+  }
+}

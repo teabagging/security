@@ -1,0 +1,24 @@
+{
+  "id": "繁简体转换词库",
+  "title": "繁简体转换词库",
+  "description": "丁\t丁",
+  "source": "@site/learn/繁简体转换词库.md",
+  "sourceDirName": ".",
+  "slug": "/繁简体转换词库",
+  "permalink": "/learn/繁简体转换词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/繁简体转换词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "百度停用词表",
+    "permalink": "/learn/百度停用词表"
+  },
+  "next": {
+    "title": "职业词库",
+    "permalink": "/learn/职业词库"
+  }
+}

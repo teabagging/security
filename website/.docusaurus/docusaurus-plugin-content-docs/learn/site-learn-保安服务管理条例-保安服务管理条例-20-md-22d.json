@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例20",
+  "title": "保安服务管理条例20",
+  "description": "第十一条  申请设立从事武装守护押运服务的保安服务公司，应当向所在地设区的市级人民政府公安机关提交申请书以及能够证明其符合本条例第八条、第十条规定条件的材料。保安服务公司申请增设武装守护押运业务的，无需再次提交证明其符合本条例第八条规定条件的材料。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例20.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例20",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例20",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例20.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例2",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例2"
+  },
+  "next": {
+    "title": "保安服务管理条例21",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例21"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "娱乐场所管理条例",
+  "title": "娱乐场所管理条例",
+  "description": "中华人民共和国国务院令",
+  "source": "@site/learn/娱乐场所管理条例.md",
+  "sourceDirName": ".",
+  "slug": "/娱乐场所管理条例",
+  "permalink": "/learn/娱乐场所管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/娱乐场所管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "天津保安协会",
+    "permalink": "/learn/天津保安协会"
+  },
+  "next": {
+    "title": "安保决战冲锋号",
+    "permalink": "/learn/安保决战冲锋号"
+  }
+}

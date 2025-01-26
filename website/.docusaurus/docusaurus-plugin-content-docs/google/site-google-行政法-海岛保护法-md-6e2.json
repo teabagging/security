@@ -1,0 +1,24 @@
+{
+  "id": "行政法/海岛保护法",
+  "title": "中华人民共和国海岛保护法",
+  "description": "2009年12月26日 第十一届全国人民代表大会常务委员会第十二次会议通过",
+  "source": "@site/google/行政法/海岛保护法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/海岛保护法",
+  "permalink": "/google/行政法/海岛保护法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/海岛保护法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国海关法",
+    "permalink": "/google/行政法/海关法"
+  },
+  "next": {
+    "title": "中华人民共和国海洋环境保护法",
+    "permalink": "/google/行政法/海洋环境保护法"
+  }
+}

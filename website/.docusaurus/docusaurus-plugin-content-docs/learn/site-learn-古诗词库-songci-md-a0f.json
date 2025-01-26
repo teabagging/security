@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/songci",
+  "title": "songci",
+  "description": "洗妆真态，不作铅花御。竹外一枝斜，想佳人，天寒日暮。黄昏院落，无处著清香，风细细，雪垂垂，何况江头路。月边疏影，梦到消魂处。梅子欲黄时，又须作，廉纤细雨。孤芳一世，供断有情愁，消瘦损，东阳也，试问花知否",
+  "source": "@site/learn/古诗词库/songci.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/songci",
+  "permalink": "/learn/古诗词库/songci",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/songci.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "snow",
+    "permalink": "/learn/古诗词库/snow"
+  },
+  "next": {
+    "title": "tangshi",
+    "permalink": "/learn/古诗词库/tangshi"
+  }
+}

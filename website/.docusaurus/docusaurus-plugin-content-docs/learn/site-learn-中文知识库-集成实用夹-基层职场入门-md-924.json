@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/基层职场入门",
+  "title": "基层职场入门",
+  "description": "实习经历与团队管理",
+  "source": "@site/learn/中文知识库/集成实用夹/基层职场入门.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/基层职场入门",
+  "permalink": "/learn/中文知识库/集成实用夹/基层职场入门",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/基层职场入门.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "在线视频下载与网课资源",
+    "permalink": "/learn/中文知识库/集成实用夹/在线视频下载与网课资源"
+  },
+  "next": {
+    "title": "影响体验",
+    "permalink": "/learn/中文知识库/集成实用夹/影响体验"
+  }
+}

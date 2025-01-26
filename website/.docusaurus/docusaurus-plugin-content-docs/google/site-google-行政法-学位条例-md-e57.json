@@ -1,0 +1,24 @@
+{
+  "id": "行政法/学位条例",
+  "title": "中华人民共和国学位条例",
+  "description": "1980年2月12日 第五届全国人民代表大会常务委员会第十三次会议通过",
+  "source": "@site/google/行政法/学位条例.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/学位条例",
+  "permalink": "/google/行政法/学位条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/学位条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国大气污染防治法",
+    "permalink": "/google/行政法/大气污染防治法"
+  },
+  "next": {
+    "title": "中华人民共和国密码法",
+    "permalink": "/google/行政法/密码法"
+  }
+}

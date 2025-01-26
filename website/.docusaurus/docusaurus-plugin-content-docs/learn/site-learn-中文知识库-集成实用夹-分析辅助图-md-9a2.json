@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/分析辅助图",
+  "title": "分析辅助图",
+  "description": "分析辅助图",
+  "source": "@site/learn/中文知识库/集成实用夹/分析辅助图.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/分析辅助图",
+  "permalink": "/learn/中文知识库/集成实用夹/分析辅助图",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/分析辅助图.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "书籍与文档",
+    "permalink": "/learn/中文知识库/集成实用夹/书籍与文档"
+  },
+  "next": {
+    "title": "在线视频下载与网课资源",
+    "permalink": "/learn/中文知识库/集成实用夹/在线视频下载与网课资源"
+  }
+}

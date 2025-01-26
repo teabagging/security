@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/无线电管理条例",
+  "title": "中华人民共和国无线电管理条例",
+  "description": "1993年9月11日 中华人民共和国国务院、中华人民共和国中央军事委员会令第128号发布",
+  "source": "@site/google/行政法规/无线电管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/无线电管理条例",
+  "permalink": "/google/行政法规/无线电管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/无线电管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国无线电管制规定",
+    "permalink": "/google/行政法规/无线电管制规定"
+  },
+  "next": {
+    "title": "无证无照经营查处办法",
+    "permalink": "/google/行政法规/无证无照经营查处办法"
+  }
+}

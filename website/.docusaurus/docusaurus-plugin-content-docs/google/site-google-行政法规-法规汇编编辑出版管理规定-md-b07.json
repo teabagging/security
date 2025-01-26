@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/法规汇编编辑出版管理规定",
+  "title": "法规汇编编辑出版管理规定",
+  "description": "1990年7月29日 中华人民共和国国务院令第63号发布",
+  "source": "@site/google/行政法规/法规汇编编辑出版管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/法规汇编编辑出版管理规定",
+  "permalink": "/google/行政法规/法规汇编编辑出版管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/法规汇编编辑出版管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "法律援助条例",
+    "permalink": "/google/行政法规/法律援助条例"
+  },
+  "next": {
+    "title": "法规规章备案条例",
+    "permalink": "/google/行政法规/法规规章备案条例"
+  }
+}

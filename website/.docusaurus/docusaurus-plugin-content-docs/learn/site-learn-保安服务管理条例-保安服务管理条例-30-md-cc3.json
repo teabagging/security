@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例30",
+  "title": "保安服务管理条例30",
+  "description": "第二十五条  保安服务中使用的技术防范产品，应当符合有关的产品质量要求。保安服务中安装监控设备应当遵守国家有关技术规范，使用监控设备不得侵犯他人合法权益或者个人隐私。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例30.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例30",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例30",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例30.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例3",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例3"
+  },
+  "next": {
+    "title": "保安服务管理条例31",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例31"
+  }
+}

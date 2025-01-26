@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/风景名胜区条例",
+  "title": "风景名胜区条例",
+  "description": "2006年9月19日 中华人民共和国国务院令第474号公布",
+  "source": "@site/google/行政法规/风景名胜区条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/风景名胜区条例",
+  "permalink": "/google/行政法规/风景名胜区条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/风景名胜区条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国预算法实施条例",
+    "permalink": "/google/行政法规/预算法实施条例"
+  },
+  "next": {
+    "title": "中华人民共和国飞行基本规则",
+    "permalink": "/google/行政法规/飞行基本规则"
+  }
+}

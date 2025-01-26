@@ -1,0 +1,24 @@
+{
+  "id": "拆字词库",
+  "title": "拆字词库",
+  "description": "丁\t一 亅",
+  "source": "@site/learn/拆字词库.md",
+  "sourceDirName": ".",
+  "slug": "/拆字词库",
+  "permalink": "/learn/拆字词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/拆字词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "成语词库1",
+    "permalink": "/learn/成语词库1"
+  },
+  "next": {
+    "title": "汽车品牌",
+    "permalink": "/learn/汽车品牌"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/合伙企业登记管理办法",
+  "title": "中华人民共和国合伙企业登记管理办法",
+  "description": "1997年11月19日 中华人民共和国国务院令第236号发布",
+  "source": "@site/google/行政法规/合伙企业登记管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/合伙企业登记管理办法",
+  "permalink": "/google/行政法规/合伙企业登记管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/合伙企业登记管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国台湾同胞投资保护法实施细则",
+    "permalink": "/google/行政法规/台湾同胞投资保护法实施细则"
+  },
+  "next": {
+    "title": "合理化建议和技术改进奖励条例",
+    "permalink": "/google/行政法规/合理化建议和技术改进奖励条例"
+  }
+}

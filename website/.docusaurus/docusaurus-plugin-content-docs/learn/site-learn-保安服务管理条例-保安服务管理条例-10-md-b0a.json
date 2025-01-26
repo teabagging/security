@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例10",
+  "title": "保安服务管理条例10",
+  "description": "第四十条  国家机关及其工作人员不得设立保安服务公司，不得参与或者变相参与保安服务公司的经营活动。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例10.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例10",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例10",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例10.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例1",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例1"
+  },
+  "next": {
+    "title": "保安服务管理条例11",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例11"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/IT词库",
+  "title": "IT词库",
+  "description": "字符串 \t 395499",
+  "source": "@site/learn/中文分词词库/IT词库.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/IT词库",
+  "permalink": "/learn/中文分词词库/IT词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/IT词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "42537条伪原创词库",
+    "permalink": "/learn/中文分词词库/42537条伪原创词库"
+  },
+  "next": {
+    "title": "fingerDic",
+    "permalink": "/learn/中文分词词库/fingerDic"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/森林和野生动物类型自然保护区管理办法",
+  "title": "森林和野生动物类型自然保护区管理办法",
+  "description": "1985年6月21日 国务院批准",
+  "source": "@site/google/行政法规/森林和野生动物类型自然保护区管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/森林和野生动物类型自然保护区管理办法",
+  "permalink": "/google/行政法规/森林和野生动物类型自然保护区管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/森林和野生动物类型自然保护区管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "棉花质量监督管理条例",
+    "permalink": "/google/行政法规/棉花质量监督管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国森林法实施条例",
+    "permalink": "/google/行政法规/森林法实施条例"
+  }
+}

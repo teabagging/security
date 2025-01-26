@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例7",
+  "title": "保安服务管理条例7",
+  "description": "第三十九条  县级以上人民政府公安机关应当公布投诉方式，受理社会公众对保安从业单位、保安培训单位和保安员的投诉。接到投诉的公安机关应当及时调查处理，并反馈查处结果。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例7.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例7",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例7",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例7.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例6",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例6"
+  },
+  "next": {
+    "title": "保安服务管理条例8",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例8"
+  }
+}

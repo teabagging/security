@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/仲裁委员会仲裁收费办法",
+  "title": "仲裁委员会仲裁收费办法",
+  "description": "1995年7月28日 国务院发布",
+  "source": "@site/google/行政法规/仲裁委员会仲裁收费办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/仲裁委员会仲裁收费办法",
+  "permalink": "/google/行政法规/仲裁委员会仲裁收费办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/仲裁委员会仲裁收费办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国人类遗传资源管理条例",
+    "permalink": "/google/行政法规/人类遗传资源管理条例"
+  },
+  "next": {
+    "title": "仲裁委员会登记暂行办法",
+    "permalink": "/google/行政法规/仲裁委员会登记暂行办法"
+  }
+}

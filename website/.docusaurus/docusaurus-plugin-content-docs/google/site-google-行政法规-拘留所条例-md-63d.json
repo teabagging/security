@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/拘留所条例",
+  "title": "拘留所条例",
+  "description": "2012年2月15日 国务院第192次常务会议通过",
+  "source": "@site/google/行政法规/拘留所条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/拘留所条例",
+  "permalink": "/google/行政法规/拘留所条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/拘留所条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "报废机动车回收管理办法",
+    "permalink": "/google/行政法规/报废机动车回收管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国招标投标法实施条例",
+    "permalink": "/google/行政法规/招标投标法实施条例"
+  }
+}

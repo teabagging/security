@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/out",
+  "title": "out",
+  "description": "一个",
+  "source": "@site/learn/中文分词词库/out.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/out",
+  "permalink": "/learn/中文分词词库/out",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/out.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "httpcws",
+    "permalink": "/learn/中文分词词库/httpcws"
+  },
+  "next": {
+    "title": "中文名字",
+    "permalink": "/learn/中文分词词库/中文名字"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法/大气污染防治法",
+  "title": "中华人民共和国大气污染防治法",
+  "description": "1987年9月5日 第六届全国人民代表大会常务委员会第二十二次会议通过",
+  "source": "@site/google/行政法/大气污染防治法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/大气污染防治法",
+  "permalink": "/google/行政法/大气污染防治法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/大气污染防治法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国外国国家豁免法",
+    "permalink": "/google/行政法/外国国家豁免法"
+  },
+  "next": {
+    "title": "中华人民共和国学位条例",
+    "permalink": "/google/行政法/学位条例"
+  }
+}

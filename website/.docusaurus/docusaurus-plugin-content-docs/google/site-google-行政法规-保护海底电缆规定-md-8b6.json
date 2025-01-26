@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/保护海底电缆规定",
+  "title": "保护海底电缆规定",
+  "description": "(一) 保护海底电缆是加强海防建设的重要措施。各舰艇部队、交通航运、水产打捞、海洋调查、沿海社队等有关部门，要经常教育所属人员明确保护海底电缆的重要意义，提高警惕，严防破坏。",
+  "source": "@site/google/行政法规/保护海底电缆规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/保护海底电缆规定",
+  "permalink": "/google/行政法规/保护海底电缆规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/保护海底电缆规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例",
+    "permalink": "/google/行政法规/保安服务管理条例"
+  },
+  "next": {
+    "title": "保税区海关监管办法",
+    "permalink": "/google/行政法规/保税区海关监管办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/否定词库",
+  "title": "否定词库",
+  "description": "非\t0\t0",
+  "source": "@site/learn/中文分词词库/否定词库.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/否定词库",
+  "permalink": "/learn/中文分词词库/否定词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/否定词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "同义词库",
+    "permalink": "/learn/中文分词词库/同义词库"
+  },
+  "next": {
+    "title": "四十万可用搜狗txt词库",
+    "permalink": "/learn/中文分词词库/四十万可用搜狗txt词库"
+  }
+}

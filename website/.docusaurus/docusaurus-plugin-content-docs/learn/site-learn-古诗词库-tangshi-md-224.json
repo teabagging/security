@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/tangshi",
+  "title": "tangshi",
+  "description": "天地英雄气，千秋尚凛然。势分三足鼎，业复五铢钱。 得相能开国，生儿不象贤。凄凉蜀故妓，来舞魏宫前。",
+  "source": "@site/learn/古诗词库/tangshi.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/tangshi",
+  "permalink": "/learn/古诗词库/tangshi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/tangshi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "songci",
+    "permalink": "/learn/古诗词库/songci"
+  },
+  "next": {
+    "title": "view",
+    "permalink": "/learn/古诗词库/view"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/防治陆源污染物污染损害海洋环境管理条例",
+  "title": "中华人民共和国防治陆源污染物污染损害海洋环境管理条例",
+  "description": "1990年5月25日 国务院第61次常务会议通过",
+  "source": "@site/google/行政法规/防治陆源污染物污染损害海洋环境管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/防治陆源污染物污染损害海洋环境管理条例",
+  "permalink": "/google/行政法规/防治陆源污染物污染损害海洋环境管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/防治陆源污染物污染损害海洋环境管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "防治船舶污染海洋环境管理条例",
+    "permalink": "/google/行政法规/防治船舶污染海洋环境管理条例"
+  },
+  "next": {
+    "title": "防范和处置非法集资条例",
+    "permalink": "/google/行政法规/防范和处置非法集资条例"
+  }
+}

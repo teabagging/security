@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/股票发行与交易管理暂行条例",
+  "title": "股票发行与交易管理暂行条例",
+  "description": "1993年4月22日 中华人民共和国国务院令第112号发布",
+  "source": "@site/google/行政法规/股票发行与交易管理暂行条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/股票发行与交易管理暂行条例",
+  "permalink": "/google/行政法规/股票发行与交易管理暂行条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/股票发行与交易管理暂行条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "职工带薪年休假条例",
+    "permalink": "/google/行政法规/职工带薪年休假条例"
+  },
+  "next": {
+    "title": "中华人民共和国自然保护区条例",
+    "permalink": "/google/行政法规/自然保护区条例"
+  }
+}

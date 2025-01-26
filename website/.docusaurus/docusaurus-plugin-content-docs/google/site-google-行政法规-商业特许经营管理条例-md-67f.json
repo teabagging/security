@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/商业特许经营管理条例",
+  "title": "商业特许经营管理条例",
+  "description": "2007年1月31日 国务院第167次常务会议通过",
+  "source": "@site/google/行政法规/商业特许经营管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/商业特许经营管理条例",
+  "permalink": "/google/行政法规/商业特许经营管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/商业特许经营管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "合理化建议和技术改进奖励条例",
+    "permalink": "/google/行政法规/合理化建议和技术改进奖励条例"
+  },
+  "next": {
+    "title": "中华人民共和国商标法实施条例",
+    "permalink": "/google/行政法规/商标法实施条例"
+  }
+}

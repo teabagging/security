@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/知识产权海关保护条例",
+  "title": "中华人民共和国知识产权海关保护条例",
+  "description": "2003年12月2日 中华人民共和国国务院令第395号公布",
+  "source": "@site/google/行政法规/知识产权海关保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/知识产权海关保护条例",
+  "permalink": "/google/行政法规/知识产权海关保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/知识产权海关保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国看守所条例",
+    "permalink": "/google/行政法规/看守所条例"
+  },
+  "next": {
+    "title": "石油地震勘探损害补偿规定",
+    "permalink": "/google/行政法规/石油地震勘探损害补偿规定"
+  }
+}

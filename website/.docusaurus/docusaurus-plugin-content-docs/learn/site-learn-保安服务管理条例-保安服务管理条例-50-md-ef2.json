@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例50",
+  "title": "保安服务管理条例50",
+  "description": "第十八条  保安从业单位应当招用符合保安员条件的人员担任保安员，并与被招用的保安员依法签订劳动合同。保安从业单位及其保安员应当依法参加社会保险。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例50.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例50",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例50",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例50.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例5",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例5"
+  },
+  "next": {
+    "title": "保安服务管理条例51",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例51"
+  }
+}

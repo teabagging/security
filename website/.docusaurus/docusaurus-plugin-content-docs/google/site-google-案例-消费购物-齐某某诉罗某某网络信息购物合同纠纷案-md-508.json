@@ -1,0 +1,24 @@
+{
+  "id": "案例/消费购物/齐某某诉罗某某网络信息购物合同纠纷案",
+  "title": "电子商务经营者应当遵守对消费者做出的有利承诺，对承诺的解释应按普通消费者的通常认知进行",
+  "description": "消费者权益保护典型案例",
+  "source": "@site/google/案例/消费购物/齐某某诉罗某某网络信息购物合同纠纷案.md",
+  "sourceDirName": "案例/消费购物",
+  "slug": "/案例/消费购物/齐某某诉罗某某网络信息购物合同纠纷案",
+  "permalink": "/google/案例/消费购物/齐某某诉罗某某网络信息购物合同纠纷案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/消费购物/齐某某诉罗某某网络信息购物合同纠纷案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "经营未标明基本信息的预包装食品的法律责任",
+    "permalink": "/google/案例/消费购物/魏某诉某科技有限公司网络购物合同纠纷一案"
+  },
+  "next": {
+    "title": "中山市某房地产发展有限公司诉广东省中山市自然资源局要求解除行政协议案",
+    "permalink": "/google/案例/行政协议诉讼/中山市某房地产发展有限公司诉广东省中山市自然资源局要求解除行政协议案"
+  }
+}

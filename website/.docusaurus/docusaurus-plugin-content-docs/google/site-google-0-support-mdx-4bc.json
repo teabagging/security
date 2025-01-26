@@ -1,0 +1,21 @@
+{
+  "id": "support",
+  "title": "Support",
+  "description": "📊GoogleSheet",
+  "source": "@site/google/0-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/google/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/0-support.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "next": {
+    "title": "中华人民共和国宪法",
+    "permalink": "/google/中华人民共和国宪法"
+  }
+}

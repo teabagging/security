@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/商标法实施条例",
+  "title": "中华人民共和国商标法实施条例",
+  "description": "2002年8月3日 中华人民共和国国务院令第358号公布",
+  "source": "@site/google/行政法规/商标法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/商标法实施条例",
+  "permalink": "/google/行政法规/商标法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/商标法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "商业特许经营管理条例",
+    "permalink": "/google/行政法规/商业特许经营管理条例"
+  },
+  "next": {
+    "title": "商用密码管理条例",
+    "permalink": "/google/行政法规/商用密码管理条例"
+  }
+}

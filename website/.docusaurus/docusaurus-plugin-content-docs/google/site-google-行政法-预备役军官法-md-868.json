@@ -1,0 +1,24 @@
+{
+  "id": "行政法/预备役军官法",
+  "title": "中华人民共和国预备役军官法",
+  "description": "1995年5月10日 第八届全国人民代表大会常务委员会第十三次会议通过",
+  "source": "@site/google/行政法/预备役军官法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/预备役军官法",
+  "permalink": "/google/行政法/预备役军官法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/预备役军官法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国预备役人员法",
+    "permalink": "/google/行政法/预备役人员法"
+  },
+  "next": {
+    "title": "中华人民共和国食品安全法",
+    "permalink": "/google/行政法/食品安全法"
+  }
+}

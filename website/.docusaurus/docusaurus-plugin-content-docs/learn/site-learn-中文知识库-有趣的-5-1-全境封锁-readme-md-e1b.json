@@ -1,0 +1,26 @@
+{
+  "id": "中文知识库/有趣的/5.1全境封锁/readme",
+  "title": "readme",
+  "description": "💡idea 请将这些链接转化为学术研究论文的方式去理解他们。一个链接对应着一个知网等学术期刊，你会有不一样的发现",
+  "source": "@site/learn/中文知识库/有趣的/5.1全境封锁/readme.md",
+  "sourceDirName": "中文知识库/有趣的/5.1全境封锁",
+  "slug": "/中文知识库/有趣的/5.1全境封锁/",
+  "permalink": "/learn/中文知识库/有趣的/5.1全境封锁/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/5.1全境封锁/readme.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "readme",
+    "permalink": "/learn/中文知识库/有趣的/5 乌托邦致幻之境！/"
+  },
+  "next": {
+    "title": "吃皇粮与学习生存",
+    "permalink": "/learn/中文知识库/有趣的/吃皇粮与学习生存"
+  }
+}

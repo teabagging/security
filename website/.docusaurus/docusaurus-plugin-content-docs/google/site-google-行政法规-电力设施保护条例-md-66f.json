@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/电力设施保护条例",
+  "title": "电力设施保护条例",
+  "description": "1987年9月15日 国务院发布",
+  "source": "@site/google/行政法规/电力设施保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/电力设施保护条例",
+  "permalink": "/google/行政法规/电力设施保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/电力设施保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "电力监管条例",
+    "permalink": "/google/行政法规/电力监管条例"
+  },
+  "next": {
+    "title": "电影管理条例",
+    "permalink": "/google/行政法规/电影管理条例"
+  }
+}

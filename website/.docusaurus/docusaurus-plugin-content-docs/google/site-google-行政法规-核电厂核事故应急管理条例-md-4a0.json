@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/核电厂核事故应急管理条例",
+  "title": "核电厂核事故应急管理条例",
+  "description": "1993年8月4日 中华人民共和国国务院令第124号发布",
+  "source": "@site/google/行政法规/核电厂核事故应急管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/核电厂核事故应急管理条例",
+  "permalink": "/google/行政法规/核电厂核事故应急管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/核电厂核事故应急管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国核材料管制条例",
+    "permalink": "/google/行政法规/核材料管制条例"
+  },
+  "next": {
+    "title": "中华人民共和国档案法实施办法",
+    "permalink": "/google/行政法规/档案法实施办法"
+  }
+}

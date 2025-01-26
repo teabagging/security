@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/农田水利条例",
+  "title": "农田水利条例",
+  "description": "2016年4月27日 国务院第131次常务会议通过",
+  "source": "@site/google/行政法规/农田水利条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/农田水利条例",
+  "permalink": "/google/行政法规/农田水利条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/农田水利条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "农民承担费用和劳务管理条例",
+    "permalink": "/google/行政法规/农民承担费用和劳务管理条例"
+  },
+  "next": {
+    "title": "农药管理条例",
+    "permalink": "/google/行政法规/农药管理条例"
+  }
+}

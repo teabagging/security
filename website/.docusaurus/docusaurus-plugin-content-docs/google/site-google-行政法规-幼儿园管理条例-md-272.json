@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/幼儿园管理条例",
+  "title": "幼儿园管理条例",
+  "description": "1989年8月20日 国务院批准",
+  "source": "@site/google/行政法规/幼儿园管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/幼儿园管理条例",
+  "permalink": "/google/行政法规/幼儿园管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/幼儿园管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国市场主体登记管理条例",
+    "permalink": "/google/行政法规/市场主体登记管理条例"
+  },
+  "next": {
+    "title": "广告管理条例",
+    "permalink": "/google/行政法规/广告管理条例"
+  }
+}

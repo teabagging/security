@@ -1,0 +1,24 @@
+{
+  "id": "行政法/全国人民代表大会常务委员会议事规则",
+  "title": "中华人民共和国全国人民代表大会常务委员会议事规则",
+  "description": "1987年11月24日 第六届全国人民代表大会常务委员会第二十三次会议通过",
+  "source": "@site/google/行政法/全国人民代表大会常务委员会议事规则.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/全国人民代表大会常务委员会议事规则",
+  "permalink": "/google/行政法/全国人民代表大会常务委员会议事规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/全国人民代表大会常务委员会议事规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国保守国家秘密法",
+    "permalink": "/google/行政法/保守国家秘密法"
+  },
+  "next": {
+    "title": "中华人民共和国公共图书馆法",
+    "permalink": "/google/行政法/公共图书馆法"
+  }
+}

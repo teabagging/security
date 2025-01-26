@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/化妆品监督管理条例",
+  "title": "化妆品监督管理条例",
+  "description": "第一章　总则",
+  "source": "@site/google/行政法规/化妆品监督管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/化妆品监督管理条例",
+  "permalink": "/google/行政法规/化妆品监督管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/化妆品监督管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "化妆品卫生监督条例",
+    "permalink": "/google/行政法规/化妆品卫生监督条例"
+  },
+  "next": {
+    "title": "北京市新技术产业开发试验区暂行条例",
+    "permalink": "/google/行政法规/北京市新技术产业开发试验区暂行条例"
+  }
+}

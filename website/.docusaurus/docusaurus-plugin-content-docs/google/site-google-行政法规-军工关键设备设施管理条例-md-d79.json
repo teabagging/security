@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/军工关键设备设施管理条例",
+  "title": "军工关键设备设施管理条例",
+  "description": "2011年6月24日 中华人民共和国国务院、中华人民共和国中央军事委员会令第598号公布",
+  "source": "@site/google/行政法规/军工关键设备设施管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/军工关键设备设施管理条例",
+  "permalink": "/google/行政法规/军工关键设备设施管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/军工关键设备设施管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国军品出口管理条例",
+    "permalink": "/google/行政法规/军品出口管理条例"
+  },
+  "next": {
+    "title": "军服管理条例",
+    "permalink": "/google/行政法规/军服管理条例"
+  }
+}

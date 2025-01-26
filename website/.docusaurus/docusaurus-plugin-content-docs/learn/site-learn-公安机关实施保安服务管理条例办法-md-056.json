@@ -1,0 +1,24 @@
+{
+  "id": "公安机关实施保安服务管理条例办法",
+  "title": "公安机关实施保安服务管理条例办法",
+  "description": "第一章  总  则",
+  "source": "@site/learn/公安机关实施保安服务管理条例办法.md",
+  "sourceDirName": ".",
+  "slug": "/公安机关实施保安服务管理条例办法",
+  "permalink": "/learn/公安机关实施保安服务管理条例办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/公安机关实施保安服务管理条例办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "公司名字词库",
+    "permalink": "/learn/公司名字词库"
+  },
+  "next": {
+    "title": "动物词库",
+    "permalink": "/learn/动物词库"
+  }
+}

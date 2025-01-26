@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/武器装备质量管理条例",
+  "title": "武器装备质量管理条例",
+  "description": "2010年9月30日 中华人民共和国国务院、中华人民共和国中央军事委员会令第582号公布",
+  "source": "@site/google/行政法规/武器装备质量管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/武器装备质量管理条例",
+  "permalink": "/google/行政法规/武器装备质量管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/武器装备质量管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "武器装备科研生产许可管理条例",
+    "permalink": "/google/行政法规/武器装备科研生产许可管理条例"
+  },
+  "next": {
+    "title": "残疾人专用品免征进口税收暂行规定",
+    "permalink": "/google/行政法规/残疾人专用品免征进口税收暂行规定"
+  }
+}

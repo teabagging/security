@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/总会计师条例",
+  "title": "总会计师条例",
+  "description": "1990年12月31日 中华人民共和国国务院令第72号发布",
+  "source": "@site/google/行政法规/总会计师条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/总会计师条例",
+  "permalink": "/google/行政法规/总会计师条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/总会计师条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "快递暂行条例",
+    "permalink": "/google/行政法规/快递暂行条例"
+  },
+  "next": {
+    "title": "戒毒条例",
+    "permalink": "/google/行政法规/戒毒条例"
+  }
+}

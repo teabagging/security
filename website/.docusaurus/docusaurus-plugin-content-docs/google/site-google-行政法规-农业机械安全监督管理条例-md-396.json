@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/农业机械安全监督管理条例",
+  "title": "农业机械安全监督管理条例",
+  "description": "2009年9月17日 中华人民共和国国务院令第563号公布",
+  "source": "@site/google/行政法规/农业机械安全监督管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/农业机械安全监督管理条例",
+  "permalink": "/google/行政法规/农业机械安全监督管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/农业机械安全监督管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "农业化学物质产品行政保护条例",
+    "permalink": "/google/行政法规/农业化学物质产品行政保护条例"
+  },
+  "next": {
+    "title": "农业转基因生物安全管理条例",
+    "permalink": "/google/行政法规/农业转基因生物安全管理条例"
+  }
+}

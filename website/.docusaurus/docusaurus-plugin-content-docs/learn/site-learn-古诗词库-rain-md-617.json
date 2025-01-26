@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/rain",
+  "title": "rain",
+  "description": "明月别枝惊鹊，清风半夜鸣蝉。稻花香里说丰年。听取蛙声一片。 七八个星天外，两三点雨山前。旧时茅店社林边。路转溪头忽见。",
+  "source": "@site/learn/古诗词库/rain.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/rain",
+  "permalink": "/learn/古诗词库/rain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/rain.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "patriotic",
+    "permalink": "/learn/古诗词库/patriotic"
+  },
+  "next": {
+    "title": "read",
+    "permalink": "/learn/古诗词库/read"
+  }
+}

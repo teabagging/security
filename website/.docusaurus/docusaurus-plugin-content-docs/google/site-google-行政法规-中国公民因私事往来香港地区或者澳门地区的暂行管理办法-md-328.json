@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/中国公民因私事往来香港地区或者澳门地区的暂行管理办法",
+  "title": "中国公民因私事往来香港地区或者澳门地区的暂行管理办法",
+  "description": "1986年12月3日 国务院批准",
+  "source": "@site/google/行政法规/中国公民因私事往来香港地区或者澳门地区的暂行管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/中国公民因私事往来香港地区或者澳门地区的暂行管理办法",
+  "permalink": "/google/行政法规/中国公民因私事往来香港地区或者澳门地区的暂行管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/中国公民因私事往来香港地区或者澳门地区的暂行管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中国公民出国旅游管理办法",
+    "permalink": "/google/行政法规/中国公民出国旅游管理办法"
+  },
+  "next": {
+    "title": "中国公民往来台湾地区管理办法",
+    "permalink": "/google/行政法规/中国公民往来台湾地区管理办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法/境外非政府组织境内活动管理法",
+  "title": "中华人民共和国境外非政府组织境内活动管理法",
+  "description": "中华人民共和国境外非政府组织",
+  "source": "@site/google/行政法/境外非政府组织境内活动管理法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/境外非政府组织境内活动管理法",
+  "permalink": "/google/行政法/境外非政府组织境内活动管理法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/境外非政府组织境内活动管理法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国基本医疗卫生与健康促进法",
+    "permalink": "/google/行政法/基本医疗卫生与健康促进法"
+  },
+  "next": {
+    "title": "中华人民共和国外国国家豁免法",
+    "permalink": "/google/行政法/外国国家豁免法"
+  }
+}

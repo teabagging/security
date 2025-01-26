@@ -1,0 +1,24 @@
+{
+  "id": "经济法/对外贸易法",
+  "title": "中华人民共和国对外贸易法",
+  "description": "1994年5月12日 第八届全国人民代表大会常务委员会第七次会议通过",
+  "source": "@site/google/经济法/对外贸易法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/对外贸易法",
+  "permalink": "/google/经济法/对外贸易法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/对外贸易法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国审计法",
+    "permalink": "/google/经济法/审计法"
+  },
+  "next": {
+    "title": "中华人民共和国广告法",
+    "permalink": "/google/经济法/广告法"
+  }
+}

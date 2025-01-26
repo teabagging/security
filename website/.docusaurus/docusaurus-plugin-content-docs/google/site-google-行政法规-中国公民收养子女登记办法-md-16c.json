@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/中国公民收养子女登记办法",
+  "title": "中国公民收养子女登记办法",
+  "description": "1999年5月12日 国务院批准",
+  "source": "@site/google/行政法规/中国公民收养子女登记办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/中国公民收养子女登记办法",
+  "permalink": "/google/行政法规/中国公民收养子女登记办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/中国公民收养子女登记办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中国公民往来台湾地区管理办法",
+    "permalink": "/google/行政法规/中国公民往来台湾地区管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国中外合作办学条例",
+    "permalink": "/google/行政法规/中外合作办学条例"
+  }
+}

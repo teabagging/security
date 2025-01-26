@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/民族乡行政工作条例",
+  "title": "民族乡行政工作条例",
+  "description": "1993年8月29日 国务院批准",
+  "source": "@site/google/行政法规/民族乡行政工作条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/民族乡行政工作条例",
+  "permalink": "/google/行政法规/民族乡行政工作条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/民族乡行政工作条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "民办非企业单位登记管理暂行条例",
+    "permalink": "/google/行政法规/民办非企业单位登记管理暂行条例"
+  },
+  "next": {
+    "title": "民用建筑节能条例",
+    "permalink": "/google/行政法规/民用建筑节能条例"
+  }
+}

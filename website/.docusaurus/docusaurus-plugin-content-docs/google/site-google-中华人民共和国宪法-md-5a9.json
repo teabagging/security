@@ -1,0 +1,24 @@
+{
+  "id": "中华人民共和国宪法",
+  "title": "中华人民共和国宪法",
+  "description": "1982年12月4日第五届全国人民代表大会第五次会议通过",
+  "source": "@site/google/中华人民共和国宪法.md",
+  "sourceDirName": ".",
+  "slug": "/中华人民共和国宪法",
+  "permalink": "/google/中华人民共和国宪法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/中华人民共和国宪法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/google/support"
+  },
+  "next": {
+    "title": "人体损伤程度鉴定标准",
+    "permalink": "/google/其他/人体损伤程度鉴定标准"
+  }
+}

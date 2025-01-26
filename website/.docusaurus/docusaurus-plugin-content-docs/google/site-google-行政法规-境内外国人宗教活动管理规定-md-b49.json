@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/境内外国人宗教活动管理规定",
+  "title": "中华人民共和国境内外国人宗教活动管理规定",
+  "description": "1994年1月31日 中华人民共和国国务院令第144号发布",
+  "source": "@site/google/行政法规/境内外国人宗教活动管理规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/境内外国人宗教活动管理规定",
+  "permalink": "/google/行政法规/境内外国人宗教活动管理规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/境内外国人宗教活动管理规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "基金会管理条例",
+    "permalink": "/google/行政法规/基金会管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国增值税暂行条例",
+    "permalink": "/google/行政法规/增值税暂行条例"
+  }
+}

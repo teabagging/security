@@ -1,0 +1,24 @@
+{
+  "id": "其他/人体损伤程度鉴定标准",
+  "title": "人体损伤程度鉴定标准",
+  "description": "范围",
+  "source": "@site/google/其他/人体损伤程度鉴定标准.md",
+  "sourceDirName": "其他",
+  "slug": "/其他/人体损伤程度鉴定标准",
+  "permalink": "/google/其他/人体损伤程度鉴定标准",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/其他/人体损伤程度鉴定标准.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法",
+    "permalink": "/google/中华人民共和国宪法"
+  },
+  "next": {
+    "title": "劳动仲裁和劳动诉讼的攻略",
+    "permalink": "/google/其他/劳动仲裁和劳动诉讼的攻略"
+  }
+}

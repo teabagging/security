@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/防止拆船污染环境管理条例",
+  "title": "防止拆船污染环境管理条例",
+  "description": "1988年5月18日 国务院发布",
+  "source": "@site/google/行政法规/防止拆船污染环境管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/防止拆船污染环境管理条例",
+  "permalink": "/google/行政法规/防止拆船污染环境管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/防止拆船污染环境管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "长江河道采砂管理条例",
+    "permalink": "/google/行政法规/长江河道采砂管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国防汛条例",
+    "permalink": "/google/行政法规/防汛条例"
+  }
+}

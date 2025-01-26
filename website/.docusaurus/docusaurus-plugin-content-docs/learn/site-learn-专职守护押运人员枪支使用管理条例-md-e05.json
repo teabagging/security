@@ -1,0 +1,24 @@
+{
+  "id": "专职守护押运人员枪支使用管理条例",
+  "title": "专职守护押运人员枪支使用管理条例",
+  "description": "中华人民共和国国务院令",
+  "source": "@site/learn/专职守护押运人员枪支使用管理条例.md",
+  "sourceDirName": ".",
+  "slug": "/专职守护押运人员枪支使用管理条例",
+  "permalink": "/learn/专职守护押运人员枪支使用管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/专职守护押运人员枪支使用管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "Support",
+    "permalink": "/learn/support"
+  },
+  "next": {
+    "title": "中华人民共和国宪法",
+    "permalink": "/learn/中华人民共和国宪法"
+  }
+}

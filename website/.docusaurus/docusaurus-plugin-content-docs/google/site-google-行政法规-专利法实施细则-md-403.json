@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/专利法实施细则",
+  "title": "中华人民共和国专利法实施细则",
+  "description": "2001年6月15日 中华人民共和国国务院令第306号公布",
+  "source": "@site/google/行政法规/专利法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/专利法实施细则",
+  "permalink": "/google/行政法规/专利法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/专利法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "专利代理条例",
+    "permalink": "/google/行政法规/专利代理条例"
+  },
+  "next": {
+    "title": "专职守护押运人员枪支使用管理条例",
+    "permalink": "/google/行政法规/专职守护押运人员枪支使用管理条例"
+  }
+}

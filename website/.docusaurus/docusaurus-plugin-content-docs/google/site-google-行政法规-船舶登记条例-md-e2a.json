@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/船舶登记条例",
+  "title": "中华人民共和国船舶登记条例",
+  "description": "1994年6月2日 中华人民共和国国务院令第155号发布",
+  "source": "@site/google/行政法规/船舶登记条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/船舶登记条例",
+  "permalink": "/google/行政法规/船舶登记条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/船舶登记条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国船舶和海上设施检验条例",
+    "permalink": "/google/行政法规/船舶和海上设施检验条例"
+  },
+  "next": {
+    "title": "艾滋病防治条例",
+    "permalink": "/google/行政法规/艾滋病防治条例"
+  }
+}

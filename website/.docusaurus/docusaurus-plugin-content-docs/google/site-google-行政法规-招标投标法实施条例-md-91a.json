@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/招标投标法实施条例",
+  "title": "中华人民共和国招标投标法实施条例",
+  "description": "2011年12月20日 中华人民共和国国务院令第613号公布",
+  "source": "@site/google/行政法规/招标投标法实施条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/招标投标法实施条例",
+  "permalink": "/google/行政法规/招标投标法实施条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/招标投标法实施条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "拘留所条例",
+    "permalink": "/google/行政法规/拘留所条例"
+  },
+  "next": {
+    "title": "指导外商投资方向规定",
+    "permalink": "/google/行政法规/指导外商投资方向规定"
+  }
+}

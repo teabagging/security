@@ -1,0 +1,24 @@
+{
+  "id": "诉讼与非诉讼程序法/民事诉讼法",
+  "title": "中华人民共和国民事诉讼法",
+  "description": "1991年4月9日 第七届全国人民代表大会第四次会议通过",
+  "source": "@site/google/诉讼与非诉讼程序法/民事诉讼法.md",
+  "sourceDirName": "诉讼与非诉讼程序法",
+  "slug": "/诉讼与非诉讼程序法/民事诉讼法",
+  "permalink": "/google/诉讼与非诉讼程序法/民事诉讼法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/诉讼与非诉讼程序法/民事诉讼法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国引渡法",
+    "permalink": "/google/诉讼与非诉讼程序法/引渡法"
+  },
+  "next": {
+    "title": "中华人民共和国海事诉讼特别程序法",
+    "permalink": "/google/诉讼与非诉讼程序法/海事诉讼特别程序法"
+  }
+}

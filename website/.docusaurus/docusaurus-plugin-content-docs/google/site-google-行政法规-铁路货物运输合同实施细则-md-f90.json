@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/铁路货物运输合同实施细则",
+  "title": "铁路货物运输合同实施细则",
+  "description": "1986年11月8日 国务院批准",
+  "source": "@site/google/行政法规/铁路货物运输合同实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/铁路货物运输合同实施细则",
+  "permalink": "/google/行政法规/铁路货物运输合同实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/铁路货物运输合同实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "铁路安全管理条例",
+    "permalink": "/google/行政法规/铁路安全管理条例"
+  },
+  "next": {
+    "title": "铺设海底电缆管道管理规定",
+    "permalink": "/google/行政法规/铺设海底电缆管道管理规定"
+  }
+}

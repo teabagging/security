@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（一）",
+  "title": "最高人民法院关于适用《中华人民共和国涉外民事关系法律适用法》若干问题的解释（一）",
+  "description": "2012年12月10日 最高人民法院审判委员会第1563次会议通过",
+  "source": "@site/google/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（一）.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（一）",
+  "permalink": "/google/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（一）",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（一）.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于适用《中华人民共和国海事诉讼特别程序法》若干问题的解释",
+    "permalink": "/google/司法解释/关于适用《海事诉讼特别程序法》若干问题的解释"
+  },
+  "next": {
+    "title": "最高人民法院关于适用《中华人民共和国涉外民事关系法律适用法》若干问题的解释（二）",
+    "permalink": "/google/司法解释/关于适用《涉外民事关系法律适用法》若干问题的解释（二）"
+  }
+}

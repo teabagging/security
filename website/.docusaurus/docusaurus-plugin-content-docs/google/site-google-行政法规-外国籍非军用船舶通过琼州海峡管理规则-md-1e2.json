@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外国籍非军用船舶通过琼州海峡管理规则",
+  "title": "外国籍非军用船舶通过琼州海峡管理规则",
+  "description": "1964年6月8日 国务院公布",
+  "source": "@site/google/行政法规/外国籍非军用船舶通过琼州海峡管理规则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外国籍非军用船舶通过琼州海峡管理规则",
+  "permalink": "/google/行政法规/外国籍非军用船舶通过琼州海峡管理规则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外国籍非军用船舶通过琼州海峡管理规则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国外国籍船舶航行长江水域管理规定",
+    "permalink": "/google/行政法规/外国籍船舶航行长江水域管理规定"
+  },
+  "next": {
+    "title": "中华人民共和国外汇管理条例",
+    "permalink": "/google/行政法规/外汇管理条例"
+  }
+}

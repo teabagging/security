@@ -1,0 +1,24 @@
+{
+  "id": "社会法/退役军人保障法",
+  "title": "中华人民共和国退役军人保障法",
+  "description": "2020年11月11日 第十三届全国人民代表大会常务委员会第二十三次会议通过",
+  "source": "@site/google/社会法/退役军人保障法.md",
+  "sourceDirName": "社会法",
+  "slug": "/社会法/退役军人保障法",
+  "permalink": "/google/社会法/退役军人保障法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/社会法/退役军人保障法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国职业病防治法",
+    "permalink": "/google/社会法/职业病防治法"
+  },
+  "next": {
+    "title": "中华人民共和国预防未成年人犯罪法",
+    "permalink": "/google/社会法/预防未成年人犯罪法"
+  }
+}

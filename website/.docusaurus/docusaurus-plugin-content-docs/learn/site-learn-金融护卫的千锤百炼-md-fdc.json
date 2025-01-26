@@ -1,0 +1,24 @@
+{
+  "id": "金融护卫的千锤百炼",
+  "title": "金融护卫的千锤百炼",
+  "description": "在金融安全的坚实壁垒背后，押运分公司始终坚守风险防范的最前线。按照集团党委关于节前安全工作的部署要求，12月16日，郑保集团押运分公司精心组织并严格实施了一场应急演练，旨在全方位提升应对突发危机的能力，为金融押运工作构筑更加坚固的安全防线。",
+  "source": "@site/learn/金融护卫的千锤百炼.md",
+  "sourceDirName": ".",
+  "slug": "/金融护卫的千锤百炼",
+  "permalink": "/learn/金融护卫的千锤百炼",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/金融护卫的千锤百炼.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "财经词库",
+    "permalink": "/learn/财经词库"
+  },
+  "next": {
+    "title": "防暴盾",
+    "permalink": "/learn/防暴盾"
+  }
+}

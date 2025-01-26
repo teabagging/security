@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/草原防火条例",
+  "title": "草原防火条例",
+  "description": "1993年10月5日 中华人民共和国国务院令第130号公布",
+  "source": "@site/google/行政法规/草原防火条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/草原防火条例",
+  "permalink": "/google/行政法规/草原防火条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/草原防火条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "艾滋病防治条例",
+    "permalink": "/google/行政法规/艾滋病防治条例"
+  },
+  "next": {
+    "title": "中华人民共和国药品管理法实施条例",
+    "permalink": "/google/行政法规/药品管理法实施条例"
+  }
+}

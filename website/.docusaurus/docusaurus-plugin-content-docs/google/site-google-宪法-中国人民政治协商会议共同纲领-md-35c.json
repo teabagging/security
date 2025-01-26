@@ -1,0 +1,24 @@
+{
+  "id": "宪法/中国人民政治协商会议共同纲领",
+  "title": "中国人民政治协商会议共同纲领",
+  "description": "一九四九年九月二十九日",
+  "source": "@site/google/宪法/中国人民政治协商会议共同纲领.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/中国人民政治协商会议共同纲领",
+  "permalink": "/google/宪法/中国人民政治协商会议共同纲领",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/中国人民政治协商会议共同纲领.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国个人所得税法",
+    "permalink": "/google/宪法/中华人民共和国个人所得税法"
+  },
+  "next": {
+    "title": "中华人民共和国宪法修正案（2004年）",
+    "permalink": "/google/宪法/宪法修正案04"
+  }
+}

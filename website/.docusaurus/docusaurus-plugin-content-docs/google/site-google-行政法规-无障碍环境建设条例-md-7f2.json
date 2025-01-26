@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/无障碍环境建设条例",
+  "title": "无障碍环境建设条例",
+  "description": "2012年6月13日 国务院第208次常务会议通过",
+  "source": "@site/google/行政法规/无障碍环境建设条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/无障碍环境建设条例",
+  "permalink": "/google/行政法规/无障碍环境建设条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/无障碍环境建设条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "无证无照经营查处办法",
+    "permalink": "/google/行政法规/无证无照经营查处办法"
+  },
+  "next": {
+    "title": "易制毒化学品管理条例",
+    "permalink": "/google/行政法规/易制毒化学品管理条例"
+  }
+}

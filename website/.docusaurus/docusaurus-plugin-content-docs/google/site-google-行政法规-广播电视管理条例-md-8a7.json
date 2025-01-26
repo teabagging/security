@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/广播电视管理条例",
+  "title": "广播电视管理条例",
+  "description": "1997年8月11日 中华人民共和国国务院令第228号发布",
+  "source": "@site/google/行政法规/广播电视管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/广播电视管理条例",
+  "permalink": "/google/行政法规/广播电视管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/广播电视管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "广播电台电视台播放录音制品支付报酬暂行办法",
+    "permalink": "/google/行政法规/广播电台电视台播放录音制品支付报酬暂行办法"
+  },
+  "next": {
+    "title": "广播电视设施保护条例",
+    "permalink": "/google/行政法规/广播电视设施保护条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/全国污染源普查条例",
+  "title": "全国污染源普查条例",
+  "description": "2007年10月9日 中华人民共和国国务院令第508号公布",
+  "source": "@site/google/行政法规/全国污染源普查条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/全国污染源普查条例",
+  "permalink": "/google/行政法规/全国污染源普查条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/全国污染源普查条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "全国年节及纪念日放假办法",
+    "permalink": "/google/行政法规/全国年节及纪念日放假办法"
+  },
+  "next": {
+    "title": "全国社会保障基金条例",
+    "permalink": "/google/行政法规/全国社会保障基金条例"
+  }
+}

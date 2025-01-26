@@ -1,0 +1,24 @@
+{
+  "id": "宪法/宪法修正案99",
+  "title": "中华人民共和国宪法修正案（1999年）",
+  "description": "1999年3月15日 第九届全国人民代表大会第二次会议通过",
+  "source": "@site/google/宪法/宪法修正案99.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/宪法修正案99",
+  "permalink": "/google/宪法/宪法修正案99",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/宪法修正案99.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国宪法修正案（1993年）",
+    "permalink": "/google/宪法/宪法修正案93"
+  },
+  "next": {
+    "title": "中华人民共和国宪法（1982年）",
+    "permalink": "/google/宪法/现行宪法"
+  }
+}

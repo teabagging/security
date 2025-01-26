@@ -1,0 +1,24 @@
+{
+  "id": "医学词库",
+  "title": "医学词库",
+  "description": "精神\t606946",
+  "source": "@site/learn/医学词库.md",
+  "sourceDirName": ".",
+  "slug": "/医学词库",
+  "permalink": "/learn/医学词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/医学词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "动物词库",
+    "permalink": "/learn/动物词库"
+  },
+  "next": {
+    "title": "历史名人词库",
+    "permalink": "/learn/历史名人词库"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/有趣的/有趣的β",
+  "title": "有趣的β",
+  "description": "就业",
+  "source": "@site/learn/中文知识库/有趣的/有趣的β.md",
+  "sourceDirName": "中文知识库/有趣的",
+  "slug": "/中文知识库/有趣的/有趣的β",
+  "permalink": "/learn/中文知识库/有趣的/有趣的β",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/有趣的/有趣的β.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "有趣的α",
+    "permalink": "/learn/中文知识库/有趣的/有趣的α"
+  },
+  "next": {
+    "title": "高效学习",
+    "permalink": "/learn/中文知识库/有趣的/高效学习"
+  }
+}

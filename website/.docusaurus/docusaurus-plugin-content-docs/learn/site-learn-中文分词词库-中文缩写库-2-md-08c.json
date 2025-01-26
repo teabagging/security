@@ -1,0 +1,24 @@
+{
+  "id": "中文分词词库/中文缩写库2",
+  "title": "中文缩写库2",
+  "description": "史地: 历史/n 和/cc 地理/n",
+  "source": "@site/learn/中文分词词库/中文缩写库2.md",
+  "sourceDirName": "中文分词词库",
+  "slug": "/中文分词词库/中文缩写库2",
+  "permalink": "/learn/中文分词词库/中文缩写库2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文分词词库/中文缩写库2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中文缩写库1",
+    "permalink": "/learn/中文分词词库/中文缩写库1"
+  },
+  "next": {
+    "title": "中文缩写库3",
+    "permalink": "/learn/中文分词词库/中文缩写库3"
+  }
+}

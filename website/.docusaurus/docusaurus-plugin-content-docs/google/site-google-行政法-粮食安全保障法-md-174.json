@@ -1,0 +1,24 @@
+{
+  "id": "行政法/粮食安全保障法",
+  "title": "中华人民共和国粮食安全保障法",
+  "description": "2023年12月29日 第十四届全国人民代表大会常务委员会第七次会议通过",
+  "source": "@site/google/行政法/粮食安全保障法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/粮食安全保障法",
+  "permalink": "/google/行政法/粮食安全保障法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/粮食安全保障法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国突发事件应对法",
+    "permalink": "/google/行政法/突发事件应对法"
+  },
+  "next": {
+    "title": "中华人民共和国精神卫生法",
+    "permalink": "/google/行政法/精神卫生法"
+  }
+}

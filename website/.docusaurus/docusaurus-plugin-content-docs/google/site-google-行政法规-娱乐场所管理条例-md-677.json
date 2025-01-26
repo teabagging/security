@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/娱乐场所管理条例",
+  "title": "娱乐场所管理条例",
+  "description": "2006年1月29日 中华人民共和国国务院令第458号公布",
+  "source": "@site/google/行政法规/娱乐场所管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/娱乐场所管理条例",
+  "permalink": "/google/行政法规/娱乐场所管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/娱乐场所管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "女职工劳动保护特别规定",
+    "permalink": "/google/行政法规/女职工劳动保护特别规定"
+  },
+  "next": {
+    "title": "婚姻登记条例",
+    "permalink": "/google/行政法规/婚姻登记条例"
+  }
+}

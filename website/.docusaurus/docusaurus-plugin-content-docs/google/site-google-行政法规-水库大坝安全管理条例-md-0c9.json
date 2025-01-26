@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/水库大坝安全管理条例",
+  "title": "水库大坝安全管理条例",
+  "description": "1991年3月22日 中华人民共和国国务院令第77号发布",
+  "source": "@site/google/行政法规/水库大坝安全管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/水库大坝安全管理条例",
+  "permalink": "/google/行政法规/水库大坝安全管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/水库大坝安全管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国水土保持法实施条例",
+    "permalink": "/google/行政法规/水土保持法实施条例"
+  },
+  "next": {
+    "title": "中华人民共和国水文条例",
+    "permalink": "/google/行政法规/水文条例"
+  }
+}

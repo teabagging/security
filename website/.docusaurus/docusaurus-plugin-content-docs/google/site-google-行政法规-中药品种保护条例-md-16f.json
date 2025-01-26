@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/中药品种保护条例",
+  "title": "中药品种保护条例",
+  "description": "1992年10月14日 中华人民共和国国务院令第106号发布",
+  "source": "@site/google/行政法规/中药品种保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/中药品种保护条例",
+  "permalink": "/google/行政法规/中药品种保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/中药品种保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中央预算执行情况审计监督暂行办法",
+    "permalink": "/google/行政法规/中央预算执行情况审计监督暂行办法"
+  },
+  "next": {
+    "title": "乡村医生从业管理条例",
+    "permalink": "/google/行政法规/乡村医生从业管理条例"
+  }
+}

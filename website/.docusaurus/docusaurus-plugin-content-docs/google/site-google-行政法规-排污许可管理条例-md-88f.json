@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/排污许可管理条例",
+  "title": "排污许可管理条例",
+  "description": "2020年12月9日 国务院第117次常务会议通过",
+  "source": "@site/google/行政法规/排污许可管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/排污许可管理条例",
+  "permalink": "/google/行政法规/排污许可管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/排污许可管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "指导外商投资方向规定",
+    "permalink": "/google/行政法规/指导外商投资方向规定"
+  },
+  "next": {
+    "title": "探矿权采矿权转让管理办法",
+    "permalink": "/google/行政法规/探矿权采矿权转让管理办法"
+  }
+}

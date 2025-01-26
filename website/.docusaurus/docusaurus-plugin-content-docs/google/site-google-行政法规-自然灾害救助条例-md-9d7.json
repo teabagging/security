@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/自然灾害救助条例",
+  "title": "自然灾害救助条例",
+  "description": "2010年7月8日 中华人民共和国国务院令第577号公布",
+  "source": "@site/google/行政法规/自然灾害救助条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/自然灾害救助条例",
+  "permalink": "/google/行政法规/自然灾害救助条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/自然灾害救助条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国自然保护区条例",
+    "permalink": "/google/行政法规/自然保护区条例"
+  },
+  "next": {
+    "title": "中华人民共和国航标条例",
+    "permalink": "/google/行政法规/航标条例"
+  }
+}

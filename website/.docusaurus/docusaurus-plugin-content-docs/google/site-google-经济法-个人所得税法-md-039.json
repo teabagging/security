@@ -1,0 +1,24 @@
+{
+  "id": "经济法/个人所得税法",
+  "title": "中华人民共和国个人所得税法",
+  "description": "1980年9月10日 第五届全国人民代表大会第三次会议通过",
+  "source": "@site/google/经济法/个人所得税法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/个人所得税法",
+  "permalink": "/google/经济法/个人所得税法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/个人所得税法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国预防未成年人犯罪法",
+    "permalink": "/google/社会法/预防未成年人犯罪法"
+  },
+  "next": {
+    "title": "中华人民共和国中国人民银行法",
+    "permalink": "/google/经济法/中国人民银行法"
+  }
+}

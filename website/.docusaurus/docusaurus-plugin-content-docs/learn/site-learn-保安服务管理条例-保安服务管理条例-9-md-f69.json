@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例9",
+  "title": "保安服务管理条例9",
+  "description": "第七章  监督管理",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例9.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例9",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例9",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例8",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例8"
+  },
+  "next": {
+    "title": "公司名字词库",
+    "permalink": "/learn/公司名字词库"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "案例/消费购物/李某诉某书店信息网络买卖合同纠纷案",
+  "title": "对于网络店铺客服的行为店铺应当负责",
+  "description": "消费者权益保护典型案例",
+  "source": "@site/google/案例/消费购物/李某诉某书店信息网络买卖合同纠纷案.md",
+  "sourceDirName": "案例/消费购物",
+  "slug": "/案例/消费购物/李某诉某书店信息网络买卖合同纠纷案",
+  "permalink": "/google/案例/消费购物/李某诉某书店信息网络买卖合同纠纷案",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/案例/消费购物/李某诉某书店信息网络买卖合同纠纷案.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "销售已过保质期的食品，构成经营者“明知”",
+    "permalink": "/google/案例/消费购物/李某与某购物广场买卖合同纠纷案"
+  },
+  "next": {
+    "title": "经营者不能仅以进口食品已经过出入境检验检疫为由主张免责",
+    "permalink": "/google/案例/消费购物/江某诉某信息技术有限公司网络购物合同纠纷一案"
+  }
+}

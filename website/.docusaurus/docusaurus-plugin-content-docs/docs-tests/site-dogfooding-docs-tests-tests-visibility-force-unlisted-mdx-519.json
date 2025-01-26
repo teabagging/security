@@ -1,0 +1,18 @@
+{
+  "id": "tests/visibility/force-unlisted",
+  "title": "force_unlisted_parseFrontMatter_test",
+  "description": "This doc is hidden despite unlisted: false",
+  "source": "@site/_dogfooding/_docs tests/tests/visibility/force-unlisted.mdx",
+  "sourceDirName": "tests/visibility",
+  "slug": "/tests/visibility/force-unlisted",
+  "permalink": "/tests/docs/tests/visibility/force-unlisted",
+  "draft": false,
+  "unlisted": true,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "unlisted": true,
+    "force_unlisted_parseFrontMatter_test": true
+  },
+  "sidebar": "sidebar"
+}

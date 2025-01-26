@@ -1,0 +1,24 @@
+{
+  "id": "行政法/环境噪声污染防治法",
+  "title": "中华人民共和国环境噪声污染防治法",
+  "description": "1996年10月29日 第八届全国人民代表大会常务委员会第二十二次会议通过",
+  "source": "@site/google/行政法/环境噪声污染防治法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/环境噪声污染防治法",
+  "permalink": "/google/行政法/环境噪声污染防治法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/环境噪声污染防治法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国环境保护法",
+    "permalink": "/google/行政法/环境保护法"
+  },
+  "next": {
+    "title": "中华人民共和国环境影响评价法",
+    "permalink": "/google/行政法/环境影响评价法"
+  }
+}

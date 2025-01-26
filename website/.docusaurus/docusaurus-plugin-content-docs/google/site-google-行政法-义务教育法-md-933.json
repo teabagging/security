@@ -1,0 +1,24 @@
+{
+  "id": "行政法/义务教育法",
+  "title": "中华人民共和国义务教育法",
+  "description": "1986年4月12日 第六届全国人民代表大会第四次会议通过",
+  "source": "@site/google/行政法/义务教育法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/义务教育法",
+  "permalink": "/google/行政法/义务教育法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/义务教育法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中国人民解放军军官军衔条例",
+    "permalink": "/google/行政法/中国人民解放军军官军衔条例"
+  },
+  "next": {
+    "title": "中华人民共和国人口与计划生育法",
+    "permalink": "/google/行政法/人口与计划生育法"
+  }
+}

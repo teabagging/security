@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/森林防火条例",
+  "title": "森林防火条例",
+  "description": "1988年1月16日 国务院公布",
+  "source": "@site/google/行政法规/森林防火条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/森林防火条例",
+  "permalink": "/google/行政法规/森林防火条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/森林防火条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "森林采伐更新管理办法",
+    "permalink": "/google/行政法规/森林采伐更新管理办法"
+  },
+  "next": {
+    "title": "中华人民共和国植物新品种保护条例",
+    "permalink": "/google/行政法规/植物新品种保护条例"
+  }
+}

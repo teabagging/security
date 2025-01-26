@@ -1,0 +1,24 @@
+{
+  "id": "宪法/中华人民共和国个人所得税法",
+  "title": "中华人民共和国个人所得税法",
+  "description": "新华社北京8月31日电",
+  "source": "@site/google/宪法/中华人民共和国个人所得税法.md",
+  "sourceDirName": "宪法",
+  "slug": "/宪法/中华人民共和国个人所得税法",
+  "permalink": "/google/宪法/中华人民共和国个人所得税法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法/中华人民共和国个人所得税法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "一九八二年宪法修正案",
+    "permalink": "/google/宪法/一九八二年宪法修正案"
+  },
+  "next": {
+    "title": "中国人民政治协商会议共同纲领",
+    "permalink": "/google/宪法/中国人民政治协商会议共同纲领"
+  }
+}

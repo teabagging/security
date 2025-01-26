@@ -1,0 +1,24 @@
+{
+  "id": "诉讼与非诉讼程序法/行政诉讼法",
+  "title": "中华人民共和国行政诉讼法",
+  "description": "1989年4月4日 第七届全国人民代表大会第二次会议通过",
+  "source": "@site/google/诉讼与非诉讼程序法/行政诉讼法.md",
+  "sourceDirName": "诉讼与非诉讼程序法",
+  "slug": "/诉讼与非诉讼程序法/行政诉讼法",
+  "permalink": "/google/诉讼与非诉讼程序法/行政诉讼法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/诉讼与非诉讼程序法/行政诉讼法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国行政复议法",
+    "permalink": "/google/诉讼与非诉讼程序法/行政复议法"
+  },
+  "next": {
+    "title": "企业职工带薪年休假实施办法",
+    "permalink": "/google/部门规章/人力资源社会保障部/企业职工带薪年休假实施办法"
+  }
+}

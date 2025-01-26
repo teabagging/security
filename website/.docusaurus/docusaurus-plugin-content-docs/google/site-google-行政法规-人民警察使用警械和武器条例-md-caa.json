@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/人民警察使用警械和武器条例",
+  "title": "中华人民共和国人民警察使用警械和武器条例",
+  "description": "1996年1月8日 国务院第41次常务会议通过",
+  "source": "@site/google/行政法规/人民警察使用警械和武器条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/人民警察使用警械和武器条例",
+  "permalink": "/google/行政法规/人民警察使用警械和武器条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/人民警察使用警械和武器条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国人民币管理条例",
+    "permalink": "/google/行政法规/人民币管理条例"
+  },
+  "next": {
+    "title": "人民警察警衔标志式样和佩带办法",
+    "permalink": "/google/行政法规/人民警察警衔标志式样和佩带办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/海关稽查条例",
+  "title": "中华人民共和国海关稽查条例",
+  "description": "1997年1月3日 中华人民共和国国务院令第209号发布",
+  "source": "@site/google/行政法规/海关稽查条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/海关稽查条例",
+  "permalink": "/google/行政法规/海关稽查条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/海关稽查条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国海关总署关于外国驻中国使馆和使馆人员进出境物品的规定",
+    "permalink": "/google/行政法规/海关总署关于外国驻中国使馆和使馆人员进出境物品的规定"
+  },
+  "next": {
+    "title": "中华人民共和国海关统计条例",
+    "permalink": "/google/行政法规/海关统计条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/测绘成果管理条例",
+  "title": "中华人民共和国测绘成果管理条例",
+  "description": "2006年5月17日 国务院第136次常务会议通过",
+  "source": "@site/google/行政法规/测绘成果管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/测绘成果管理条例",
+  "permalink": "/google/行政法规/测绘成果管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/测绘成果管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "流动人口计划生育工作条例",
+    "permalink": "/google/行政法规/流动人口计划生育工作条例"
+  },
+  "next": {
+    "title": "中华人民共和国测量标志保护条例",
+    "permalink": "/google/行政法规/测量标志保护条例"
+  }
+}

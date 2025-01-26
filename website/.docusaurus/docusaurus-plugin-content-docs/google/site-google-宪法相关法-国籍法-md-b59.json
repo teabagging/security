@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/国籍法",
+  "title": "中华人民共和国国籍法",
+  "description": "1980年9月10日 第五届全国人民代表大会第三次会议通过",
+  "source": "@site/google/宪法相关法/国籍法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/国籍法",
+  "permalink": "/google/宪法相关法/国籍法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/国籍法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国国歌法",
+    "permalink": "/google/宪法相关法/国歌法"
+  },
+  "next": {
+    "title": "中华人民共和国国防法",
+    "permalink": "/google/宪法相关法/国防法"
+  }
+}

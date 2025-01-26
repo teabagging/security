@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例41",
+  "title": "保安服务管理条例41",
+  "description": "第四十六条  保安员在保安服务中造成他人人身伤亡、财产损失的，由保安从业单位赔付；保安员有故意或者重大过失的，保安从业单位可以依法向保安员追偿。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例41.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例41",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例41",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例41.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例40",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例40"
+  },
+  "next": {
+    "title": "保安服务管理条例42",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例42"
+  }
+}

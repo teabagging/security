@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外国商会管理暂行规定",
+  "title": "外国商会管理暂行规定",
+  "description": "1989年6月14日 中华人民共和国国务院令第36号发布",
+  "source": "@site/google/行政法规/外国商会管理暂行规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外国商会管理暂行规定",
+  "permalink": "/google/行政法规/外国商会管理暂行规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外国商会管理暂行规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "外国公司船舶运输收入征税办法",
+    "permalink": "/google/行政法规/外国公司船舶运输收入征税办法"
+  },
+  "next": {
+    "title": "外国在华常住人员携带进境物品进口税收暂行规定",
+    "permalink": "/google/行政法规/外国在华常住人员携带进境物品进口税收暂行规定"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例23",
+  "title": "保安服务管理条例23",
+  "description": "第三十一条  保安员有权拒绝执行保安从业单位或者客户单位的违法指令。保安从业单位不得因保安员不执行违法指令而解除与保安员的劳动合同，降低其劳动报酬和其他待遇，或者停缴、少缴依法应当为其缴纳的社会保险费。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例23.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例23",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例23",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例23.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例22",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例22"
+  },
+  "next": {
+    "title": "保安服务管理条例24",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例24"
+  }
+}

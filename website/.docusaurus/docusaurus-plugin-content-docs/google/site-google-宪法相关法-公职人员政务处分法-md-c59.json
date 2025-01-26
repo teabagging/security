@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/公职人员政务处分法",
+  "title": "中华人民共和国公职人员政务处分法",
+  "description": "2020年6月20日 第十三届全国人民代表大会常务委员会第十九次会议通过",
+  "source": "@site/google/宪法相关法/公职人员政务处分法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/公职人员政务处分法",
+  "permalink": "/google/宪法相关法/公职人员政务处分法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/公职人员政务处分法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国全国人民代表大会议事规则",
+    "permalink": "/google/宪法相关法/全国人民代表大会议事规则"
+  },
+  "next": {
+    "title": "中华人民共和国军人地位和权益保障法",
+    "permalink": "/google/宪法相关法/军人地位和权益保障法"
+  }
+}

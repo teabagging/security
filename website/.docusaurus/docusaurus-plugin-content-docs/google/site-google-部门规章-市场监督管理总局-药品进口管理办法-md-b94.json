@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/市场监督管理总局/药品进口管理办法",
+  "title": "药品进口管理办法",
+  "description": "2003年8月18日 食品药品监管局、海关总署第4号令公布",
+  "source": "@site/google/部门规章/市场监督管理总局/药品进口管理办法.md",
+  "sourceDirName": "部门规章/市场监督管理总局",
+  "slug": "/部门规章/市场监督管理总局/药品进口管理办法",
+  "permalink": "/google/部门规章/市场监督管理总局/药品进口管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/市场监督管理总局/药品进口管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "特种设备安全监督检查办法",
+    "permalink": "/google/部门规章/市场监督管理总局/特种设备安全监督检查办法"
+  },
+  "next": {
+    "title": "集成电路布图设计行政执法办法",
+    "permalink": "/google/部门规章/市场监督管理总局/集成电路布图设计行政执法办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/医疗保障基金使用监督管理条例",
+  "title": "医疗保障基金使用监督管理条例",
+  "description": "2020年12月9日 国务院第117次常务会议通过",
+  "source": "@site/google/行政法规/医疗保障基金使用监督管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/医疗保障基金使用监督管理条例",
+  "permalink": "/google/行政法规/医疗保障基金使用监督管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/医疗保障基金使用监督管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "医疗事故处理条例",
+    "permalink": "/google/行政法规/医疗事故处理条例"
+  },
+  "next": {
+    "title": "医疗器械监督管理条例",
+    "permalink": "/google/行政法规/医疗器械监督管理条例"
+  }
+}

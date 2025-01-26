@@ -1,0 +1,24 @@
+{
+  "id": "行政法/道路交通安全法",
+  "title": "中华人民共和国道路交通安全法",
+  "description": "2003年10月28日 第十届全国人民代表大会常务委员会第五次会议通过",
+  "source": "@site/google/行政法/道路交通安全法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/道路交通安全法",
+  "permalink": "/google/行政法/道路交通安全法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/道路交通安全法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国行政许可法",
+    "permalink": "/google/行政法/行政许可法"
+  },
+  "next": {
+    "title": "中华人民共和国防沙治沙法",
+    "permalink": "/google/行政法/防沙治沙法"
+  }
+}

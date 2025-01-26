@@ -1,0 +1,24 @@
+{
+  "id": "宪法相关法/人民法院组织法",
+  "title": "中华人民共和国人民法院组织法",
+  "description": "1979年7月1日 第五届全国人民代表大会第二次会议通过",
+  "source": "@site/google/宪法相关法/人民法院组织法.md",
+  "sourceDirName": "宪法相关法",
+  "slug": "/宪法相关法/人民法院组织法",
+  "permalink": "/google/宪法相关法/人民法院组织法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/宪法相关法/人民法院组织法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国人民检察院组织法",
+    "permalink": "/google/宪法相关法/人民检察院组织法"
+  },
+  "next": {
+    "title": "中华人民共和国人民陪审员法",
+    "permalink": "/google/宪法相关法/人民陪审员法"
+  }
+}

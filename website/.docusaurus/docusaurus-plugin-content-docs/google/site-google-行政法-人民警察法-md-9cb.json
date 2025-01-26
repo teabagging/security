@@ -1,0 +1,24 @@
+{
+  "id": "行政法/人民警察法",
+  "title": "中华人民共和国人民警察法",
+  "description": "1995年2月28日 第八届全国人民代表大会常务委员会第十二次会议通过",
+  "source": "@site/google/行政法/人民警察法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/人民警察法",
+  "permalink": "/google/行政法/人民警察法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/人民警察法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国人民武装警察法",
+    "permalink": "/google/行政法/人民武装警察法"
+  },
+  "next": {
+    "title": "中华人民共和国人民警察警衔条例",
+    "permalink": "/google/行政法/人民警察警衔条例"
+  }
+}

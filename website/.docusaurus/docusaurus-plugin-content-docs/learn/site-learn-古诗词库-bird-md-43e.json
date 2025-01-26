@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/bird",
+  "title": "bird",
+  "description": "枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。",
+  "source": "@site/learn/古诗词库/bird.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/bird",
+  "permalink": "/learn/古诗词库/bird",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/bird.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "历史名人词库",
+    "permalink": "/learn/历史名人词库"
+  },
+  "next": {
+    "title": "boudoirripinings",
+    "permalink": "/learn/古诗词库/boudoirripinings"
+  }
+}

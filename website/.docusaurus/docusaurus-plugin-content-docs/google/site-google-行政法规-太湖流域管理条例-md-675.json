@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/太湖流域管理条例",
+  "title": "太湖流域管理条例",
+  "description": "2011年8月24日 国务院第169次常务会议通过",
+  "source": "@site/google/行政法规/太湖流域管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/太湖流域管理条例",
+  "permalink": "/google/行政法规/太湖流域管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/太湖流域管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "大型群众性活动安全管理条例",
+    "permalink": "/google/行政法规/大型群众性活动安全管理条例"
+  },
+  "next": {
+    "title": "失业保险条例",
+    "permalink": "/google/行政法规/失业保险条例"
+  }
+}

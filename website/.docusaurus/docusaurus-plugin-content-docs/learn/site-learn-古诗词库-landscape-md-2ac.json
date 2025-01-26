@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/landscape",
+  "title": "landscape",
+  "description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。",
+  "source": "@site/learn/古诗词库/landscape.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/landscape",
+  "permalink": "/learn/古诗词库/landscape",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/landscape.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "horse",
+    "permalink": "/learn/古诗词库/horse"
+  },
+  "next": {
+    "title": "love",
+    "permalink": "/learn/古诗词库/love"
+  }
+}

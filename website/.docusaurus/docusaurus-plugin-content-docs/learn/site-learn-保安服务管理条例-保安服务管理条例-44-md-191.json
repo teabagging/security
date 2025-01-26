@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例44",
+  "title": "保安服务管理条例44",
+  "description": "第六章  保安培训单位",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例44.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例44",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例44",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例44.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例43",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例43"
+  },
+  "next": {
+    "title": "保安服务管理条例45",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例45"
+  }
+}

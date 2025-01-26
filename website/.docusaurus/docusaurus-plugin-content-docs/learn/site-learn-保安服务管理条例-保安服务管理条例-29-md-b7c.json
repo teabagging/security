@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例29",
+  "title": "保安服务管理条例29",
+  "description": "第二十二条  设区的市级以上地方人民政府确定的关系国家安全、涉及国家秘密等治安保卫重点单位不得聘请外商独资、中外合资、中外合作的保安服务公司提供保安服务。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例29.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例29",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例29",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例29.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例28",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例28"
+  },
+  "next": {
+    "title": "保安服务管理条例3",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例3"
+  }
+}

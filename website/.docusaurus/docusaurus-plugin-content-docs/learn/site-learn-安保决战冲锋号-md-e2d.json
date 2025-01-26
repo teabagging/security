@@ -1,0 +1,24 @@
+{
+  "id": "安保决战冲锋号",
+  "title": "安保决战冲锋号",
+  "description": "6月27日上午，全省保安服务行业亚运安保决战宣誓活动在杭州城市阳台举行。本场活动由省公安厅治安管理总队、杭州市公安局基层基础管理支队联合主办，浙江省保安协会、杭州市保安协会承办。",
+  "source": "@site/learn/安保决战冲锋号.md",
+  "sourceDirName": ".",
+  "slug": "/安保决战冲锋号",
+  "permalink": "/learn/安保决战冲锋号",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/安保决战冲锋号.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "娱乐场所管理条例",
+    "permalink": "/learn/娱乐场所管理条例"
+  },
+  "next": {
+    "title": "安防女神",
+    "permalink": "/learn/安防女神"
+  }
+}

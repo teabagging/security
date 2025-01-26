@@ -1,0 +1,21 @@
+{
+  "id": "support",
+  "title": "Support",
+  "description": "📊GoogleSheet",
+  "source": "@site/learn/0-support.mdx",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/learn/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/0-support.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "next": {
+    "title": "专职守护押运人员枪支使用管理条例",
+    "permalink": "/learn/专职守护押运人员枪支使用管理条例"
+  }
+}

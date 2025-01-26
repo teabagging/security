@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/防汛条例",
+  "title": "中华人民共和国防汛条例",
+  "description": "1991年7月2日 中华人民共和国国务院令第86号公布",
+  "source": "@site/google/行政法规/防汛条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/防汛条例",
+  "permalink": "/google/行政法规/防汛条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/防汛条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "防止拆船污染环境管理条例",
+    "permalink": "/google/行政法规/防止拆船污染环境管理条例"
+  },
+  "next": {
+    "title": "中华人民共和国防治海岸工程建设项目污染损害海洋环境管理条例",
+    "permalink": "/google/行政法规/防治海岸工程建设项目污染损害海洋环境管理条例"
+  }
+}

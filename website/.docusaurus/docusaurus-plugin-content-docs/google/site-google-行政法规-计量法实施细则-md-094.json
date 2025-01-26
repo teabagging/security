@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/计量法实施细则",
+  "title": "中华人民共和国计量法实施细则",
+  "description": "1987年1月19日 国务院批准",
+  "source": "@site/google/行政法规/计量法实施细则.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/计量法实施细则",
+  "permalink": "/google/行政法规/计量法实施细则",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/计量法实施细则.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "计算机软件保护条例",
+    "permalink": "/google/行政法规/计算机软件保护条例"
+  },
+  "next": {
+    "title": "中华人民共和国认证认可条例",
+    "permalink": "/google/行政法规/认证认可条例"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例43",
+  "title": "保安服务管理条例43",
+  "description": "第三十三条  申请从事保安培训的单位，应当向所在地设区的市级人民政府公安机关提交申请书以及能够证明其符合本条例第三十二条规定条件的材料。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例43.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例43",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例43",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例43.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例42",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例42"
+  },
+  "next": {
+    "title": "保安服务管理条例44",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例44"
+  }
+}

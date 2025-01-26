@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/乡村医生从业管理条例",
+  "title": "乡村医生从业管理条例",
+  "description": "2003年7月30日 国务院第16次常务会议通过",
+  "source": "@site/google/行政法规/乡村医生从业管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/乡村医生从业管理条例",
+  "permalink": "/google/行政法规/乡村医生从业管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/乡村医生从业管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中药品种保护条例",
+    "permalink": "/google/行政法规/中药品种保护条例"
+  },
+  "next": {
+    "title": "中华人民共和国乡村集体所有制企业条例",
+    "permalink": "/google/行政法规/乡村集体所有制企业条例"
+  }
+}

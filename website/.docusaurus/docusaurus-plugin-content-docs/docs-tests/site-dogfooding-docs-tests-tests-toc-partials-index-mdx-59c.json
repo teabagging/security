@@ -1,0 +1,23 @@
+{
+  "id": "tests/toc-partials/index",
+  "title": "TOC partial test",
+  "description": "This page tests that MDX-imported content appears correctly in the table-of-contents",
+  "source": "@site/_dogfooding/_docs tests/tests/toc-partials/index.mdx",
+  "sourceDirName": "tests/toc-partials",
+  "slug": "/tests/toc-partials/",
+  "permalink": "/tests/docs/tests/toc-partials/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Test links",
+    "permalink": "/tests/docs/tests/links/test-markdown-links"
+  },
+  "next": {
+    "title": "Visibility",
+    "permalink": "/tests/docs/tests/visibility/"
+  }
+}

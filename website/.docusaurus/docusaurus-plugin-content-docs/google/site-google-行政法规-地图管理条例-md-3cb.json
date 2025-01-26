@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/地图管理条例",
+  "title": "地图管理条例",
+  "description": "2015年11月11日 国务院第111次常务会议通过",
+  "source": "@site/google/行政法规/地图管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/地图管理条例",
+  "permalink": "/google/行政法规/地图管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/地图管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "地名管理条例",
+    "permalink": "/google/行政法规/地名管理条例"
+  },
+  "next": {
+    "title": "地方口岸管理机构职责范围暂行规定",
+    "permalink": "/google/行政法规/地方口岸管理机构职责范围暂行规定"
+  }
+}

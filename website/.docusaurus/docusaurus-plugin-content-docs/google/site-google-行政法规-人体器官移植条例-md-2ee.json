@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/人体器官移植条例",
+  "title": "人体器官移植条例",
+  "description": "2007年3月21日 国务院第171次常务会议通过",
+  "source": "@site/google/行政法规/人体器官移植条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/人体器官移植条例",
+  "permalink": "/google/行政法规/人体器官移植条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/人体器官移植条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "产品质量监督试行办法",
+    "permalink": "/google/行政法规/产品质量监督试行办法"
+  },
+  "next": {
+    "title": "人力资源市场暂行条例",
+    "permalink": "/google/行政法规/人力资源市场暂行条例"
+  }
+}

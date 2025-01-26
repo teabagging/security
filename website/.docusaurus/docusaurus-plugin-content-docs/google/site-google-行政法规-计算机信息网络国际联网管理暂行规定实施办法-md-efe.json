@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/计算机信息网络国际联网管理暂行规定实施办法",
+  "title": "中华人民共和国计算机信息网络国际联网管理暂行规定实施办法",
+  "description": "第一条 为了加强对计算机信息网络国际联网的管理，保障国际计算机信息交流的健康发展，根据《中华人民共和国计算机信息网络国际联网管理暂行规定》（以下简称《暂行规定》），制定本办法。",
+  "source": "@site/google/行政法规/计算机信息网络国际联网管理暂行规定实施办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/计算机信息网络国际联网管理暂行规定实施办法",
+  "permalink": "/google/行政法规/计算机信息网络国际联网管理暂行规定实施办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/计算机信息网络国际联网管理暂行规定实施办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+    "permalink": "/google/行政法规/计算机信息网络国际联网管理暂行规定"
+  },
+  "next": {
+    "title": "计算机软件保护条例",
+    "permalink": "/google/行政法规/计算机软件保护条例"
+  }
+}

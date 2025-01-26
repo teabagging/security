@@ -1,0 +1,24 @@
+{
+  "id": "行政法/国家通用语言文字法",
+  "title": "中华人民共和国国家通用语言文字法",
+  "description": "2000年10月31日 第九届全国人民代表大会常务委员会第十八次会议通过",
+  "source": "@site/google/行政法/国家通用语言文字法.md",
+  "sourceDirName": "行政法",
+  "slug": "/行政法/国家通用语言文字法",
+  "permalink": "/google/行政法/国家通用语言文字法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法/国家通用语言文字法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国国家情报法",
+    "permalink": "/google/行政法/国家情报法"
+  },
+  "next": {
+    "title": "中华人民共和国国防交通法",
+    "permalink": "/google/行政法/国防交通法"
+  }
+}

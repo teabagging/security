@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/长江三峡水利枢纽安全保卫条例",
+  "title": "长江三峡水利枢纽安全保卫条例",
+  "description": "2013年7月12日 国务院第16次常务会议通过",
+  "source": "@site/google/行政法规/长江三峡水利枢纽安全保卫条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/长江三峡水利枢纽安全保卫条例",
+  "permalink": "/google/行政法规/长江三峡水利枢纽安全保卫条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/长江三峡水利枢纽安全保卫条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "长江三峡工程建设移民条例",
+    "permalink": "/google/行政法规/长江三峡工程建设移民条例"
+  },
+  "next": {
+    "title": "长江河道采砂管理条例",
+    "permalink": "/google/行政法规/长江河道采砂管理条例"
+  }
+}

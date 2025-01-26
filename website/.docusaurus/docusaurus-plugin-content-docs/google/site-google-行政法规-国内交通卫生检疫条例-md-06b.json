@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/国内交通卫生检疫条例",
+  "title": "国内交通卫生检疫条例",
+  "description": "1998年11月28日 中华人民共和国国务院令第254号发布",
+  "source": "@site/google/行政法规/国内交通卫生检疫条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/国内交通卫生检疫条例",
+  "permalink": "/google/行政法规/国内交通卫生检疫条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/国内交通卫生检疫条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "商用密码管理条例",
+    "permalink": "/google/行政法规/商用密码管理条例"
+  },
+  "next": {
+    "title": "国内水路运输管理条例",
+    "permalink": "/google/行政法规/国内水路运输管理条例"
+  }
+}

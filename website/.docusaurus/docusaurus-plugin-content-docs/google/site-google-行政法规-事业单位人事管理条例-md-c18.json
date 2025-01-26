@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/事业单位人事管理条例",
+  "title": "事业单位人事管理条例",
+  "description": "2014年2月26日 国务院第40次常务会议通过",
+  "source": "@site/google/行政法规/事业单位人事管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/事业单位人事管理条例",
+  "permalink": "/google/行政法规/事业单位人事管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/事业单位人事管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "乳品质量安全监督管理条例",
+    "permalink": "/google/行政法规/乳品质量安全监督管理条例"
+  },
+  "next": {
+    "title": "事业单位登记管理暂行条例",
+    "permalink": "/google/行政法规/事业单位登记管理暂行条例"
+  }
+}

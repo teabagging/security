@@ -1,0 +1,23 @@
+{
+  "id": "tests/custom-props/doc-without-custom-props",
+  "title": "Doc Without Custom Props",
+  "description": "This doc doesn't have custom props.",
+  "source": "@site/_dogfooding/_docs tests/tests/custom-props/doc-without-custom-props.mdx",
+  "sourceDirName": "tests/custom-props",
+  "slug": "/tests/custom-props/doc-without-custom-props",
+  "permalink": "/tests/docs/tests/custom-props/doc-without-custom-props",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Doc with Custom Props",
+    "permalink": "/tests/docs/tests/custom-props/doc-with-custom-props"
+  },
+  "next": {
+    "title": "Image tests",
+    "permalink": "/tests/docs/tests/img-tests"
+  }
+}

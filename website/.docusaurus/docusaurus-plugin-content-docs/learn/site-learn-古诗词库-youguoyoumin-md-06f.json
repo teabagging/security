@@ -1,0 +1,24 @@
+{
+  "id": "古诗词库/youguoyoumin",
+  "title": "youguoyoumin",
+  "description": "国破山河在，城春草木深。感时花溅泪，恨别鸟惊心。 烽火连三月，家书抵万金。白头搔更短，浑欲不胜簪。",
+  "source": "@site/learn/古诗词库/youguoyoumin.md",
+  "sourceDirName": "古诗词库",
+  "slug": "/古诗词库/youguoyoumin",
+  "permalink": "/learn/古诗词库/youguoyoumin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/古诗词库/youguoyoumin.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "yongshihuaigu",
+    "permalink": "/learn/古诗词库/yongshihuaigu"
+  },
+  "next": {
+    "title": "哈工大停用词表",
+    "permalink": "/learn/哈工大停用词表"
+  }
+}

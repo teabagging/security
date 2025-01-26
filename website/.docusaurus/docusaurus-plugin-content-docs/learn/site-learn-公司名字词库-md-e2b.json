@@ -1,0 +1,24 @@
+{
+  "id": "公司名字词库",
+  "title": "公司名字词库",
+  "description": "By@萌名NameMoe",
+  "source": "@site/learn/公司名字词库.md",
+  "sourceDirName": ".",
+  "slug": "/公司名字词库",
+  "permalink": "/learn/公司名字词库",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/公司名字词库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例9",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例9"
+  },
+  "next": {
+    "title": "公安机关实施保安服务管理条例办法",
+    "permalink": "/learn/公安机关实施保安服务管理条例办法"
+  }
+}

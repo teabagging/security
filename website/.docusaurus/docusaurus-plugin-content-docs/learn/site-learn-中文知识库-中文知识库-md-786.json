@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/中文知识库",
+  "title": "中文知识库",
+  "description": "<!--",
+  "source": "@site/learn/中文知识库/中文知识库.md",
+  "sourceDirName": "中文知识库",
+  "slug": "/中文知识库/",
+  "permalink": "/learn/中文知识库/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/中文知识库.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "词库地址",
+    "permalink": "/learn/中文分词词库/词库地址"
+  },
+  "next": {
+    "title": "LaTeX汉语",
+    "permalink": "/learn/中文知识库/LaTeX汉语"
+  }
+}

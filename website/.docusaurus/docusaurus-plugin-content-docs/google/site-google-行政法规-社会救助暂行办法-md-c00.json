@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/社会救助暂行办法",
+  "title": "社会救助暂行办法",
+  "description": "2014年2月21日 中华人民共和国国务院令第649号公布",
+  "source": "@site/google/行政法规/社会救助暂行办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/社会救助暂行办法",
+  "permalink": "/google/行政法规/社会救助暂行办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/社会救助暂行办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "社会抚养费征收管理办法",
+    "permalink": "/google/行政法规/社会抚养费征收管理办法"
+  },
+  "next": {
+    "title": "票据管理实施办法",
+    "permalink": "/google/行政法规/票据管理实施办法"
+  }
+}

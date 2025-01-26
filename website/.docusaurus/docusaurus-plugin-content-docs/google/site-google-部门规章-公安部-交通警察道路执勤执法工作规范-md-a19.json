@@ -1,0 +1,24 @@
+{
+  "id": "部门规章/公安部/交通警察道路执勤执法工作规范",
+  "title": "交通警察道路执勤执法工作规范",
+  "description": "第一条 为了规范交通警察道路执勤执法行为，维护道路交通秩序，保障道路交通安全畅通，根据《中华人民共和国道路交通安全法》及其他有关规定，制定本规范。",
+  "source": "@site/google/部门规章/公安部/交通警察道路执勤执法工作规范.md",
+  "sourceDirName": "部门规章/公安部",
+  "slug": "/部门规章/公安部/交通警察道路执勤执法工作规范",
+  "permalink": "/google/部门规章/公安部/交通警察道路执勤执法工作规范",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/部门规章/公安部/交通警察道路执勤执法工作规范.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "关于职工全年月平均工作时间和工资折算问题的通知",
+    "permalink": "/google/部门规章/人力资源社会保障部/关于职工全年月平均工作时间和工资折算问题的通知"
+  },
+  "next": {
+    "title": "公安机关办理刑事案件程序规定",
+    "permalink": "/google/部门规章/公安部/公安机关办理刑事案件程序规定"
+  }
+}

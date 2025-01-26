@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/中外合资经营企业合营期限暂行规定",
+  "title": "中外合资经营企业合营期限暂行规定",
+  "description": "1990年9月30日 国务院批准",
+  "source": "@site/google/行政法规/中外合资经营企业合营期限暂行规定.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/中外合资经营企业合营期限暂行规定",
+  "permalink": "/google/行政法规/中外合资经营企业合营期限暂行规定",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/中外合资经营企业合营期限暂行规定.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国中外合作经营企业法实施细则",
+    "permalink": "/google/行政法规/中外合作经营企业法实施细则"
+  },
+  "next": {
+    "title": "中华人民共和国中外合资经营企业法实施条例",
+    "permalink": "/google/行政法规/中外合资经营企业法实施条例"
+  }
+}

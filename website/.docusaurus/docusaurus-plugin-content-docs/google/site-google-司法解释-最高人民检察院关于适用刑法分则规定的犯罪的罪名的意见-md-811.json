@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见",
+  "title": "最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见",
+  "description": "1997年12月17日 最高人民检察院检察委员会第八届第八十一次会议通过",
+  "source": "@site/google/司法解释/最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见",
+  "permalink": "/google/司法解释/最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/最高人民检察院关于适用刑法分则规定的犯罪的罪名的意见.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民检察院关于检察工作中具体适用修订刑法第十二条若干问题的通知",
+    "permalink": "/google/司法解释/最高人民检察院关于检察工作中具体适用修订刑法第十二条若干问题的通知"
+  },
+  "next": {
+    "title": "中华人民共和国宪法",
+    "permalink": "/google/宪法/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/外国人在中华人民共和国收养子女登记办法",
+  "title": "外国人在中华人民共和国收养子女登记办法",
+  "description": "1999年5月12日 国务院批准",
+  "source": "@site/google/行政法规/外国人在中华人民共和国收养子女登记办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/外国人在中华人民共和国收养子女登记办法",
+  "permalink": "/google/行政法规/外国人在中华人民共和国收养子女登记办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/外国人在中华人民共和国收养子女登记办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国外国人入境出境管理条例",
+    "permalink": "/google/行政法规/外国人入境出境管理条例"
+  },
+  "next": {
+    "title": "外国人来华登山管理办法",
+    "permalink": "/google/行政法规/外国人来华登山管理办法"
+  }
+}

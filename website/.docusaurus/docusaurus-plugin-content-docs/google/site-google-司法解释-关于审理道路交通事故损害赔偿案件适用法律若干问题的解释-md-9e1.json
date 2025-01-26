@@ -1,0 +1,24 @@
+{
+  "id": "司法解释/关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
+  "title": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
+  "description": "2012年9月17日 最高人民法院审判委员会第1556次会议通过",
+  "source": "@site/google/司法解释/关于审理道路交通事故损害赔偿案件适用法律若干问题的解释.md",
+  "sourceDirName": "司法解释",
+  "slug": "/司法解释/关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
+  "permalink": "/google/司法解释/关于审理道路交通事故损害赔偿案件适用法律若干问题的解释",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/司法解释/关于审理道路交通事故损害赔偿案件适用法律若干问题的解释.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "最高人民法院关于审理走私、非法经营、非法使用兴奋剂刑事案件适用法律若干问题的解释",
+    "permalink": "/google/司法解释/关于审理走私、非法经营、非法使用兴奋剂刑事案件适用法律若干问题的解释"
+  },
+  "next": {
+    "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+    "permalink": "/google/司法解释/关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释"
+  }
+}

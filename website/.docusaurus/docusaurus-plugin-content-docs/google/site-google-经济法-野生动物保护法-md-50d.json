@@ -1,0 +1,24 @@
+{
+  "id": "经济法/野生动物保护法",
+  "title": "中华人民共和国野生动物保护法",
+  "description": "1988年11月8日 第七届全国人民代表大会常务委员会第四次会议通过",
+  "source": "@site/google/经济法/野生动物保护法.md",
+  "sourceDirName": "经济法",
+  "slug": "/经济法/野生动物保护法",
+  "permalink": "/google/经济法/野生动物保护法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/经济法/野生动物保护法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国邮政法",
+    "permalink": "/google/经济法/邮政法"
+  },
+  "next": {
+    "title": "中华人民共和国铁路法",
+    "permalink": "/google/经济法/铁路法"
+  }
+}

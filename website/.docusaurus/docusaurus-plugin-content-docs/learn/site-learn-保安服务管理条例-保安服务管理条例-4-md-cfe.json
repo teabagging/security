@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例4",
+  "title": "保安服务管理条例4",
+  "description": "第六条  保安服务活动应当文明、合法，不得损害社会公共利益或者侵犯他人合法权益。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例4.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例4",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例4",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例4.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例39",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例39"
+  },
+  "next": {
+    "title": "保安服务管理条例40",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例40"
+  }
+}

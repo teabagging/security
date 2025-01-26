@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/土地复垦条例",
+  "title": "土地复垦条例",
+  "description": "2011年2月22日 国务院第145次常务会议通过",
+  "source": "@site/google/行政法规/土地复垦条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/土地复垦条例",
+  "permalink": "/google/行政法规/土地复垦条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/土地复垦条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国土地增值税暂行条例",
+    "permalink": "/google/行政法规/土地增值税暂行条例"
+  },
+  "next": {
+    "title": "中华人民共和国土地管理法实施条例",
+    "permalink": "/google/行政法规/土地管理法实施条例"
+  }
+}

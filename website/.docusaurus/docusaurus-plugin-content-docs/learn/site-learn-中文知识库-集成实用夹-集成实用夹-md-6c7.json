@@ -1,0 +1,24 @@
+{
+  "id": "中文知识库/集成实用夹/集成实用夹",
+  "title": "集成实用夹",
+  "description": "考驾照",
+  "source": "@site/learn/中文知识库/集成实用夹/集成实用夹.md",
+  "sourceDirName": "中文知识库/集成实用夹",
+  "slug": "/中文知识库/集成实用夹/",
+  "permalink": "/learn/中文知识库/集成实用夹/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/中文知识库/集成实用夹/集成实用夹.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "个人电脑软件备忘录",
+    "permalink": "/learn/中文知识库/软件分享及网页备份/个人电脑软件备忘录"
+  },
+  "next": {
+    "title": "GitHub徽章",
+    "permalink": "/learn/中文知识库/集成实用夹/GitHub徽章"
+  }
+}

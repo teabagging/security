@@ -1,0 +1,24 @@
+{
+  "id": "刑法/刑法修正案11",
+  "title": "中华人民共和国刑法修正案（十一）",
+  "description": "2020年12月26日 第十三届全国人民代表大会常务委员会第二十四次会议通过",
+  "source": "@site/google/刑法/刑法修正案11.md",
+  "sourceDirName": "刑法",
+  "slug": "/刑法/刑法修正案11",
+  "permalink": "/google/刑法/刑法修正案11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/刑法/刑法修正案11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国刑法修正案（十）",
+    "permalink": "/google/刑法/刑法修正案10"
+  },
+  "next": {
+    "title": "中华人民共和国刑法修正案（十二）",
+    "permalink": "/google/刑法/刑法修正案12"
+  }
+}

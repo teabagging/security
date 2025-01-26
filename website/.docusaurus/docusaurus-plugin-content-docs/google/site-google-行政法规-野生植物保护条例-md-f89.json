@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/野生植物保护条例",
+  "title": "中华人民共和国野生植物保护条例",
+  "description": "1996年9月30日 中华人民共和国国务院令第204号发布",
+  "source": "@site/google/行政法规/野生植物保护条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/野生植物保护条例",
+  "permalink": "/google/行政法规/野生植物保护条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/野生植物保护条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "重新组建仲裁机构方案",
+    "permalink": "/google/行政法规/重新组建仲裁机构方案"
+  },
+  "next": {
+    "title": "野生药材资源保护管理条例",
+    "permalink": "/google/行政法规/野生药材资源保护管理条例"
+  }
+}

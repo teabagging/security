@@ -1,0 +1,24 @@
+{
+  "id": "保安服务管理条例/保安服务管理条例31",
+  "title": "保安服务管理条例31",
+  "description": "第二十八条  保安从业单位应当根据保安服务岗位的需要为保安员配备所需的装备。保安服务岗位装备配备标准由国务院公安部门规定。",
+  "source": "@site/learn/保安服务管理条例/保安服务管理条例31.md",
+  "sourceDirName": "保安服务管理条例",
+  "slug": "/保安服务管理条例/保安服务管理条例31",
+  "permalink": "/learn/保安服务管理条例/保安服务管理条例31",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/保安服务管理条例/保安服务管理条例31.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "保安服务管理条例30",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例30"
+  },
+  "next": {
+    "title": "保安服务管理条例32",
+    "permalink": "/learn/保安服务管理条例/保安服务管理条例32"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/广告管理条例",
+  "title": "广告管理条例",
+  "description": "第一条 为了加强广告管理，推动广告事业的发展，有效地利用广告媒介为社会主义建设服务，制定本条例。",
+  "source": "@site/google/行政法规/广告管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/广告管理条例",
+  "permalink": "/google/行政法规/广告管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/广告管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "幼儿园管理条例",
+    "permalink": "/google/行政法规/幼儿园管理条例"
+  },
+  "next": {
+    "title": "广播电台电视台播放录音制品支付报酬暂行办法",
+    "permalink": "/google/行政法规/广播电台电视台播放录音制品支付报酬暂行办法"
+  }
+}

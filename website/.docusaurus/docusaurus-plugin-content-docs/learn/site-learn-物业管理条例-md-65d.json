@@ -1,0 +1,24 @@
+{
+  "id": "物业管理条例",
+  "title": "物业管理条例",
+  "description": "（2003年6月8日中华人民共和国国务院令第379号公布     2007年8月26日修订）",
+  "source": "@site/learn/物业管理条例.md",
+  "sourceDirName": ".",
+  "slug": "/物业管理条例",
+  "permalink": "/learn/物业管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/learn/物业管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "深圳市安全防范行业协会",
+    "permalink": "/learn/深圳市安全防范行业协会"
+  },
+  "next": {
+    "title": "用人单位必须为职工办理社会保险",
+    "permalink": "/learn/用人单位必须为职工办理社会保险"
+  }
+}

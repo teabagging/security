@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/进口影片管理办法",
+  "title": "进口影片管理办法",
+  "description": "1981年10月13日 国务院批准",
+  "source": "@site/google/行政法规/进口影片管理办法.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/进口影片管理办法",
+  "permalink": "/google/行政法规/进口影片管理办法",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/进口影片管理办法.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "中华人民共和国进出境动植物检疫法实施条例",
+    "permalink": "/google/行政法规/进出境动植物检疫法实施条例"
+  },
+  "next": {
+    "title": "中华人民共和国进口计量器具监督管理办法",
+    "permalink": "/google/行政法规/进口计量器具监督管理办法"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "行政法规/公共场所卫生管理条例",
+  "title": "公共场所卫生管理条例",
+  "description": "1987年4月1日 国务院发布",
+  "source": "@site/google/行政法规/公共场所卫生管理条例.md",
+  "sourceDirName": "行政法规",
+  "slug": "/行政法规/公共场所卫生管理条例",
+  "permalink": "/google/行政法规/公共场所卫生管理条例",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/teabagging/security/edit/main/website/google/行政法规/公共场所卫生管理条例.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "devDocsSidebar",
+  "previous": {
+    "title": "全民所有制工业企业转换经营机制条例",
+    "permalink": "/google/行政法规/全民所有制工业企业转换经营机制条例"
+  },
+  "next": {
+    "title": "公共文化体育设施条例",
+    "permalink": "/google/行政法规/公共文化体育设施条例"
+  }
+}
