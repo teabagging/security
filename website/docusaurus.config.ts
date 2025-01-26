@@ -117,7 +117,7 @@ export default async function createConfigAsync() {
     projectName: '中国保安协会',
     baseUrl,
     baseUrlIssueBanner: true,
-    url: 'https://www.123j.com',
+    url: 'https://www.6n7n.com',
 
 
     trailingSlash: isDeployPreview,
@@ -471,9 +471,6 @@ export default async function createConfigAsync() {
           height: 32,
         },
         items: [
-          {to: 'wu', label: '城市', position: 'left'},
-          
-        
           {
             to: '/learn/support',
             label: '保安',
